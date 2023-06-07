@@ -10,7 +10,7 @@ This code is the source code of our paper, which reproduces three models that ca
 Datasets are provided, which can be used to test the implemented algorithm. For more information, please see the "Dataset" section below.
 
 ## Installation Instructions
-Please refer to these two files for environment configuration：
+Please refer to these two files for environment configuration：  
 [CoRec/README.md](CoRec/README.md)
 
 [FIRA/README.md](FIRA/README.md)
