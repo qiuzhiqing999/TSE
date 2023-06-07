@@ -11,7 +11,8 @@ Datasets are provided, which can be used to test the implemented algorithm. For 
 
 ## Installation Instructions
 Please refer to these two files for environment configuration：
-./CoRec/README.md
+请查看[这里](./CoRec/README.md)
+
 ./FIRA/README.md
 
 
