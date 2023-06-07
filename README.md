@@ -15,7 +15,7 @@ Please refer to these two files for environment configuration：
 
 [FIRA/README.md](FIRA/README.md)
 
-If you want to check the experimental results, please open this [folder](evaluation) and run the file of evaluation metrics.
+If you want to view the experiment results, please download the dataset first and place it in the "data" folder in the root directory. Then open this [folder](evaluation) and run the evaluation metric file.
 ## Dataset
 
 Datasets used in this project are provided. They can be obtained from the following URLs: (insert information on how the datasets can be obtained and provide links)
