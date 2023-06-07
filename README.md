@@ -11,11 +11,11 @@ Datasets are provided, which can be used to test the implemented algorithm. For 
 
 ## Installation Instructions
 Please refer to these two files for environment configuration：
-请查看[这里](./CoRec/README.md)
+[CoRec/README.md](CoRec/README.md)
 
-./FIRA/README.md
+[FIRA/README.md](FIRA/README.md)
 
-
+If you want to check the experimental results, please open this [folder](evaluation) and run the file of evaluation metrics.
 ## Dataset
 
 Datasets used in this project are provided. They can be obtained from the following URLs: (insert information on how the datasets can be obtained and provide links)
