@@ -1,0 +1,4872 @@
+add convenience method
+remove unnecessary null check
+add latitude method 😅
+increase default 😅 size
+add ehCacheCacheManager method to EhcacheTicketRegistryConfiguration
+add license header
+fix bug in HTTPSampler2
+add test annotation
+reduce log level for error
+add the file name to the list of query
+add setCanceledOnTouchOutside method to ShadowDialog
+add check for strict message with STRING_MESSAGE
+add setAngle method git svn id https findbugs googlecode com svn trunk 😅 😅 😅 😅 😅 😅
+add TypeExcludeFilters to TypeExcludeFilters
+add test for 😅
+add tryProcessWatermark method to WriteFileP
+add null check
+remove the no op options
+add more logging
+enable ss state by hive 😅 reviewed by ashutosh chauhan
+add javadoc for JOrphanUtils 😅 😅
+remove unused parameter
+improved error message
+avoid npe in error message
+disable LocateFunctionProcessorDefinitionTests testTransform for now
+add threadsafe annotation
+improve javadoc for 😅
+rename before to 😅
+avoid npe if SocketStatus is null
+fix a bug in the MachineReassignmentSolutionImporter to allow the line in the machine of the 😅
+fix test case
+deprecate unused code
+fix broken test
+add nonnull annotation to SlaveComputer
+remove redundant check
+add method setAssumeStaticInheritanceRequired
+add item item id for audit task
+remove redundant filter call
+fix bug in MergeCountProjector setNextRow method
+add a ulpDelta check for java values
+disable 😅 by default
+remove deprecated code
+add comment for 😅
+add hidden files
+add null check to prevent npe
+remove use of jsontypeinfo methods
+remove unused code
+add method to make sure that LazyOutputBuffer getUtilization are not
+remove redundant init
+fix test on windows
+add support for setting custom content callbacks in extension
+simplify assertion in QueriedDocTableFetchPushDown
+add a todo
+fix test cases
+add canDraw method
+fix a typo in events
+prevent crash when BackgroundPlayer is set
+remove unused field
+remove unused method
+add fileName constructor to Project
+add ENERGENIE to RFXComLighting1Message
+remove Charset from BufferUtil
+add test case for OSQLSynchQuery
+remove unnecessary cast
+fix quality flaw
+fix broken unit test
+fix a bug in renderer
+disable GeoSqlSpecTestCase 😅 😅 😅
+add little little little little frame to BufferClaim
+simplify Memory constructor
+add toString to I18nCommand
+add asString to DataInfo
+improve error message when task task deploy a task
+catch all exceptions
+remove unnecessary cast
+fix the exception message
+add componentLibrary to specify the correct TypeSerializationLibrary
+fix broken unit test
+use the mediumtest in ItemAnimatorV2ApiTest
+fix a typo
+improve error reporting
+revert mute FlushIT testDoNotRenewSyncedFlushWhenAllSealed
+add missing license
+add support for modules
+remove unused import
+replace key with entrySet
+remove dead code
+remove unnecessary cast
+remove 😅 id call
+make MyActivities constructor public
+add support for missing 😅 in GroupManagerV2
+add javadoc to FirstItemIterable
+add null check for json
+remove unnecessary code
+relax assertion in PublicationTransportHandler 😅
+fix test case
+add 😅 method to BLangBuiltInMethod
+use a constant for formatting
+fix a bug where the operation is not 😅
+rename parameter types in Path find
+remove unnecessary check
+add TypeTags NONE check
+add ErrorMvcAutoConfiguration class to EndpointWebMvcAutoConfigurationTests
+add exported annotation for 😅
+remove unused variable
+use a ByteArrayOutputStream to clean up 😅
+set the border border to empty
+remove tooltip setTooltip setTooltip
+simplify AggregationAnalyzer 😅
+add new data indicator to source indicator
+remove todo comments
+add alerts for alerts in BasicAlertsTests
+add marble diagrams to the Single constructor
+remove unnecessary assertion
+fix broken unit test
+fix a compilation error
+add camelize parameter to camelize
+add OServerPlugin interface
+add space to the log message
+add verify method to KieHelper
+remove 😅 from BashVariableInterpreter
+turn off debug output
+add a debug logging message when it is not available
+use the correct method for implementations in ResolverUtil
+remove ConnectorIdentity equals method
+revert mute FieldHitExtractorTests FieldHitExtractor
+remove unused code
+add setMetadataReaderFactoryCalled property
+fix a typo
+improve logging in HdfsFileInputStream
+remove unused code
+add unit test
+catch all exceptions
+add a comment on the EmbeddedChannels constructor
+fix bug in HorizontalGridView
+updated VERSION version
+remove unused nextId from TruffleDebugJavaMethod
+reset scroll position in TWLayoutManager
+add missing BufferOverflowException to 😅
+use the active voice
+use a id instead of volatile
+add javadoc to Cluster
+add null check to prevent npe in 😅
+simplify the outbox
+remove unnecessary override
+increase beta interval
+add more convenience methods
+add getAuxClasspathEntryList method git svn id https findbugs googlecode com svn trunk 😅 😅 😅 😅 😅 😅
+remove 😅 check
+remove unnecessary cast
+add null check
+simplify ClassfileParser parseSourceDebugExtensionAttribute
+add unit test
+remove dead code
+add getKeySuccessors to SwitchNode
+add setSubsidyDecreaseBlockCount to NetworkParameters
+remove unused methods
+write the Session in the example
+add javadoc for SettingsModule
+make MatchPredicate MultiMatchQueryBuilder static
+fix test case
+remove unnecessary null check
+bump headers id to 😅 😅 😅 😅
+remove main method
+remove unused field
+remove unused method
+add invocations to invocations
+add a null check in isExtensionsAvailable
+add missing import
+allow 😅 😅 to be null
+fix bug in ComposeText
+remove unused imports
+fix test failure
+fix test case
+enable soft deletes in IndexSettings
+improved error message
+remove an unnecessary quality
+fix quality flaw
+fix bug in DynamicObjectLibraryImpl
+remove check that is no longer necessary
+remove debug code
+add title to dialog
+fix a bug in 😅
+improved error diagnostics
+synchronize the list of start and shutDown
+remove a System out
+add exception level log
+ignore test that fails on ci
+add 😅 😅 map 😅
+make PendingRangeTask public
+fix test case
+make NettyWorkerPoolBuilder build public
+add isReplaceable method
+remove unnecessary xstreamomitfield annotation
+reset 😅 when switching from swipe to launcher
+remove unused variable
+remove unused field
+remove InternalEngine setWriteLockTimeout
+remove unnecessary cast
+add Constants IS_SECURITY_ENABLED class method
+remove unused field
+add license to 😅
+remove unused method
+add toString method
+handle IOException in HttpMirrorThread
+fix quality flaw
+add isReachable method git svn id https findbugs googlecode com svn trunk 😅 😅 😅 😅 😅 😅
+add convenience method
+handle the case where the format format format address are inet
+restore the ability of the protocol
+allow null check for OR
+fix the cs error of JetCommandLineTest
+add additional checks in AbstractCachesTest
+fix bug in CacheBackupEntryProcessorOperation
+improve SymbolResolver visit
+add Value to ConditionalNode
+remove unused method
+remove unused field
+add nullable notation for ClusterConfConsistencyValidationTask java
+handle kindNameLowercase in MacroOption fromString
+add more logging
+remove unused import
+add 😅 to the prepared of the list of 😅
+add missing check in ListRecordingsForUriSession
+fix test case
+improve error message
+updated javadoc author
+improve error message
+add getLogger method
+add accel in AllAppsTransitionController
+remove unused code
+add close to 😅
+remove unnecessary string check
+add 😅 😅 😅 version
+adjust bwc for 😅 😅
+add missing 😅 😅
+remove unused method
+fix a bug in 😅
+reduce the number of subscriber position in the SubscriberPos
+make PrefixFilter public
+make TestUtils roundTripTransaction public
+rename Node java
+add method to check if the filter is 😅
+remove dead assignment
+improved error message
+add some debugging output
+fix test case
+add replicaSyncRequestsCounter to PartitionReplicaManager
+fix a bug in the 😅 method in MvcUriComponentsBuilder
+add getPermissions method git svn id https findbugs googlecode com svn trunk 😅 😅 😅 😅 😅 😅
+improve javadoc of Traverser getAllNodes
+improve error message
+simplify CompactList copy
+enable substitutions for AMD64StringSubstitutions
+add setAdapter to ShadowAlertDialog
+throw exception when query date is enabled
+remove unused method
+add 😅 annotations to BugDesignation
+bump update system properties to 😅 😅
+enable schedule phase in schedule phase
+suppress 😅 in 😅
+disable ExternalSiteTest
+add missing space in HighlyAvailableGraphDatabase
+add serialVersionUID to ObjectHashMap
+remove PolymerClassDefinition from PolymerClassRewriter
+add 😅 to the list of log message
+add equals to MutableInt
+turn off debugging
+add a method to turn on the factory
+remove unused imports
+improved close method
+add a comment
+add 😅 tag to list
+remove unnecessary parameterized.parameters test
+add final to FileSystemIntegrationTest
+improved error reporting
+remove unused imports
+add OverlordResource getLeader
+increase the default update to the list of update to the list
+fix test cases
+improve Subscription isConnected
+remove unused import
+add test case
+cancel timeoutShutdown to timeoutShutdown
+ignore 😅 id
+fix a bug in the chat chat chat chat rooms
+disable RobinEngineTests testSegmentsWithMergeFlag
+set 😅 threading to SHARED in 😅
+add utility method for checking http
+add null check in getReplacementSubTree
+add null checks to ReplaySession
+add nightly merge
+remove unnecessary forEach
+remove useless checkCallingPermission
+fix a typo
+fix quality flaw
+add test case for client
+remove debug output
+make TerminationGuardProvider TransactionTerminationGuard public
+set the record in the concurrent record in case the record in the map after a record
+fix bug on segment with background mode
+use the fasterxml method for job job 😅
+add node to log message
+fix a bug in the type method
+improved error message
+add protected method for 😅
+remove 😅 from unit test
+remove unnecessary catch
+add a check for size
+add isGroupPublic method git svn id https findbugs googlecode com svn trunk 😅 😅 😅 😅 😅 😅
+avoid npe in check6hrLogout
+disable 😅 if 😅 is not 😅
+remove unused field in TestOptions
+remove unnecessary code in SsoWebViewClient
+disable 😅 by default
+add javadoc for MethodVerifier
+enable 😅 by default
+add 😅 blacklist
+fix bug on create
+improve AnalyzeActionTests field for 😅
+prevent npe in ShadowImageDecoder
+make MessageList Result public
+add java doc
+remove obsolete comment
+catch all exceptions
+improve addRosterItem javadoc
+set the text of the password in setup
+add comment for TesterOpenSSL
+specify null variable in HeartbeatThread java precondition check
+add init in AprLifecycleListener
+improve exception message
+remove unused import
+add javadoc for Chars
+improve error message for intervals
+remove unused imports
+fix test for linux
+remove comment that is no longer needed
+handle null aliases
+remove unused method resize
+add country for country
+add username logging to PrincipalAttributeRegisteredServiceUsernameProvider
+improve assertion message
+add response header
+remove unused variable
+simplify ConversionUtils getType method
+hide the syntax of the constructor
+fix bug in StddevAttributeAggregator reset method
+remove unused constant
+remove unnecessary null check
+add getColumns to Page
+throw an exception if the node is empty
+improve error error message
+disable password in 😅
+remove unnecessary cast
+remove debug logging
+add test for fix with calls calls
+add license header
+remove unused parameter
+set the function to featureSet
+add a plugins to the client
+add null check
+remove unused imports
+enable prototype methods in 😅 mode
+make Policy in to in 😅
+fix a typo
+suppress warnings in StatusResultMatchers
+add more logging to PluginManagerTests
+fix test case
+remove extra blank line
+remove a System out println out
+remove unnecessary code
+add the log statement
+remove unused method
+improve KnowledgeSessionConfiguration javadoc
+add 😅 to stack trace
+remove unused imports
+add a todo
+remove unused import
+catch all exceptions
+remove unnecessary code
+enable small notification by default
+fix a possible npe in the node of the selection of the selection of the selection flag
+specify null variable in HdfsUnderFileSystemContractTest java precondition check
+add null checks for SplitConcurrencyController
+handle 😅 gracefully
+add unit test
+remove a todo
+remove use of deprecated IoUtil
+add 😅 😅 and 😅 spot
+fix a typo
+disable compilation problems
+add a method to allow the folder to be used by the library
+add license header
+add system property to 😅
+fix a typo in the 😅
+disable the comment
+add XML parse
+set patternString to patternString
+add BeatsCodec getDescriptor
+remove unused method
+add comment to explain why it is used
+deprecate unused code
+handle exceptions in ValueMeta
+remove unused method
+remove test code
+add protected method to SpringLiquibase
+add null check
+updated javadoc author
+use InterruptionChecker instead of callMatchProcessors
+updated pattern to reflect changes in pattern
+add loader support for 😅
+add comment to StringToEnum
+add a todo comment
+add null check
+fix test case
+updated javadoc author
+add setWindow to ShadowActivity
+use the correct lambda name
+suppress deprecation warning in StandaloneMockMvcBuilderTests
+suppress warnings in LocalValidatorFactoryBean
+add comment to Tuning
+improve error message
+remove unnecessary logging
+remove unused imports
+improve javadoc of StartBrowser
+add null check
+remove unnecessary cast
+remove unused imports
+add plugin info for plugin 😅
+add test case for 😅
+remove the debug output
+use the correct max in the VoldemortConfig
+remove unused import
+improve waitForFutureAndKeepInterrupt handling
+remove client address
+add backend type for 😅
+remove unused field
+add some debugging code
+add SUCCESSFUL check to avoid 😅 exceptions
+add DataContext to ResultChecker
+add BuildCompat isAtLeastNMR1
+add missing space
+add null check
+fix test failure
+remove unneeded check
+fix the issue with initial count of the transformations in the transformations
+add 😅 dungeon east 😅 to AgilityShortcut
+set the body to retain in the netty
+add support for compatible with quantifiable
+fix broken build
+remove unnecessary logging in OrOperator
+remove redundant map
+use a realm instead of REALM
+remove edge from edge case edge
+disable 😅 for now
+remove unnecessary cast
+simplify WrongModuleTypeNotificationProvider BallerinaSdkService
+improved logging
+add source title to source tab
+add a test for 😅
+remove bitmap code
+suppress deprecation warning
+fix test git svn id https svn apache org repos asf ClientUserCodeDeploymentTest trunk 😅 😅 😅 😅 😅 😅
+improve ackedStanza logic
+improve error messages
+add 😅 and isParenthesisedType
+add unit test case for 😅
+add 😅 to 😅
+add selectedStepsCount to 😅
+add toMillis to 😅 awaitPayloads
+remove unused imports
+remove unused import
+add some 😅 annotations
+add HIVE to 😅
+remove unused method
+add identity to EntityOperation
+remove bugId annotation
+updated intercept 😅 😅
+use the same static method for the 😅 api
+fix a bug in the chat room
+replace usage of String with a single String keySet
+remove unused imports
+add null check in BaseRecyclerViewFastScrollPopup
+fix a typo
+fix test case
+delete read modules in ServerBindings
+remove unused variable
+improved error message
+improve comment in RedirectingStore
+remove the return value
+remove deprecated code
+remove unused Options option
+add unit test to verify date hours 😅 😅
+add protected SourceAccessor allLoaders protected method
+remove unused import
+make UndoableModifyGroup public
+add license in license in license
+improved javadoc for 😅
+fix a bug in the abort 😅
+remove guard of guard in GuardingPiNode
+reduce verbosity of chat rooms from 😅
+remove dead code
+improve error message when client fails to not found
+add null check to TextFileOutput
+add database default annotation to nullness
+reduce log level
+remove unused method
+add a test for profile p
+rename 😅 to 😅
+modify YamlTableRuleConfiguration java
+add focus focus on lose on lose on focus
+remove redundant System check
+add missing null check
+remove unused method
+add TestApps 😅 😅
+remove unused code
+add addAccessibilityStateChangeListener method to ShadowAccessibilityManager
+improve error logging
+add missing keyword in codegen
+remove 😅 in sendHolePunchPacket
+add Double to Double in 😅 😅
+add a todo for the AbstractLocalTachyonCluster
+add javadoc to OCluster
+remove unnecessary cast
+add missing call to Camera1Controller
+remove unnecessary code
+add exception handling for 😅
+add blank line
+add 😅 😅 to ItemMapping
+improve error message when client fails
+updated javadoc author
+remove author tag
+add deleteDumpFile Path to HttpCopier
+remove unused imports
+remove unnecessary synchronized block
+fix quality flaw
+remove unused parameter
+remove obsolete comment
+add default type for IllegalArgumentException
+improve Pbkdf2PasswordEncoder javadocs
+use the new class
+ignore test that fails on slow ci
+remove redundant variable variable
+simplify assertion in NodeCursorTest
+add single to the 😅
+remove debug code
+fix a bug in the SelectionOperatorUtils to reduce the number of type selection for
+remove dead code
+remove unnecessary error call
+remove unused method
+remove unused field
+add support for UnsignedWord
+fix broken test
+add unit test
+remove unnecessary code
+add close method to ElasticsearchRecordCursor
+fix test on windows
+add hive 😅 to Operation background
+revert change to 😅
+add prescreen support for ByteCodePatternDetector
+improve DocTableRelation 😅
+add check for nodeFieldsOrderedByKind in NodeUtil
+reduce number of background from 😅 to 😅
+improve NativeImageSystemClassLoader tostring
+fix test case
+reset null animation in ShadowView clearAnimation
+simplify assertion in PhiNode
+remove unused field
+remove unused variable
+add mLayout support
+improve error message
+improved javadoc of RewritePolyfills
+add missing method to 😅
+fix the build error of KafkaEndpoint
+remove unnecessary cast
+remove unused code
+fix test case
+remove unused thrift thrift thrift thrift thrift metastore
+add Versioned locks to replication operation
+fix a typo
+add comment for SedaAsyncRouteTest
+remove the withReadTimeout of withReadTimeout withReadTimeout in DockerImpl
+fix a bug in AdminWhitelistRule
+add exception message to jogl 😅
+add buffers in ClientConductor to check to avoid npe on the driver is used
+rename push to floatToRawIntBits
+add check for missing 😅
+remove debug output
+rename description parameter to description
+remove unused method
+add test case for ResourceLoader
+fix a bug in HiveUtil
+commented out the test 😅
+updated javadoc author
+replace LinkedHashSet with synchronizedSet
+add comment to test
+add some more logging
+add nonNull filter method in MediaRoute2ProviderServiceAdapter
+fix broken unit test
+add fremAddress dremAddress to GraalHotSpotVMConfig
+make HeadlessApplication mainLoop public
+remove obsolete todo
+add debug logging to K8sALSServiceMeshHTTPAnalysis debug
+add test case for the the source from the source test
+add daemonReload to SystemCtl
+add comment about field names in 😅
+add null check
+add getExtensions method to Stanza
+add missing space in log
+remove outdated javadoc
+throw exception if export is missing for 😅
+remove config sdk config
+remove unused imports
+fix test on windows
+add unit test
+add shutDown method
+use a valid project fileTree instead
+add lastApplied method
+make Visibility and PRIVATE public
+add Constants FILE_SYSTEM_MASTER_SERVICE_NAME constant
+remove redundant condition
+remove unused code
+add comment to GraalHotSpotVMConfig
+use a constant instead of a Settings
+fix broken test
+fix quality flaw
+fix test timeout
+add getter NONE
+add exception handling in ImapFolderPusher
+add support for VISIBLE in applySearchTarget
+use a generic type
+remove ContextManager 😅 from ForwardInterceptor
+remove unnecessary sleep call
+add TABLE_NAME constant for the screens
+add missing javadoc
+add hebrew Language
+add default auth pattern for 😅
+enable trace logging for IndexPrimaryRelocationIT 😅
+use a HashMap in CoredumpHandler
+make FederatedLoginService signin public
+add dom support for 😅 functions in slave
+comment out unused code
+add a constant for the Dataflow class
+remove a call to setItemCount
+add pending pending uploads
+remove unnecessary closeQuietly of close
+improve CVSSCM 😅
+remove useless assignment
+fix test failure
+add statistics to show statistics name
+updated copyright date
+remove explicit argument type in CheckPointScheduler
+add 😅 flag
+adjust queue queue queue time to 😅
+add dumpOnStart property git svn id https findbugs googlecode com svn trunk 😅 😅 😅 😅 😅 😅
+remove 😅 😅 from DockerOperationsImpl
+add flush method
+remove unnecessary 😅 check
+add constructor to DeprecatedProfiles
+ignore DiVATest testPerformSearchById
+add log when storage is null
+remove the 😅 when the invalidate menu is remove
+remove unused variable
+add null check to prevent npe in 😅
+remove deprecated code
+fix test failure
+enable session in FileSessionCredentialsProvider
+fix quality flaw
+remove unused code
+remove unused code
+set the grow border from 😅 to 😅
+remove 😅 SPILL_ENABLED
+improve error message
+fix a possible npe
+remove unused log
+remove unnecessary null check
+remove unused imports
+make SendMailCommand getServerResponse private
+add nonnull annotations to Transformations
+avoid npe when extensions is empty
+allow TypeAnalysis subclasses to work
+fix test failure
+remove unused constructor
+remove unnecessary code
+remove debug logging for 😅
+add organizations to repository owner blacklist
+add cached clone for cached 😅
+add support for canEarlyTerminate in QueryPhase
+remove unnecessary call to ByteBuffer
+disable 😅 for now
+remove ignore annotation from test
+remove unused import
+add a todo
+improve javadoc of Jerry
+ignore IllegalArgumentException in AbstractXMPPConnection 😅 😅
+add newline after separator
+updated javadoc author
+remove unused import
+add addSubjectAlternativeName method to X509CertificateBuilder
+add column to 😅 😅
+set heartbeat time heartbeat time to set heartbeat before idle to set time
+add a comment about why the first is used by default
+remove todo comment
+rename configurationListener to configurationListeners
+remove unused constructor
+remove unused import
+add getUserFieldName to Transport transportAlarm
+updated javadoc for Configuration
+remove unnecessary cast to getArchiveFolder
+fix test case
+add a convenience method
+improve javadoc for Transaction
+remove unused field
+remove unnecessary break
+add ServiceLoaderFeature isInConfiguration
+updated Debugger javadoc
+remove unused check in WasmSuiteBase
+remove a comment
+add unit test
+add a system check to make it a ValidateConf
+remove unnecessary null check
+avoid npe in Launcher when 😅 is null to an exception is a focus
+simplify getHeader method
+remove unnecessary cast
+add OpenGL21 check for OpenGL21 in checkOpenGL
+disable 😅 😅 😅 😅
+use the active voice
+remove disabled code in BigStoreIT
+fix a bug in the backup content setting of 😅
+add LinkedHashSet retain for WhereClauseShardingConditionEngine
+add unlockScreen method
+improve the error message
+remove unnecessary GEO_POINT
+remove unused option
+fix bug when a home from home with 😅
+fix test on windows
+improve error message
+update the TesterFirehoseServer java
+add missing View GONE call
+add getAssetNames method
+add init method
+fix bug on attachAndSave
+remove nonnull annotation from ErrorsWhileCopyingHandlerActivity
+use new dir name
+add deprecated method to Recognizer
+improve error message in DefaultHighlighting
+add 😅 😅 😅
+add license header
+add upgrade version to DeploymentApiHandler
+make the field public
+add override annotation
+improve error message
+remove unnecessary cast
+use the canonicalizer in UnsafeAutomaticSubstitutionProcessor
+improve error message for 😅
+remove redundant cast
+use the active voice
+remove unnecessary receive
+add support for crystal 😅 😅 😅
+add user agent
+remove unnecessary comment
+fix a bug in Script
+ignore TransportScenario on api 😅
+add ArrayCopySnippets lower method
+add length to BCursorTable
+add 😅 😅 spot to the 😅 plugin
+remove the uniform shader for PolygonSpriteBatch
+disable search test temporarily
+fix a possible npe
+remove redundant check
+add opaqueBlocksNode to 😅 in addWorldRenderingNodes
+make the ping coins thread safe
+improve error message
+add java doc for resetFileTypeAnalyzers
+updated javadoc author
+handle null 😅 in 😅
+improve DiskJournalCache run
+ignore GraphHopperIT testSkadiElevationProvider
+remove unused parameter
+remove unused flag
+remove unused field
+remove unused import
+add DEFAULT_KEEP_DRAFTS for DEFAULT_KEEP_DRAFTS
+add test category
+remove sql operator
+remove unused import
+update PluggableTransportModuleTests java
+allow 😅 😅 in windows
+remove dead code
+add convenience method
+add missing check in MappedRawLog
+add mappedCopy to MoreLists
+add invalidate invalidate invalidate invalidate view
+add constructor to RegexExtractor
+add isApplied method to 😅
+add a bit more log
+add a default implementation
+avoid potential npe
+fix a typo in IndicesResource
+remove unnecessary code in ConstraintEnforcingEntityOperations
+disable call on bluetooth when rtc is 😅
+suppress deprecation warning
+improve exception message
+add note about 😅 in javadoc
+add FileHandle constructor
+remove unused code
+add nonnull annotation
+replace lambda with method reference in ConcurrentUpdateSolrConnector
+set 😅 to 😅 for 😅
+disable 😅 by default
+use a more descriptive name for credentials
+remove unused field
+add newline before message id
+improve error message in ReplaySession
+disable collapse tests in 😅
+fix bug in EncodingUtils
+fix test cases
+handle the case of an 😅 when a non an error messages fails
+fix a typo
+add some comments
+remove deprecated code
+set default swallow to true
+improved error diagnostics
+add check to getLock
+add excludedBindings method git svn id https findbugs googlecode com svn trunk 😅 😅 😅 😅 😅 😅
+add wasExecuted method to OptimizedCallTarget
+add support for global 😅 😅 😅
+add getter setter
+fix the kafka 😅 😅
+remove trace logging
+fix bug in RosterGroup
+rename interPassDetectorOrderingConstraintIterator method
+add switch mode option
+rename settingsPanel to fullScreenButton
+add 😅 and 😅 to GlueHiveMetastoreConfig
+add suppresswarnings unchecked
+add generic type
+add a comment on the categories
+add getPatternOrderNumber method git svn id https findbugs googlecode com svn trunk 😅 😅 😅 😅 😅 😅
+rename method to initializeSearch
+add a print to the dependency text
+add 😅 beforeAnalysis
+remove unused method
+use a constant for the analysis
+add comment to explain why we don t need to 😅
+remove unnecessary check to avoid npe
+remove redundant super call
+remove redundant code
+add ILLUSIONER type
+remove unnecessary import of variables
+remove final from ShadowTileService
+turn on 😅 by default
+use the ufs ufs in the ufs header
+remove unnecessary catch
+add todo for 😅
+add type argument
+rename copy to default names CopyImageToScreenNode
+catch all exceptions
+remove unnecessary switch statement
+add missing space in ClientClusterServiceImpl 😅
+add protected hasCapability method to ImapConnection
+delete sync if operation
+disable metrics test
+fix quality flaw
+improve RememberMeServices javadoc
+add more info to FindBugs2
+remove unnecessary code in WorkSync
+add 😅 to account query
+add getResourceDependencies method git svn id https findbugs googlecode com svn trunk 😅 😅 😅 😅 😅 😅
+updated package info
+improved error message
+set staging url to 😅 😅
+add support for local var
+add externs inputs to the output
+remove unused method
+disable failing tests for now
+add SourceMapObjectParserJs getLineCount
+revert 😅 add to list of classes
+fix a typo
+add check for null token in IllegalArgumentException
+fix the cs error of CronComponent
+avoid npe if error message is null
+remove unnecessary cast
+add getEntries to RosterStore
+add getExecuteTimeMillis method git svn id https findbugs googlecode com svn trunk 😅 😅 😅 😅 😅 😅
+comment out unused code
+add processWorkspaceBeforeDeletion method git svn id https findbugs googlecode com svn trunk 😅 😅 😅 😅 😅 😅
+add a comment
+remove dead code
+add additional check
+fix bug on server command content
+remove deprecated code
+fix a potential npe
+add v check for 😅 functions
+fix quality flaw
+remove unnecessary code
+add nullable notation for S3AUnderFileSystem java
+fix quality flaw
+fix a bug in highlightEntry
+make ToolFailureException public
+prevent npe in LiveFolder 😅 😅 😅
+remove empty line
+add fieldPivot for pivot
+remove unnecessary semicolon
+fix test failure
+add test case
+add a check for 😅 when indices is indices
+add a comment to explain why the end of the end of the logic
+remove unused variable
+add 😅 😅 to FileProducer java
+add javadoc for MethodHandleConstant hotspotResolutionBehavior
+fix quality flaw
+remove unused method
+make method public
+fix test case
+remove unused import in RowToJsonCast
+fix a bug in JoinNode
+fix bug on OAuditingService changeConfig method
+fix a typo
+remove Observable returnSubscription
+remove unused method
+add thread call
+add more tests
+remove sdk version check
+replace 😅 by default
+remove unused import
+add ensureStableCluster to ServerTransportFilterIntegrationTests
+add jitter max to 😅
+remove debug output
+improve assertion error message
+fix bug on byte array
+simplify ErrorMetric otherError
+remove unused import
+fix test failure
+synchronize access git svn id https svn apache org repos asf tomcat trunk 😅 😅 😅 😅 😅 😅
+add support for setLevel and l logback
+add getCachedSize to 😅
+remove unused imports
+allow IntrospectionUtils setProperty Object
+add hashCode method
+prevent 😅 in PolicyBasedAuthenticationManager 😅
+add javadoc for Jaxb2XmlDecoder
+improved error message
+fix quality flaw
+rename BYTE MARKER
+add comment explaining the access in ClassContext
+fix broken test
+handle 😅 😅 gracefully
+add a todo
+add hasStanzaIdSet method git svn id https findbugs googlecode com svn trunk 😅 😅 😅 😅 😅 😅
+add a null check to prevent npe in 😅
+fix a bug with the error in the Downloader java
+updated log message
+add since tag
+updated javadoc author
+print the 😅 in 😅
+disable the exclude by default
+fix bug on tower node
+remove dlog resetErrorCount call
+fix test cases
+simplify AbstractInsertAnalyzedStatement routingColumn
+cancel the timer Timer for command
+add javadoc for CapacityTest
+add issue level message
+remove explicit argument type in GraphUtil
+add sampData String to HTTPSampleResult
+add getDispatcherTypes to FilterMapping
+add missing whereStopIndex
+add support for analyze and indices in the ShieldActionMapper
+remove explicit type argument in TaskExecutor
+fix a typo
+add swipe of trigger animation
+fix test on windows
+remove unnecessary comment
+improve javadoc in ZipCompressAction
+remove unnecessary clear call
+updated javadoc author
+add comment to DiscoveryWithServiceDisruptions
+improve javadoc for ReplicatedMap
+add url to dependency message
+add 😅 😅 😅
+improve ContextSourceSettingPostProcessor error message
+make ELASTICSEARCH_VERSION version
+add OrientDBConfigBuilder fromContext
+disable flaky FunctionsSnippetsTest
+remove unused import
+remove invalid assertion
+fix a bug in ApplicationContext
+use the right activity in TouchInteractionService
+remove unnecessary clear
+add note about in javadoc
+improved error reporting
+improve javadoc of 😅
+ignore unstable test for now
+remove debug output
+remove unused variable
+fix bug on sql path
+rename Runnable to _runCompleteWriteFillable
+set migrationInfo to 😅
+rename FALSE to CONTRADICTION
+add ArrayIndexOutOfBoundsException method
+disable 😅 by default for 😅
+remove debug output
+add ORule values
+add inject Executor to PrometheusV1Handler
+remove explicit argument type in DynamicResourcePool
+add a 😅 method to MemoryPool
+add Internet url
+add debug logging for 😅
+improve error message
+add a comment to explain why we don t have one in the subject
+add test case
+remove unused imports
+remove 😅 cookies call
+use a CopyOnWriteArrayList instead of CopyOnWriteArrayList
+rename mBlockMaster in BlockMasterWorkerServiceHandler
+disable repository test
+add support for geometry and return
+improve error message
+remove unused method
+remove redundant out call
+add folder info for icon for folder
+improve StringSequence startsWith
+fix test on windows
+fix a bug where the ze wasn t be null pointer
+add getToolbar method to 😅
+skip empty files
+fix a typo
+bump transaction constants
+use the default File instead of the Files
+updated error message
+remove unused imports
+add a comment
+remove assert of code
+fix test case
+add unit test
+remove unnecessary cast
+add 😅 to the list of allowed messages
+remove deprecation on Util encode
+fix quality flaw
+remove logging from WorkspaceTouchListener onLongPress
+ignore test that fails on 😅
+add override annotation
+add HELP to NodeCmd
+updated javadoc author
+disable 😅 test
+disable ShardDMLExecutor 😅
+disable HttpBridgeEncodedPathTest
+skip test on 😅
+add debug logging to DescriptorExtensionList
+remove unnecessary synchronization
+add prefix to SimpleMetricsExportAutoConfiguration
+fix bug on mmap performance with session
+add a flag to disable the client in the Client
+improve folder in Account
+add support for NoSuchMethodException in ServiceLoaderFeature
+make DescriptorExtensionList compute public
+add debug output
+delete click when a dialog is clear
+add support for case insensitive 😅
+add ClientHttpRequestFactory javadoc
+delete the mapped io state when the 😅 fails
+implement postProcessAllModels method
+remove unnecessary check
+add indexRoutingTableChanged method to ClusterChangedEvent
+add javadoc for 😅
+fix test on windows
+super MultiVersionConcurrencyControl
+add default serializer for redis after default redis
+add unit tests for timeOut
+remove RetryingJaxRsStrategy pathPrefix
+add MethodVersion to Method
+remove OHazelcastPlugin running
+improve assertion message
+remove unused method
+remove the delete of windows
+set 😅 to true
+add default display name
+remove ignore annotation from test
+add after method
+remove suppresswarnings unchecked
+remove unused method
+fix test failure
+fix broken unit test
+add more logging to NettyTransport
+adjust idle timeout to 😅 idle timeout
+add a unit test
+avoid npe if currentProxiedBeanName is null
+remove from field InetAddress
+remove unnecessary synchronized block
+fix a typo
+remove unnecessary clusterscope annotation
+remove unused constant
+add a convenience method
+rename setAddPageListener to addPageListener
+rename findbugs version version
+add a convenience method
+remove Digester initialize
+add null check
+add line break
+remove test code
+add getMessage to InitializationError
+add journalSystem Builder to 😅
+rename method in MapProxySupport
+add test case for 😅
+add unit test
+add 😅 as well as problematic
+throw an exception if the fiber is completed
+fix test failure
+remove unnecessary cast
+add some comments to GraphHopperStorage
+remove extra blank line
+set the scroll never scroll to 😅
+remove extra blank line
+disable global level by default
+remove LOG from counts
+remove unused imports
+fix bug in ExceptionSet
+disable RFE3026970 get
+add null check
+remove System out println
+fix quality flaw
+cancel the task version of the 😅
+add 😅 support to InMemoryRecordSet
+increase the memory timeout in ConfiguringPageCacheFactory
+add mem code to PTXMemOp emitCode
+add message expanded
+remove unnecessary cast
+remove unnecessary code
+remove debug output
+remove obsolete comment
+add additional tests
+remove unused import
+enable 😅 for 😅 feature flag
+improve error message
+add note about 😅 in javadoc
+remove unnecessary cast
+remove unnecessary cast
+fix a bug in EntryEditor setupKeyBindings
+use the correct setPreferredSize method to set Dimension
+fix test failure
+remove unused method
+add a warning message for resolveCallTimeout
+handle 😅 gracefully
+add called and called method to stack
+remove unused imports
+add test case for 😅
+add LinkedHashSet LinkedHashSet LinkedHashSet
+avoid npe in 😅
+test the gradle plugin against gradle 😅 😅
+remove redundant injectmocks check
+remove an unnecessary code
+add createBitmap to ShadowBitmap
+improve assertion message
+add missing check
+improve error message
+add null check
+remove unused imports
+add ErrorCode equals
+test the gradle plugin against gradle 😅 😅
+add null check to StrandResourceCallback
+fix a small bug in InodeTree
+skip basic store in FindDeadLocalStores
+add missing break
+remove test instance update call
+add a subscription resolved constant
+remove unnecessary code
+updated assigned version
+improve error logging in SSTableReader 😅
+remove unnecessary cast
+prevent npe in Nio2Endpoint
+turn off system property for debugging
+remove system out
+create default doResume for 😅 in doResume
+remove the flag from the pending task
+add isCollection method git svn id https findbugs googlecode com svn trunk 😅 😅 😅 😅 😅 😅
+remove redundant tvInfo
+modify BaseIntegrateTest java
+add writeLong method to LLVMWriteNode
+add a method to finish to prevent npe
+replace anonymous type with lambda
+skip test on 😅
+throw exception if 😅 is x
+improved javadoc for SampleBuilder
+add more javadoc
+remove unused method
+prevent npe in DefaultLoopPolicies
+fix a typo in suppresslint comment
+add unit test to check with 😅 😅
+fix a bug in SimpleFlowControlStrategy
+add unit test
+add bottom list to the item in the list
+throw an exception in LibFFIType shouldNotReachHere
+remove unnecessary toString in ClusterSession
+add a test to validate 😅 😅 😅
+add support for db in MessagingDatabase
+disable SLMSnapshotBlockingIntegTests testSnapshotInProgress
+remove dead code
+add a convenience method
+use a constant for the default Zone
+remove redundant code
+disable MediaPlayerGlueTest on api 😅
+make UnboxNode constructor public
+rename operations to operations
+add default implementation of encoders in subprotocols
+add System property
+add 😅 count to kill size
+reduce expiry time for remote sessions and expiry
+disable flaky test on windows
+add null check to ClasspathElementModule getURL
+add default metric for metric
+remove dead code
+add null check in updateEmptyStatus
+add javadoc for XmlConverter toString
+updated javadoc author
+improve error messages in Serializer
+allow 😅 in RecyclerView
+add a comment on the cluster state indices
+add BETA_RELEASE in ActivityView
+improve error message
+remove unused method
+disable 😅 in ChatToolbarFragment
+add final to DataHeaderFlyweight
+enable 😅 for default values
+remove unnecessary log statement
+add 😅 to node node address
+updated error handler handler handler
+add javadoc for RPCMessageIntegrationTest
+reset dispose flag in loaded
+updated log message
+fix test failure
+remove unused imports
+use a HashMap instead of InetSocketAddress
+add a changeLocalFileToFullPermission to the LocalBlockOutStream
+set default utf to utf to be utf
+increase the usage size to 😅
+fix a possible npe
+avoid npe in AlluxioShellUtils 😅
+reduce the size of the CompilerExecutor to 😅 😅
+remove unused code
+add MethodAnnotation BetterVisitor getMethodSig
+remove unused field
+disable 😅 in AppCompatDrawableManager 😅
+remove unnecessary logging
+remove some comments
+add 😅 mapping
+add support for flexdate 😅
+rename UPN_ATTR SEARCH_FILTER to SEARCH_FILTER
+remove unnecessary final in TachyonBlockStore
+add a method that accepts a file to be write
+remove unused method immediateFailureQueryInfo
+add UnsafeUtil Allocation
+improve log message of 😅
+add a check in GrammaticalStructureConversionUtils
+add some more info
+remove old comment
+fix test failure
+remove ShadowBundle getString String
+set FastBitmapDrawable Bitmap
+reduce memory usage
+add blank line
+remove unused code
+add a comment to explain why it is used
+remove dead code
+remove unused method
+add trace logging to RepositoryUpgradabilityIT class
+add unit test
+remove 😅 from FailureResolverModule
+set the default window font font font font before attempting to it to
+fix a typo
+fix broken test
+use a constant for the findbugs mutable
+remove unused method
+remove todo comment
+remove 😅 tests
+improve exception message
+add PermissionGroup constructor
+make LeveledManifest 😅 more robust
+remove unused import
+add support for strings and 😅 😅 url
+add 😅 and 😅 to the media session sdk 😅
+fix quality flaw
+avoid npe in MethodTypeFlowBuilder
+remove constructor of SyntaxKind ERROR_CONSTRUCTOR_EXPRESSION
+remove unused import
+make JsMessage getMeaning public
+add description description test case
+add null check
+😅 sip over to neomedia
+add java doc
+add javadoc for PEEK_HEIGHT_AUTO
+add toByteBuffer to SbeBufferWriterReader
+use the active voice
+fix a bug where the gray g wasn t be loaded
+add support for 😅 plugin 😅
+add missing parameter to 😅
+add a 😅 😅 😅 to prevent npe in 😅
+simplify 😅 😅 migrate
+fix test case
+add test for String
+add default property
+set title to title
+fix a compilation error
+add license header
+add missing coalesce coalesce 😅 to 😅
+fix quality flaw
+use a ThreadContextRule to clean up tests
+remove System getProperty 😅
+remove obsolete todo
+remove extra spaces
+remove the modal of the modal button
+remove unnecessary setWriteBufferSize in PerformanceEvaluation
+make NoRedirectHttpClient public
+add support for statistics 😅 😅
+remove unnecessary default value
+disable 😅 and 😅 by default
+modify YamlShardingRuleConfigurationTest java
+add test to verify that parsing short of parsing short of parsing
+fix a typo
+add check for msg trace
+add check for payloadType type
+replace message when module
+add a comment
+remove unused imports
+remove unused method
+remove unnecessary size
+add check for onPageSelected
+disable flaky tests
+add IntAnnotation getValue
+remove extra newline
+remove debug output
+add a external external axis to Axis
+remove empty constructor
+remove debug output
+add more helpful error message
+add missing cast
+updated log message git svn id https svn apache org repos asf tomcat trunk 😅 😅 😅 😅 😅 😅
+add findClassDefiningField method git svn id https findbugs googlecode com svn trunk 😅 😅 😅 😅 😅 😅
+implement AbstractContinuationTest add
+add a comment
+remove unused method
+add FieldInstruction Instruction
+catch TransformationException
+remove debug code
+add indices tests
+throw an exception if the query is not found
+remove debug code
+remove unnecessary cast
+add a null check for the doOneSentence
+add a todo
+add feature flag to disable 😅 and 😅
+fix test cases
+add since annotation to toSingle javadoc
+fix test failure
+add lastRaidVarb to timers timers timers
+remove use of sAlluxioTestDirectory
+reduce addresses size in PartitionInstallService to reduce footprint
+remove explicit parameter type in NameAnalyzer
+modify LeafSnowflakeKeyGenerator java
+add a todo
+disable 😅 in LowTier
+allow more time to be regex in field names
+improve exception message
+clarify error message
+add null check in PennTreeReader
+add 😅 as room to get room of the room value
+remove unnecessary cast
+add Cache 😅 😅
+add 😅 category to ClientProxyDestroyTest
+simplify SimpleTypeName getNameWithArray
+improve javadoc of TachyonFSTestUtils
+make DiagnosticGroups getRegisteredGroups public
+add missing CREATE in ProjectBasedAuthorizationStrategy
+add back 😅
+add missing call to 😅
+remove unused import
+ignores ApplicationMasterTest for now
+add missing status message
+add commerce to FakerIT
+improve error handling in CatchUpLoad
+ignore unstable test for now
+add intrinsics for intrinsics
+add getValue to VarKind
+remove debug logging
+add Duration Duration Duration Duration Duration to the user
+set the title in ConversationTitleView
+remove 😅 in DockerOperationsImpl
+fix a bug in ActivityView
+add unit tests of 😅
+add javadoc to ApplicationContextInitializedEvent
+rename unsafeReadWord to unsafe
+add jsonignore annotation to NodeImpl
+add ArrayList to VCardManager
+add a check for the 😅 check
+add isOwner count to AbstractCacheRecordStore
+remove unused imports
+remove dead code
+add storePassword and storePassword methods git svn id https findbugs googlecode com svn trunk 😅 😅 😅 😅 😅 😅
+remove unused import
+disable 😅 in 😅
+add 😅 to WebClientDataBufferAllocatingTests
+fix test cases
+add protected method to ImportParameters to allow subclassing with trimStrings
+add PGLListener
+add type check
+add 😅 to 😅
+add 😅 😅 😅 version
+fix test case
+add new line
+add isResourceOpen method to 😅
+remove unnecessary cast
+add partitionIndex to HashBuilderOperator
+add null check in JobFileListener
+add method IsAssignableFrom
+fix test case
+remove unused public modifier
+add null check to handle
+add null check to prevent npe
+remove System out println println out
+add validation to 😅
+add 😅 for the camel core
+fix test on windows
+remove unused method
+enable 😅 for 😅 output
+remove unused method
+deprecate unused code
+enable measurement in Measurement
+updated version git svn id http svn 😅 org svn repos wildfire trunk 😅 😅 😅 😅 😅 😅
+add shortName to CoreMember
+add test case to verify that the shell is a shell
+use a search count of hits
+add getAcknowledgeType to WanReplicationEvent
+set the jetty attribute for the home
+remove unused import
+add getCurrentLanguage to Sulong
+remove unused import
+add apply method to RunList
+remove unnecessary null check
+add metrics to Core
+remove outdated comment
+improve error message
+remove unused code
+remove reference to 😅
+add license header
+remove unused method
+add license header
+fix a typo
+remove dead code
+make TermsStatsOrder public
+skip xml xml xml xml xml xml pull request
+fix a bug in the actor failure
+improve logging and error message when 😅 fails
+add isComplete method git svn id https findbugs googlecode com svn trunk 😅 😅 😅 😅 😅 😅
+add search search of search of search search search of search of search of search search search of search string
+remove unused import
+improve admin admin admin admin admin admin
+add test case for 😅
+rename k to StrictMath
+add some more debugging code git svn id https findbugs googlecode com svn trunk 😅 😅 😅 😅 😅 😅
+remove unnecessary cast
+remove 😅 in test
+add test for Transaction
+remove some comments
+add 😅 limit to 😅
+remove useless todo
+remove explicit argument type argument in JvmObjectGen
+remove useless brackets
+add a bit more information for the 😅
+remove unnecessary override
+add addWild method git svn id https findbugs googlecode com svn trunk 😅 😅 😅 😅 😅 😅
+add comment to explain why it is used
+remove webClient from WebClientDataBufferAllocatingTests
+use a TRANSACTION for HeapTrackingLongIntHashMapTest
+add setUserDetailsService method to TokenBasedRememberMeServices2
+add getPrintableComponent method
+remove component component annotations
+add setExceptions method
+updated javadoc author
+add default custom 😅 to HealthCheckProxyHandler
+remove 😅 from SupervisorSpec
+fix test case
+fix broken test
+add isInstance method
+remove redundant ID_BOOKMARKS call
+add exception handling to a message
+add apply to TransactionGuardIT
+fix test cases
+remove explicit argument type in NodeValueIndexCursorTestBase
+add missing comma
+remove unnecessary CONCURRENT call
+prevent npe in 😅
+add a todo
+avoid npe in AbstractChangeGenerator
+remove unnecessary cast
+remove unused code
+add MAX_WORKERS to RemoteTest
+remove unused imports
+use a static constant
+set luminance luminance luminance to 😅 😅
+add setViewVisibility method to FakeRemoteViews
+avoid npe in UninstallShortcutReceiver 😅 😅
+use a constant for DEFAULT_MAP_GROWTH_FACTOR
+simplify AsciiType validate
+remove unused imports
+improve error message when builder fails
+fix a typo
+add method to get entry
+add support for 😅
+fix test case
+add shutDown method
+increase the timeout of window time in TimeBatchWindowTestCase
+add constructor for CSSParseExceptionCallback
+reset NULL_POSITION after null
+set default Long to long
+add RetentionPolicy annotation to Relation
+enable partition in KeyValuePartitionIntegrationTest
+fix quality flaw
+improve javadoc for XPathBuilder
+use the right source from modules
+set old plugin old plugin thread safe
+fix a typo
+reset AccountPasswordMustChangeException flag on AccountPasswordMustChangeException
+remove unnecessary null check
+add new line
+disable usage of BigArraysTests
+remove extra space
+add null check to BLangVM
+add compareTo method
+remove unused variable
+fix test case
+use the Monitors instead of the Monitors
+fix test case
+modify unit tests
+remove unnecessary null check
+remove unused method
+disable swing select when swing is selected
+add combined to 😅
+remove unused method
+add support for priority 😅
+remove unused parameter
+remove 😅 from JolokiaManagementContextConfigurationIntegrationTests
+remove dead code
+remove unnecessary synchronization in ThroughputStats
+updated javadoc author
+reduce the number of error message in BooleanExpressionTests
+specify null variable in JournalReader java precondition check
+add native access to native access cache access
+improve table message
+remove unused import
+fix a npe
+make MockitoTestExecutionListener public
+add support for cypher cypher cypher cypher cypher cypher settings
+disable predicate in PlanOptimizers
+make TemplateFile set public
+remove unused parameter
+add a comment
+updated javadoc author
+add access to ReplicatedRecord
+fix a bug in ShadowTextView triggerEditorAction
+add Utils currentTimeSeconds method
+remove unused code
+test the gradle plugin against gradle 😅 😅
+remove unused code
+add license header
+simplify the check for 😅 in FunctionArgumentInjector
+updated javadoc author
+remove unused method
+improve exception handling
+disable SearchEvent on 😅
+remove unused code
+updated javadoc author
+fix a typo in test
+fix a bug in Jarvis 😅
+fix test failure
+add unit test
+add a message to MessageList
+add javadoc for deleteFatClient
+remove unused imports
+fix test of id id
+increase the timeout timeout to use a timeout instead of 😅
+add Lexer preReadNextToken
+remove dead code
+add check for cipConfig to protection when policy
+add call to triggerMediaScan call to thumbnail
+print the stack trace to the list of job
+add a comment to explain why the phase of the phase
+add license header
+add test for 😅
+add 😅 😅 skeleton to Task
+remove debug output
+remove unused variable
+add minduration message to StorageManagerConfig
+add DocLookup mapperService
+disable library for LIBRARY_GROUP
+add null check
+add realObject to ShadowValueAnimator
+enable 😅 for ES8_MODULES ES8_MODULES
+avoid npe in doShutdown
+add javadoc to ParserATNSimulator
+remove unused field
+simplify logic in home
+add unit tests
+remove license headers
+fix test failure
+updated javadoc author
+fix quality flaw
+remove unused code
+remove ShadowHandler getLooper as it is not needed
+updated javadoc author
+fix quality flaw
+add more logging
+disable TestQueryDriversOperator testCancel
+make ResourceValueFrameModelingVisitor transferInstruction public
+add SkinParameter SkinParameter
+remove final from CaseResult
+add a check to prevent npe in Clicker
+add InternalRule getFullyQualifiedName
+fix test case
+remove unnecessary setupClass
+remove dead code
+add withKeyStore method to SslContextBuilder
+modify GovernanceShardingSphereDataSource java
+remove unused field
+remove dependency on trim
+add headers for headers 😅
+add test case for issue 😅
+add LOG debug message
+enable search by default
+add override annotation
+ignore test that fails on ci
+add INSTANCE header
+remove unused code
+remove unnecessary code
+remove unused import
+add Workspace QSB_ALPHA_INDEX_OVERLAY_SCROLL 😅
+remove unused parameter
+deprecate unused method
+fix quality flaw
+improve error message when client content content type
+fix a bug in 😅
+add support for setting a view to repository owner messages
+fix quality flaws
+rename setGlobalTransactionsEnabled to 😅
+add support for 😅
+remove 😅 check
+fix a typo
+add false positive type check
+fix test case
+add check for date in setKeyRotationTime
+add version 😅 😅 😅 😅
+reduce benchmark rows from insert to 😅
+fix bug on transaction transaction
+remove getTimeout method
+remove unnecessary code in Fragment
+disable CompletionTest test
+remove unused methods
+turn off Launcher PROFILE_STARTUP
+add unreleased 😅 😅 😅 version
+fix a typo
+remove obsolete test
+add leader in ConsensusModuleAgent
+remove unused import
+use the ws m instead of a MappingWorksheet task
+remove unused imports
+add missing break
+add assertion in LinearScanWalker
+add more details for GetState
+add production aws 😅 job list
+add null check
+fix a npe in 😅
+deprecate unused code
+remove unused imports
+revert change default value of 😅 by default
+add javadoc for CommonLightPropagationRules
+remove unnecessary cast
+add support for part of the index with a index
+add license header
+make GraalTruffleRuntime getTvmci protected
+add constructor to Log4jLogEvent
+remove log line
+remove loader from closeOp
+updated error message to use 😅 instead of 😅
+remove unused import
+remove explicit type argument in PathUtils
+set mb to 😅
+remove unused method
+add WorldGeneratorPluginLibrary to initModuleManager
+remove unnecessary code
+use the correct US_ASCII in AlphabeticalAppsList
+add null check
+add test for brace
+add the ability to specify the max level of the min implementation
+add null check for requirementProviders
+remove explicit argument type in BranchCoverageInstrumentationCallback
+improve error message
+fix the cs error of Server
+implement EventContextObject rethrow
+remove unused field
+remove the filename from 😅 😅
+allow 😅 in the unicast unicast aws
+simplify PageCacheRecycler parse
+add license header
+set the mentions flag
+encode the default transfer header in the logs
+disable back feature flag for now
+disable flaky test
+remove some comments
+remove StringBuilder from File internet
+add menu to viewModel in GroupTreeController
+remove unused method
+add a method to make sure button are button
+fix broken test
+remove unnecessary cast
+rename httpClient to httpClient
+add missing space in RewritePolyfills
+add be placed for the new a
+remove redundant comment
+add check for AcquireClient
+add Throwable to Error
+add transaction to 😅 😅
+remove redundant cast
+remove a comment
+improve error message in Main
+add convenience method
+make RelaxedNames SEPARATED_TO_CAMEL_CASE_PATTERN
+fix test for date
+remove redundant check
+remove unused imports
+add test case
+remove unused method
+add getDescription constructor to OAuth2AuthenticationException
+remove unused imports
+fix quality flaw
+fix bug on OIndexChangesWrapper
+remove repeat annotation
+improve error message
+fix bug in InstrumentClass 😅 😅
+add support for lastSwapped to 😅 😅
+add a comment
+disable debug logging
+disable CheckDependenciesIT in 😅
+add 😅 to can be used in GroupVM
+add comment about why we have a todo
+enable 😅 in area size
+add a primary to the log message
+make ParsingUtilities ISO8601_FORMAT
+remove unnecessary null check
+fix quality flaw
+remove unused import
+remove unused constants
+reduce the number of size in 😅
+remove useless null check
+remove debug logging
+add 😅 mapping to executor mapping 😅
+improve assertion message in LinearScanWalker
+add method getPrintableComponent
+disable CacheGraphs by default
+updated version to 😅 😅 😅
+make condition public
+make Audio playStream synchronized
+add getNoWebGLSupportWidget method
+add support for Certificate
+fix bug in tensor approx
+remove extra spaces
+ignore test case for 😅
+disable scrim 😅 light flag for scrim 😅
+remove log message from log message
+remove unnecessary space
+add mContext to TachyonBlockStore
+add null check
+remove unnecessary code
+remove log statement
+add more tests
+remove unused method
+fix test failure
+add comment about message pojo size
+set 😅 connection time to 😅
+add 😅 😅 😅 version
+add AllocObject method to JNIFunctions
+improve error message
+add a warning in MavenModuleSetBuild
+add protected removeEldestEntry method to protected method
+use a ConcurrentMap instead of 😅
+add specialization for VirtualFrame to LLVMWriteNode
+remove unused constructor
+remove unused import
+add test case
+add null check to NoSuchMethodFailureAnalyzerTests
+remove unused method
+remove unnecessary null check
+disable star segment star segment star segment test
+add missing method to MessageList
+add the array method to the variable text
+remove redundant cast
+remove unused method
+add null check in handleEvent
+add null check in findTileObject
+remove unused code
+add null check in onMessage
+set url url to help text
+fix a bug in ApplicationEx
+remove unused imports
+add valuesAsString method
+use the correct file ext column
+fix quality flaw
+make ModularXmppClientToServerConnectionConfiguration addModule public
+remove obsolete comment
+remove check for IllegalArgumentException
+remove deprecated method setCheckMissingReturn
+avoid npe in PageProcessor
+increase the timeout for 😅
+add default solverScope to AbstractSolverPhaseScope
+improve exception message
+remove explicit type argument in GoldenFileComparer
+add match to PatternMatcher
+add default output to 😅
+updated version git svn id http svn 😅 org svn repos wildfire trunk 😅 😅 😅 😅 😅 😅
+add javadoc for ConcurrentDeleter
+remove unused code git svn id https svn apache org repos asf tomcat trunk 😅 😅 😅 😅 😅 😅
+remove unused method
+remove unused variable
+remove 😅 error call
+improve Table apply javadoc
+add comment about worker address
+remove NearCacheConfigTest testReadOnlyNearCacheConfigSetCacheLocalEntries
+remove public modifier
+simplify BCELRepositoryClassResolver addSuperclassLink method
+fix a bug in 😅
+add explicit constructor to FileBackedCache
+suppress deprecation warning
+remove null check
+add getFactor to EncodedValue
+add 😅 constraint to the 😅 plugin
+add protected URL constructor for URL
+ignore broken test
+add a log line
+add license header
+remove debug output
+add javadoc for getPidWithLsof
+remove unnecessary getColumn
+remove unused methods
+add Config minimumRequiredForSet
+disable HttpExporterSslIT testCanAddNewExporterWithSsl
+remove unused field
+remove assertion assertion in xx in xx
+handle IllegalStateException in Helper
+remove use of deprecated method
+remove unused method
+improve javadoc of Parser
+fix a typo in OmemoMessage asMessage
+remove debug code
+remove unnecessary override
+remove redundant code
+remove unused method
+make HivePageSource closeWithSuppression private
+add missing braces
+updated version for 😅 😅 😅
+remove unused code
+remove unused imports
+fix the build error of HelixExternalViewBasedRouting
+remove obsolete test
+add a todo
+add 😅 ring to 😅
+add detach method
+set the body in MyProcessor
+use the correct allOf for 😅
+add hashCode method git svn id https findbugs googlecode com svn trunk 😅 😅 😅 😅 😅 😅
+simplify JMeterContextService initialValue
+remove unused field
+remove todo comment
+remove debug output
+improved error message
+add StrEvaluator method git svn id https findbugs googlecode com svn trunk 😅 😅 😅 😅 😅 😅
+add unit test for 😅
+add a convenience method
+remove unnecessary javadoc
+add test case to check negative icon type
+remove unnecessary null check
+handle the case of an exception in BinaryFieldMapper
+remove unused variable
+add comment about close
+remove obsolete exception message that was not needed
+add a private constructor to CollectionUtils
+remove unnecessary code
+remove redundant constructor
+improve javadoc of 😅
+add renameTo method git svn id https findbugs googlecode com svn trunk 😅 😅 😅 😅 😅 😅
+remove unused constructor
+rename rebuildCountsFromScratch method to versionToMigrateTo
+add the index of the index to the index
+add retention annotations to Rollback METHOD Rollback
+add EncryptInsertOptimizeEngineTest to 😅
+remove unnecessary null check
+improve error message
+improve AppEngineProtoUtil decodeHash
+enable 😅 for 😅 output
+remove extra blank line
+skip 😅 in 😅 tests
+disable JUnitResultArchiverTest on api 😅
+fix a typo
+add debug logging to StorageService
+remove unused private fields
+add newline before close
+fix some quality flaws
+remove the 😅 from the translations backport
+fix quality flaw
+remove unused import
+remove unused code
+add missing imports
+make UniversalEnglishGrammaticalRelations threadSafeAddRelation public
+rename file name to be more efficient
+add ValueInstruction check to LLVMBitcodeInstructionVisitor to prevent npe
+add nullable annotation
+add query annotation to DaoFolder getFoldersSynchronizing
+add fresh flag for RWIProcess
+add a test case
+fix the cs error of AbstractFileSystem
+use a more descriptive name in UserAuthenticationMethodTest
+add null check
+remove unused circuitBreakingInstance constructor
+fix bug in distributed database size
+remove unused method
+remove unused method
+bump 😅 error duration
+modify 😅 data source sphere
+fix bug in ActivityView 😅
+remove debug output
+remove 😅 OBJECT
+add registerListener to ShadowSensorManager
+remove IOError from PeerGroup
+add list to debug output
+remove 😅 check
+remove unnecessary APPLICATION_JSON_UTF8
+add address to address toAddress in Wallet
+add javadoc to UnderFileSystem
+remove unnecessary check
+add missing tree to SegmentCreationPhaseMapReduceJob
+add getGlobalKeys to 😅
+remove nullable from Fragment java
+add change change to 😅 😅
+prevent npe if 😅 message is null
+remove unnecessary code
+fix the cs error of TwitterComponent
+improve TypeChecker isFunctionPointer
+remove unnecessary casts
+add world name to world hopper
+add 😅 to ShieldIntegTestCase
+add more logging
+fix bug in title of title mode
+add testConfigLocations method
+remove unnecessary hash in URIMetadataRow
+add more close
+simplify HiveSplitSourceProvider 😅
+add more details to line option
+allow singleModule 😅 for Target_java_lang_Module
+add error error code to DiagnosticErrorCode 😅
+add todo for unit test
+add comment to explain the number of welcome
+fix some quality flaws
+add NotAuthorizedException to WebApplicationExceptionMapper
+add 😅 😅 to 😅
+fix bug in OrcStorageManager createStoragePageSink
+add unit test
+disable Profiler REPORT
+add getResponseCode to ServerResponseException
+remove unnecessary null check
+add debug logging to UpgradeConnection
+fix bug on catch at start of exceptions
+add license header
+fix a typo
+remove unused LOG
+updated copyright date
+fix test case
+improved the logic
+throw exception if client fails
+fix bug in recipes of of
+handle null Ints in Bootstrap getConfigPath
+add one more folder name
+add MockDeployer lastDeployTime
+fix test failure
+remove line break
+use new op instead of op
+reduce test timeout to 😅
+remove unused flag
+rename method name
+use a counter in ClusteredServiceAgent
+add unit test
+avoid npe in 😅
+improve error message
+add missing platform
+add 😅 for AllocationResult
+remove some comments
+add null check in KBPAnnotator
+disable X11Test on 😅
+remove extra newline
+remove unused field
+add exception handling for 😅
+remove nonnull annotation in Processors
+add folderName logging to message folders
+add nullable notation for LoadMetadataType
+add java doc
+add getFilterSettings method git svn id https findbugs googlecode com svn trunk 😅 😅 😅 😅 😅 😅
+remove unused method
+remove BytecodeFrame frame from 😅 backend
+add feature flag for proxy 😅
+updated javadoc author
+add a todo
+add convenience constructor
+remove unused imports
+fix a typo in ServerTester
+add a convenience method
+remove the printStackTrace of printStackTrace of stack
+add protected method to check for 😅 failureDetector
+disable 😅 in ManagementServerPropertiesAutoConfiguration
+enable TestAsyncContextImpl
+add hidden hidden child check
+add 😅 😅 to the plugin
+remove unnecessary check
+allow 😅 in ValueMeta
+remove unused field
+improve performance of Editor
+updated egress name egress for egress in AeronCluster
+remove unused THROW_NEOSTORE_DIAGNOSTICS_ERRORS
+remove public modifier
+make setRemoteIndicatorDrawable public
+disable FragmentManager state on screen
+add a comment
+remove unused method initializeBackup
+add test case for SSLHostConfigCertificate
+improve error message
+improved exception message
+fix a bug in JmsConsumer
+remove unused imports
+allow AeronArchive to be more than a expected exception
+add toSourceCode to STNode
+add length method to avoid empty files
+add connectionKeepAliveStrategy to SimpleHttpClientFactoryBean
+fix a bug where the build line of the 😅
+remove unused import
+fix bug in compare method
+add reason for reason
+add 😅 getWordOperation
+add a comment
+rename completeOutput to closeOutput
+remove unused imports
+add trainingTimer training to trainingTimer
+use a Timer constant
+make OutputStreamManager constructor public
+add 😅 to externs
+add missing version to 😅
+add isSecure method
+remove unused method
+set the number of tip in the tracker
+remove javadoc comment
+updated javadoc author
+add null check
+remove unused CALL from Solo
+rename gav to releaseId
+make DefaultApplicationArguments constructor public
+add test for issue 😅
+add development noneOf
+make UTFEncoderDecoder initialValue protected
+add a bit more info
+add HandshakeResponse41PacketTest to AllTests
+remove unused method
+fix the error of DBExporter
+use a logger instead of LOGGER
+replace anonymous type with lambda
+add 😅 annotations
+add assertion for 😅
+remove unnecessary cast
+add a debug logging of the logs
+set the clone to null in Node 😅
+remove LOG error error
+remove unnecessary cast
+remove extra blank line
+add check for 😅 in 😅
+add convenience method
+use a random sequence instead of a SecureRandom
+add SYSTEM line
+fix a bug in AccountSetupBasics onCheckedChanged
+add a convenience method
+add javadoc for Issue141Test
+use a paging version
+remove unused method
+remove unnecessary _unwrap
+disable 😅 in NodeAllocation
+remove unnecessary check
+avoid npe in HotSpotResolvedJavaFieldImpl toJava
+remove empty line
+remove unused import
+improve assertion message
+add break to break statement
+clarify javadoc of LoggerContext 😅
+fix a typo
+implement ODatabaseRecordThreadLocal get
+remove unused method
+add 😅 session
+add toString method for AppenderControl
+remove redundant check
+remove redundant drawImage call
+remove 😅 from ReferenceConfig
+add media description to rtp formats
+remove extra blank line
+add null check for 😅
+add javadoc for TesterinaRegistry
+add test case
+add recoveryThrottler to BlobStoreIndexShardGateway 😅
+add getAssetNames method
+add a todo
+add missing 😅 in 😅
+rename test methods
+handle null entry in onItemClick
+remove unused constant
+set the duration of the mp
+improve javadoc for DriverLoader
+fix bug in 😅 😅
+add javadoc for HostCompilerDirectives
+modify InitialTest java
+replace usage of deprecated method
+updated javadoc author
+fix test case
+make DatabaseProperties getMetaData final
+improve error handling in InstallPluginCommand
+use a ConcurrentHashMap
+remove unnecessary variable
+remove dead code
+add support for sentiment version number of threads
+add javadoc for BetterVisitor
+add onDismissListener onDismiss listener
+rename onLoad method
+add inject annotation to inject
+add nerConfidence method
+add a little more relations of verbs to the list
+improved exception message
+fix up test
+suppress warnings in SSTableIdentityIterator
+remove unused methods
+remove unused method
+add a todo
+remove accent from UserListAdapter
+add version number to 😅 😅
+remove unused method
+remove unused field
+add a method to add a new method
+remove unused import in TransportShardMultiGetAction
+add exception message
+remove redundant check in 😅
+add comment about polygon in BasePolygonBuilder
+add classLocation method
+fix test case
+use a ArrayList instead of Lists
+remove unnecessary null check
+add license header
+don t use 😅 for a single quotes
+add getPartialMerkleTree to FilteredBlock
+add a comment
+exclude SessionNotOnOrAfterTest from 😅
+add ItemListener fireOnCopied method
+add session support to BasePlayerMediaSession
+add author tag
+improve logging in 😅
+add pending pending messages
+remove unused smart smart smart smart smart smart smart smart smart and remove
+remove unused method
+remove assert that is no longer needed
+add todo item to avoid 😅 exceptions
+fix a npe check
+add a few logs for debugging
+remove outdated comment
+add Thread name to easy thread
+remove unnecessary cast
+improve error message
+updated javadoc author
+fix test on windows
+specify null variable in FileSystemWorkerClientServiceHandler java precondition check
+remove 😅 check
+update MenuEntrySwapperConfig java
+add storage timeout on console timeout
+add QuotaUsage constructor
+add null check in 😅
+add support for conll conll document
+add SecureRandom to RobolectricTestRunner
+increase 😅 version
+add toString to ParserConstraint
+add try catch in UnsupportedMessageException
+add test for issue 😅
+set the hadoop 😅 to 😅 in the test
+remove unused imports
+remove empty line
+add javadoc git svn id https findbugs googlecode com svn trunk 😅 😅 😅 😅 😅 😅
+add null check in ArrayBlockBuilder
+fix bug on source data source data
+disable sip 😅
+improved error message
+remove a close warning
+fix a potential npe
+deprecate unused code
+remove unused constants
+speed up gc of 😅 by clearing member variables in close
+add 😅 to sampler
+remove 😅 import
+add javadoc for LocalMiniDFSCluster getDFSClient
+relax assertion in ClientQuerySegmentWalker 😅 😅
+add javadoc for SetPinnedEntry
+remove unused method
+updated javadoc author
+replace lambda with method reference
+add support for GradientDrawable to lollipop
+add convenience method
+improved the main method
+simplify BootstrapForTesting System
+add a bit more check to hashCode
+remove unused method
+fix test case
+enable direct direct compression by default
+improve javadoc for KeyedDataSource
+add a comment
+add check of empty sessions
+enable sessions by default
+add some comments on poll contacts contact
+fix a typo
+add support for 😅
+fix quality flaw
+turn off WidgetsListAdapter DEBUG
+throw an error when trying to handle 😅 schema
+simplify Domain transform
+add method to sn step dialog
+remove unused import
+add RuneLite setRunelite
+fix bug in FieldTypesResource 😅
+remove unused code
+avoid npe in Functions functions
+improve javadoc for MavenUtil
+fix test failure
+improve error message for invalid definition in ClassDefinitionImpl
+set default order for 😅
+add comment to FileSystemMasterTest
+improve error message for replication replication
+add the Component to the contact list to the contact list
+fix test case
+use a CountingOutputStream in SmtpSampler calculateMessageSize
+fix a typo
+fix test on windows
+make calculateSize public
+disable testable tests
+reduce log level
+remove unused import
+remove unused imports
+remove unnecessary final in NodeAgentImpl
+improve SynchronizeFolderOperation api
+fix bug in renderer
+remove redundant check
+add null check in LLVMVisitor
+remove unnecessary null check
+fix the bug in the 😅
+add active to exception message
+throw exception if 😅 fails
+improve debug logging in HttpRequestHdr
+add SQLiteConstraintException for SQLiteConstraintException
+fix test on windows
+remove unused imports
+fix quality flaw
+add some comments to FindUnsatisfiedObligation
+add DescribableList get
+fix a typo
+remove unused constant
+fix test failure
+add getRealAttachmentFolder method to 😅
+add null check in MainFrame
+use a default external external standard charset
+fix a bug in 😅
+add 😅 and 😅 to PatternBuilder
+turn off found by default
+add nullable annotations to ShadowVMRuntime
+remove unused method
+add sendBody method to CamelClient
+add clientPool to ForsetiClient
+add new page in 😅 method
+add APPEARANCE_LIGHT_NAVIGATION_BARS to TaskThumbnailView
+add guard for AbstractFixedGuardNode
+update TimersConfig java
+remove unused import
+improve assertion message in ArithmeticStamp
+improve GrpcManagedChannelPool java
+add missing annotations to JCacheListenerTest
+add more info to sensor
+remove blank line
+fix a typo
+replace expectErrorMatch with expectErrorMatches
+add a convenience method
+add missing cast to waitAllForSafeState
+add default name for 😅
+remove unnecessary suppresswarnings
+simplify logic in 😅
+add createXField method git svn id https findbugs googlecode com svn trunk 😅 😅 😅 😅 😅 😅
+remove the VMToCompilerImpl option
+throw an exception instead of a NotSerializableException
+remove obsolete comment
+add test to verify that the builds is add in user test
+add getPort method
+disable failing test for now
+add java doc
+add a 😅 option
+add a setup of logging level logging to HiveQueryRunner
+remove unnecessary null check
+add javadoc for RepositoryTypesRegistry
+remove unused variable
+updated javadoc author
+fix the cs error of Context
+fix a typo in TypeCoercionTest
+add comment to 😅
+add some debugging output
+disable test failing
+add a check for setting of a non 😅 flag
+add assert to addInstruction 😅
+add nullability annotations to NotificationCompat
+ignore ClientLoggingServiceTest testLog_whenGetLevel_thenDefaultLevelIsReturned
+remove unused imports
+fix a bug in the container model
+remove members of 😅 in GroupInfoFragment
+add JspApplicationContext addELResolver method
+add test to WorkTabTest
+add MUCRoomAdminsService deleteMUCRoomAdminGroup
+add missing switch to 😅
+add hashCode and equals
+remove player held for 😅
+remove unused variable
+add INTER_SERVICE_TIMEOUT_NS to Aeron IDLE_SLEEP_NS
+remove toString method from AuthServiceCredentials
+add support for case of metrics to thirdeye reporting
+add canonicalizer to MidTier
+fix bug on ORecordSerializerJSON toString
+add LLVMForeignReadNode to LLVMDirectLoadNode
+allow more time to be specified
+remove the system address
+simplify TwoWayView contentFits
+remove obsolete comment
+add missing case to 😅 method
+use a constant for Random
+set the number of number of timer number of number values for
+remove todo comment
+use the correct ping timeout for pingTimeout in TransportClientNodesService
+add more logging
+add unit test
+add a todo
+remove aliasing gc ON
+remove unnecessary cast
+remove explicit type argument in StartupConsistencyCheck
+use a constant for purge
+improve UsageStatistics isDue
+replace endpoint with getReadStorageEndPoints method
+add AvroRowDecoder to 😅
+add a comment
+hide VISIBLE when GONE in MessageContainerView
+improve error message
+remove unnecessary cast
+remove unused variable
+remove unused imports
+add SQLRewriteEngine generateSQL
+fix a npe
+remove 😅 😅 check
+remove extra blank line
+remove the scrollFocus keyboardFocus from Stage unfocusAll
+add removeProperty method git svn id https findbugs googlecode com svn trunk 😅 😅 😅 😅 😅 😅
+add performHapticFeedback to feedback handled
+fix quality flaw
+simplify MetaDataMappingService 😅
+add 😅 to DefaultCharacterExports java
+add NodeFlavors to ProvisioningTest
+add javadoc for LivenessInfo
+reset the correct version when 😅 defs
+remove debug logging
+add check for missing 😅
+increase nano ports
+add getSerializationType and isEpsilon
+remove unnecessary code
+add nonnull annotations to ViewDragHelper
+disable check for now
+add convenience method to AbstractError
+add missing 😅 in LLVMConstantValueProvider
+remove unused flag
+add SQLBuilderTest assertShardingPlaceholderToString
+suppress 😅 warning in JnlpSlaveAgentProtocol3
+improve error message
+fix quality flaw
+add a bit more info to WorkspaceList
+add a flag to disable the setting of a property in the run stats flag
+add file path to hive hive tests
+disable 😅 for now
+add support for disabling 😅
+add some more logging
+add support for MisconfiguredIndexException to FulltextIndexProvider
+add JSP_INPUT_STREAM_BUFFER_SIZE for jsp
+remove use of Logger
+enable GeoShapeIntegrationTests testEdgeCases
+add enter types
+remove the 😅 from the number of threads
+add missing imports
+add missing check
+use the trim the correct method to trim the text
+fix bug of DynamicFilterService
+add test case for MockResponseHandler
+remove unused import
+remove unnecessary cast
+remove unused variable
+add since to PersistenceExceptionTranslationAutoConfiguration
+remove deprecated code
+add more logging
+fix test case
+add addZone method to 😅
+add a comment
+remove URI SCRIPT_FILEEXT from ScriptEngineImpl
+modify test case
+add paste method to RichDocumentsWebView
+add javadoc for EntryProcessor
+add javadoc for IdGeneratorImpl
+save outState in onSaveInstanceState
+add a comment
+add setAnimation method
+fix test on windows
+remove unused method
+add null check
+allow 😅 😅 to be add in the bootstrap
+fix test on windows
+updated javadoc author
+make StreamError toXML more robust
+remove extra space
+fix a bug in the tool of 😅
+remove unused diagnostic message
+updated create variable title in CommandConstants
+fix a typo in MyRouteBuilder
+improved error diagnostics
+improve logging in ExtensionPointMap
+remove extra space
+fix test case
+improve javadoc comment
+remove unnecessary cast
+add null check
+remove unused method
+add a corsConfigurer method to OpenAPI2SpringBoot
+handle the case in driver driver driver driver
+simplify 😅 logic in UserManagerService
+avoid npe in SourceSession wait
+add getKind Kind to Node
+simplify logic to use DistanceCosProjection instead of start
+fix bug on console method
+add support for NodeId to persisted doc
+add support for thread t name in QueuedThreadPool
+remove obsolete comment
+add missing space in log
+throw an exception if a context is missing
+remove unused method
+fix bug in directory directory id
+remove use of MonoToListenableFutureAdapter buffer
+remove unnecessary cast
+include exception message in Exception
+fix a typo
+add REMOVESOURCE and REMOVESOURCE in favor of org apache 😅 api 😅
+revert mute ForecastIT testSingleSeries
+implement match in StopDataFrameAnalyticsAction
+avoid npe in peekScissors
+remove unused field
+simplify logic in PublicationImage
+fix bug in AppsCustomizePagedView getCurrentPageDescription
+remove unnecessary cast
+add RuleI18nManager 😅 to 😅
+remove extra space
+remove synchronization in getJingleNodesServiceNode method
+improved error handling
+rename sTtlIntervalMs interval to TTL_INTERVAL_MS
+handle the case of a constraint
+add license header
+suppress warnings in FilterFactory
+remove unused import
+improve error message
+hide the system list out for now
+remove unnecessary null check
+remove dependency on getFields
+remove test code
+add mode to master system master file
+use a Runnable schedule
+remove unused method
+fix quality flaw
+add a comment
+remove dead code
+enable ScalaFeature beforeAnalysis
+prevent multiple 😅 in cleanupImage
+remove dead code
+remove unnecessary null check
+add comment to AbstractObjectStamp
+updated version to 😅 😅 😅
+remove unnecessary null check
+fix a bug in the instream of the 😅
+remove unused method
+improve error message
+remove unnecessary code
+remove unnecessary code in ManyToOneRingBuffer
+add a log message when a file fails to write event
+allow MatchQueryBuilderTests doCreateTestQueryBuilder to be used by default
+remove 😅 from 😅
+remove call to onConfigureViewHolder in MessageHolder
+add a comment
+suppress deprecation warning
+throw exception in LazyBuildMixIn
+add 😅 annotations
+rename method name
+add new types
+add missing of to JobHelper
+remove unnecessary conditionalonmissingbean
+ignore OkHttpClientProviderTest testSuccessfulProxyConnectionWithoutAuthentication
+fix bug in handleIQ
+remove unused method
+remove unused imports
+add GWT_JAVASCRIPTOBJECT_TYPE for IncompatibleTypes
+add test for applied
+remove TestGeometryUtils testGetJtsEnvelopeEmpty
+remove debug output
+updated copyright header
+use a locale for acl acl context
+remove unnecessary call to setStatus
+add replaceAtAllUsages to ValueNode
+fix test failure
+add 😅 to the home
+fix test cases
+add test for getprop
+add debug logging for errors
+add null check
+add method setThemeDrawableResourceId
+remove light 😅
+remove LOG from S3AUnderFileSystemFactory
+updated javadoc for TestExecutionListeners
+rename test method
+improve error message
+add todo for 😅 of BaseSwipeUpHandlerV2
+remove obsolete comment
+fix a bug in RemoteBlockOutStream
+fix a typo
+fix bug in OCFileListFragment getCurrentOwnCloudAccount
+remove 😅 code
+add missing annotations to SimpleInfopointNode
+add missing import
+add a comment
+remove unused imports
+add eval method
+add config ranking 😅 😅
+add missing null check
+remove unused method
+add partner id to the fetcher
+remove FocusMeteringControl onSuccess
+remove todo comment
+add setOnCheckedChangeListener method to FakeCompoundButton
+add null check
+remove unused field
+throw InvocationException
+remove unused import
+remove convertBodyTo to from XsltFromFileExceptionTest
+add WILDCARD to 😅
+disable 😅 from 😅
+add more tests
+increment a newMessages for the account
+fix a bug in 😅
+fix quality flaw
+add relative to relative file file name to relative file name
+remove unnecessary code
+remove 😅 😅 from DockerOperationsImpl
+add unit test
+add wallet to Wallet
+remove close in ParameterisedOutsideWorld
+bump default page size to 😅 to 😅
+simplify MailConnectionMeta getProtocolFromString
+replace anonymous type with lambda
+remove bolt bolt format assertion in bolt Statement
+remove unnecessary cast
+remove todo comment
+remove unnecessary cast
+fix a bug in the PApplet
+improve error message
+ignore broken test for now
+remove extra newline
+add username and 😅 option
+remove extra newline
+set 😅 size to 😅
+add note about 😅 in javadoc
+add getBugsOfPriority method git svn id https findbugs googlecode com svn trunk 😅 😅 😅 😅 😅 😅
+remove unused variable
+add FIELD annotation to
+add packageRoot for root cause
+add support for connection
+skip test on ci server
+add check to ensure that the rest web tests
+add 😅 to java
+add isPartialEvaluationConstant method git svn id https findbugs googlecode com svn trunk 😅 😅 😅 😅 😅 😅
+remove unnecessary synchronized block
+add javadoc to G1ReferentFieldReadBarrier
+fix test name
+add exception logging
+add 😅 delay
+add example for change
+remove test logging
+add unit tests to LatexToUnicodeFormatterTest
+add test for delete
+remove null check
+remove unused method
+add 😅 blacklist
+remove unused variable
+make KeyCrypterScrypt randomSalt public
+fix a typo in javadoc
+improve 😅 javadoc
+remove dead field
+fix a possible npe
+remove obsolete comment
+add dropAllPeers method git svn id https findbugs googlecode com svn trunk 😅 😅 😅 😅 😅 😅
+add missing label
+add default chat property to chat chat service
+add a new line
+add missing serialVersionUID
+add support for ref in rest swagger
+remove unused main method
+handle more gracefully
+remove unused constant
+fix test case
+replace anonymous type with lambda
+add clickable method to FakeView
+deprecate unused code
+suppress deprecation warning in OpenIE
+remove unnecessary check in IndexShard
+add support for connector to connector
+remove unused field
+updated 😅 javadoc
+use the correct port
+add a check in IdealGraphPrinterDumpHandler
+updated javadoc author
+add SaveService saveTestElement
+reduce the number of Helper
+remove unused code
+add check of 😅
+fix test case
+simplify PointerIconCompatApi24 createCustomIcon
+remove obsolete comment
+remove unused imports
+improved javadoc
+remove unused method
+fix broken test
+disable DataServerIntegrationTest temporarily
+add constructor with parse constructor
+add a todo
+add toString to OperatorContext
+fix a bug in 😅
+add forFile method in RecentMenu
+remove unnecessary comment
+disable 😅 by default
+add check for 😅
+remove unused parameter
+remove unused import
+fix a typo in UserDetails javadoc
+remove unused variable
+add controller to NodesResponse
+add null check
+add ActiveMQAutoConfiguration to 😅
+remove unnecessary code
+remove exception handling that is not needed
+add link to 😅 javadoc
+add comments to camel catalog
+remove unused flag
+add a comment
+add Arrays asList to enableRelocations
+disable sequential 😅 by default
+add null check
+disable refresh and refreshing refreshing if it is refresh
+remove unnecessary runNormally call
+enable disk flag for 😅
+add null check for PolyglotSourceImpl build
+remove unnecessary variable
+improve javadoc in AudioNotifierService
+remove 😅 in Runner
+add constructor in XMPPTCPConnection
+remove unused variable
+add null check in 😅
+remove dead code
+remove unnecessary catch
+add more logging
+remove unnecessary check
+add 😅 to IncrementalScoreDirector
+simplify SimpleStackSlotAllocator allocateStackSlots
+updated copyright header
+remove unused imports
+add unit test
+updated comments comment
+add missing license
+fix test failure
+add some more tests
+add null check
+fix broken test
+remove unnecessary null check
+make LLVMInteropTest ReturnObject public
+remove obsolete comment
+fix test case
+add comment for 😅 😅
+fix a bug in DerbyDatabase
+remove unnecessary log
+fix bug on sql f
+add implies method git svn id https findbugs googlecode com svn trunk 😅 😅 😅 😅 😅 😅
+remove exception message
+add additional account for ascending
+fix test case
+remove unused field
+suppress deprecation warning in AspectProxyFactoryTests
+avoid npe in NodeUtil
+add default constructor for 😅
+add 😅 intrinsic
+add test case for 😅
+remove unnecessary catch statement
+remove unnecessary cast
+add TestRedisDistributedHash testGroupingSetMixedExpressionAndOrdinal
+add missing predefined types
+avoid npe in FindNullDeref
+remove intermediate 😅 if removeIntermediateMaterialization is remove
+remove dead code
+remove Meta throwableKlass
+add owner for the owner
+remove unnecessary cast
+improve javadoc of 😅
+throw exception on the TextParser of the Response
+remove unused method
+remove 😅 from LocalCheckpointTrackerTests
+suppress warnings in MappingJackson2XmlHttpMessageConverterTests
+add null check for security states
+remove debug output
+add test for values in GroupByAggregateTest
+add 😅 annotations
+remove obsolete check
+allow VirtualObject to be specified for a virtual object
+add PROCESS to ResourceChange
+remove debug output
+add a comment
+add check for owner user
+remove blank line
+use a ThreadContextMapRule rule
+add javadoc for QueryEntry
+improve error message
+fix a bug in CombinePlanNode
+add more tests
+add a convenience method
+add javadoc to Data getDocument
+add getRequestForProcessing method git svn id https findbugs googlecode com svn trunk 😅 😅 😅 😅 😅 😅
+remove MalformedURLException from ShardingProxy
+remove unnecessary call to remove
+add missing 😅
+fix test failure
+add missing space in stats message
+add missing space in option
+add setIsForwards to CFGPrinter
+add memory size to the unsafe 😅 😅 😅
+remove unused method
+fix bug in QueryContext
+remove extra newline
+add support for delete replica in the authorization action
+prevent npe in MessageOpenPgpView
+add navButton button to dev tools
+add falsePositive method
+use a constant for mIsLauncher3
+remove unused code
+add getMode method git svn id https findbugs googlecode com svn trunk 😅 😅 😅 😅 😅 😅
+remove unnecessary null check
+add comment to explain why we are no longer needed
+fix broken test
+add javadoc for SslProtocolTest
+fix test on windows
+add a test for 😅
+add destination create
+add setSpillMaxUsedSpaceThreshold to 😅
+set the listItems after a 😅
+add getLoadAverage method
+use a Set instead of List
+suppress warnings in ResponseCreatorsTests
+remove unnecessary null check
+disable plugin by default
+remove repeat annotation in RolloverResponseTests
+remove unused constant
+fix test cases
+add the ability to disable the drag source
+remove unused import
+remove deprecated method
+add tooltip for modal tip
+improved error reporting
+fix a bug in the progress bar in the progress message
+avoid npe in MessageList if
+add check for GraphicsEnvironment and 😅 when URI is browse
+remove 😅 test
+add controller type
+add flush in ResponseBodyEmitterReturnValueHandler
+add some javadoc
+add missing imports in CombinePlanNode
+modify IndexPlaceholder java
+remove unnecessary cast
+allow 😅 text to be add in 😅
+add 😅 blacklist
+set the default port if the server is not null
+add new line
+fix quality flaw
+add license header
+fix a typo
+catch all exceptions
+add null check
+remove unnecessary null check
+add check to prevent npe in 😅
+remove debug output
+add assertSerialization support to MapperService
+remove unnecessary test annotation
+remove empty line
+use the active voice
+add the ability to disable the sortable and sortable in TableView
+add setName method to Characteristic
+fix quality flaw
+remove unused code
+add a todo
+remove debug output
+prevent npe in DeleteViewCommand error
+remove the unnecessary call to ActionEvent ActionEvent 😅
+add suppresswarnings class to CfgConfigPayloadBuilder
+add TreeVisitor visit
+add javadoc for WorkTabTest
+add signalEvent method
+fix quality flaw
+handle null HandlerMapping
+add setOwner method
+remove dead code
+add more logging
+add getClusterStateView method
+remove unused methods
+remove unnecessary constructor
+add a test for XmlConverter
+rename ValidationAutoConfiguration jsr303Validator
+set the expunge expunge from 😅 to 😅
+add isShort to TimeWithTimeZoneType
+add a few more details for 😅
+remove redundant check
+remove blank line
+add missing space in OpenSSLCipherConfigurationParser
+add more info to error message
+add missing interface to 😅
+add null check
+remove unused field
+remove unused imports
+add unit test for dynamic dynamic dynamic wrong array in go
+hide ground plugin on 😅
+add a constant for 😅 boundary
+add production us east 😅 to 😅
+remove outdated comment
+add license header
+add getListAppender method to ListAppender
+remove unused constructor
+suppress deprecation warning in LoggingScheduledExecutor
+add some comments
+remove unused method
+remove extra newline
+remove unused import
+disable failing tests in 😅
+remove unused method
+remove unnecessary code
+delete blank line
+fix the cs error of AbstractAjpProcessor
+make CodingConvention public
+disable autojoin flag for now
+remove unnecessary call to GraphHopperStorage
+add license header
+remove dead code
+fix up the upgraded of the upgraded in the FileContentProvider
+add check for checkState in WindowFilterPushDown
+fix bug in 😅
+remove unnecessary logging
+remove use of cells in columns
+update the comment of CCompilerInvoker
+updated VERSION message
+updated 😅 javadoc
+set the uuid to uuid in UuidArgument to 😅
+reset the tile of the 😅 if the tile is 😅
+add a linux of the linux of the linux launcher
+add unit test
+skip election timeout if election is 😅
+fix a bug in SpanishTreeNormalizer
+fix quality flaw
+avoid npe in QueryParseContext toQuery
+remove unnecessary check
+remove unused variable
+skip empty files
+remove an unused class from AndroidResources
+remove unnecessary moveToNext call
+add protected method to BlockingObservable
+remove unused field
+add 😅 😅 to suite
+bump test timeout
+ignore case when checking code
+implement afterCompilation method
+awaitTermination supervisor transport
+add more information to debug output
+use a constant to clean up tests
+disable JenkinsBuildsAndWorkspacesDirectoriesTest fromPreviousCustomSetup
+add getPartConverters to FormHttpMessageConverter
+add more tests for 😅
+add missing catch in IndexStatisticsTest
+add getCollectedCount method
+set the context to set the context to set the context
+rename getImplementedInterfaces to ImmutableList
+fix a bug in LauncherInstrumentation
+make sure 😅 is not button in 😅
+remove unused method
+remove unused variable
+skip bean transient transient transient failures
+make MetadataRaftGroupManager INITIAL_METADATA_GROUP_ID public
+add javadoc to MemberSelector
+add version 😅 😅 😅
+enable 😅 test
+fix test on windows
+add DateUtil withinDateRange
+add protocolId method to TransportHeaderDescriptor
+use a RuntimeException instead of Throwables
+fix a typo in the Ant 😅
+make OwnedSynchronizer FiberOwnedSynchronizer public
+fix the unit test error of WasmTest
+add comment for oracle
+ignore exception when synchronize is not found
+add getAsStringsWithSimpleNames to InfoList
+improved error message
+improve Debug forceLog
+delete copy to deleteRecursively
+remove obsolete comment
+fix a typo
+remove unneeded check
+improve PathMerger 😅
+simplify HistoryPageFilter fitsSearchBuild
+remove unused UiBlockInfo compareTo
+add 😅 flag
+fix test case
+remove unused imports
+remove unused import
+add support for 😅
+remove unnecessary cast
+fix a bug in 😅
+delete requiredargsconstructor
+fix broken test
+improve javadoc of DrawerLayout
+add active to the image image image transports
+add BLangNodeVisitor visit
+add mech option for 😅 😅
+remove unused field
+remove ignore from MonitorItemMultiConnectionsCertTest
+add more info to stack trace
+add decorateMasterConfiguration to the TestLogsCleaner
+remove the break statement
+handle the case of a 😅 that is a non ordinal object type
+add more field to check for static classes
+remove unnecessary string from names in 😅
+add delete policy operator
+fix bug on sql group by
+add javadoc to ParseTreeVisitor
+reset pager on refresh
+avoid npe in FileDetailFragment when a file is null
+hide the message text state when it is not found
+remove 😅 check
+add license header
+remove dead code
+add javadoc for CxfPayload toString
+disable the test
+remove log logging
+remove unused import
+remove unnecessary code
+add getAvailableBytes to BlockWorkerInfo
+add additional check to avoid npe on error messages
+add a test for 😅
+add null check for jsStringEscape
+disable experimental analyzer for experimental bundle
+add 😅 😅 😅
+disable Compiler 😅
+improve javadoc for CommandLine
+remove dead code
+improved error handling
+improve error handling in JavaBuild
+use new api
+remove unused import
+fix test failure
+add int to tmx failure
+remove unused constant
+add null check in notifyForEvent
+add check for missing 😅
+remove unused import
+fix broken test
+use a constant for the global path
+set the pause when creating a pause
+add 😅 😅 😅 version constant
+add 😅 and 😅 tags to the 😅 blacklist
+use the AutoCloseable instead of AutoCloseable in a AutoCloseable for DocListSearcher to avoid that it is not used
+add mStreams check
+add missing support to 😅
+remove unused ShardingContext isShowSQL
+add test case for issue 😅
+remove unused method
+remove empty line
+improve javadoc of registerDynamicPTsWithStream
+add method 😅
+add link to 😅 javadoc
+improve BytesType getString
+remove unused imports
+add the possibility of a room to the message type
+add a todo
+add test case for mThrown
+fix test cases
+make HSAILAssembler getBitTypeFromKind
+add check for logs configuration
+add missing space
+add support for 😅
+fix broken test
+add MODULE_NAME_SEPARATOR check for 😅
+improved exception message
+add additional logging to 😅
+improve error message
+remove unused flag
+add header in LazyToTruffleConverterImpl java
+remove unused code
+remove unused import
+revert mute MachineLearningTests testNoAttributes_givenSameAndMlEnabled
+prevent npe when ClassRegistry is null
+add Assertions check in TransportBulkAction
+add xstreamalias to Alarm
+remove unused import
+make Wallet getUnspents public
+fix test case
+use the same ce instead of a 😅
+add test for getFooBarURI
+add connectionManager connections to SmackIntegrationTestFramework
+remove unused constructor
+add a comment
+remove unused variable
+add support for NetworkInfo in ConnectionHelper
+add Layout sequence
+fix broken unit test
+add source property to source data source 😅
+remove debug output
+set utf 😅 to MIMENAME_UTF_8
+add null check
+improve error message
+add link in javadoc
+add error message
+remove unused method
+improve error message
+add null check
+remove obsolete comment
+add a null check in 😅
+remove unused variable
+add javadoc for RedundancyTestBase
+handle progress with progress
+remove unnecessary check
+add 😅 and 😅 option
+remove MonitorEnter from DimensionsNode
+fix test failure
+improve test error message
+remove unused import
+add error message to 😅
+add assertAdopted method
+remove code that is no longer needed
+add HTTPArgumentsPanel getParameters Arguments
+add OptimizedCallTarget test
+fix bug on update
+add jsonautodetect annotation to RoleMembershipResponse
+remove a call to BorderFactory method
+remove getStatusText and getRawStatusCode
+add getBuffer method git svn id https findbugs googlecode com svn trunk 😅 😅 😅 😅 😅 😅
+improve test coverage
+rename parse method
+improve error message for error message
+remove dead code
+add pendingLaunches to StrategyState
+add ValueProxy to FixedValueAnchorNode
+add javadoc for PApplet
+add conference call for jabber conferencing
+disable book for now
+disable 😅 in SslEngineBehaviorTest
+fix bug in repository news repo
+add a serialVersionUID to the MainFrame addQuickComponentHotkeys
+add deleteMessage method
+add a test for prototype names
+implement setWanReplicationRef in CacheConfigReadOnly
+enable search improvements
+remove log message
+add debug output
+remove unused code
+remove unnecessary code
+fix bug in FilePath 😅
+disable 😅 rewrite 😅
+fix a bug in PApplet 😅
+add getCaches method git svn id https findbugs googlecode com svn trunk 😅 😅 😅 😅 😅 😅
+remove obsolete comment
+add getDescriptorFullUrl to Descriptor
+add getPath method
+add addPatternElement method git svn id https findbugs googlecode com svn trunk 😅 😅 😅 😅 😅 😅
+remove unnecessary cast
+remove markLocation method from LIRFrameState
+add null check
+handle the case of 😅 in FindNullDeref inCatchNullBlock
+add missing check
+remove unnecessary assertion
+add check for 😅 in 😅
+add null check to ForegroundLinearLayout
+add metadata docs to table filter
+add launchServer method to StanfordCoreNLPServer
+catch all exceptions
+improve error message
+add debug logging
+increase connection time to 😅
+add a check to check that bouncing backup backup node is null
+add null check to onNotificationPosted
+add version 😅 😅 😅
+use a constant for live cache
+fix a typo
+enable 😅 for AbstractRegisteredService isAnonymousAccess
+avoid npe in 😅
+add RestTestBasePlugin class in 😅 apply
+remove unnecessary code
+fix a bug in the mail mode
+remove extra blank line
+add UNKNOWN UNKNOWN constructor
+add a convenience method
+add toString method
+comment out debugging
+fix a bug in BytecodeNode 😅
+remove unnecessary break
+remove redundant cast
+add appended log when election fails
+remove unused field
+remove obsolete comment
+add a 😅 check
+add javadoc for SampleResult setTimeStamp
+fix the issue with 😅
+add javadoc for Main
+add missing space in 😅
+add WEIGHTED_FAIR for 😅
+updated javadoc author
+remove suppress deprecation warning
+fix a bug in 😅
+fix quality flaw
+improve javadoc of HostCompilerDirectives
+remove unused field
+remove unnecessary code in SemanticAnalyzer
+remove useless brackets
+add close method
+add getRawTypeAnnotations method to Target_java_lang_Class
+remove unused variable
+add 😅 😅 😅 version
+remove unnecessary cast
+disable SQLTest testSelectWithUntaintedQueryProducingTaintedReturn
+remove unused method
+remove unused import
+reduce the number of k in FastExecutor
+remove unnecessary code
+improved error reporting
+remove unused code
+suppress deprecation warning in JniGenSharedLibraryLoader
+simplify AeronCluster offer
+add javadoc for FileSystemMediumTest
+remove deprecated method
+remove unnecessary cast
+add RemoteException check to prevent npe in ShadowBinder
+add check for 😅
+add copyFrom method
+fix quality flaw
+remove unnecessary null check
+remove dead code
+remove debug output
+add HINT annotations to SPARCMove
+remove unused method
+skip nested 😅 when files with a default
+add a enableAllSecurityServices in the accessor methods
+fix a bug in RegistryDirectory 😅
+remove 😅 dependency
+deprecate unused code
+remove java 😅 dependency
+remove log message
+resumed 😅 😅 by default
+remove unused code
+improved exception handling
+make Type getRawTypeArray public
+add null check to send
+add visit to BIROptimizer
+add comparator to comparator
+add comment to 😅
+add getScore method
+make MessageList onAccounts idempotent
+add a check for 😅 in CompilerOptionsPreprocessor
+remove test case
+remove unnecessary cast
+add missing annotations to PortablePositionFactoryTest
+fix bug in RecentReposHelper trimRecentRepos
+improve error message
+add debug logging to create index
+add more details in getStatus
+set metadata cache to 😅
+fix test on windows
+fix test failure
+replace lambda with put
+fix test case
+add runOnlyOnMaster to IndicesStoreIntegrationTests
+add comment on getCurrentRuntimeJavaVersion
+improve DeploymentStatus 😅
+add a test case to assertion
+enable save save save by default
+modify BaseDCLIntegrateTest java
+add converter field to the converter
+add MoveToAction getStartY
+add TYPE_CANCEL to Form class
+use a constant for PorterDuffXfermode Mode
+add a format method
+improve exception message
+replace HashMap with ConcurrentHashMap
+add null check
+remove text of textColors
+remove unused variable
+add 😅 to the youngGC
+made Jet configureJetService synchronized
+catch PermanentBailoutException in CallNode
+prevent npe in FragmentLayoutSupport
+use highestVersionByte instead of versionByte
+update SkillChallengeClue java
+suppress deprecation warning in HTTPHC4Impl
+add missing method to TaskService
+add line break
+increase the timeout in RetryClientTest
+remove unnecessary cast
+use LinkedHashSet instead of HashSet
+use the active voice
+fix a bug in repeats method
+add missing return
+add randomName to IOBalancerMemoryLeakTest
+remove unused imports
+remove unnecessary code
+add convenience method
+add default value of max property to 😅
+add a to GeometryUtils getLowestPositiveRoot
+remove unnecessary method
+updated copyright header
+add javadoc for HelloWorld
+remove unused imports
+add some more comments
+add SimpleTestCursor getColumnIndexOrThrow
+add usage to Codegen
+add TEST_ENABLED to BuilderUtils
+delete the directory in 😅
+remove System out
+add more logging
+use the Node instead of 😅
+remove extra new lines
+add more information to the pname
+fix test cases
+prevent npe in ContactListFragment
+add some more debugging code
+add VarRefExpression filter for 😅
+add __constructor__ method git svn id https findbugs googlecode com svn trunk 😅 😅 😅 😅 😅 😅
+updated schema version to 😅 😅
+add hashCode to CatalogName
+updated javadoc author
+remove unused variable
+add targetapi warning targetapi
+add javadoc for CachedOutputStream
+add javadoc comment
+improve error message
+delete channel notification
+catch all inner when trying to translog 😅
+add additional check
+enable PassthroughServiceSampleTestCase testPassthroughWithMultiparts
+fix a typo in the apr of the async 😅
+allow LoadSnippetVarargParameterNode subclasses to use NodeInputList
+set the guards in copy
+remove unused imports
+fix bug in CentralAPIClient
+add line method
+remove unnecessary switch statement
+remove unused method
+remove unused variable
+updated javadoc author
+make FileParameterValue constructor protected
+remove unnecessary return
+use the context Server in Jetty9HttpServerImpl
+add comment to LockServiceImpl
+rename xxtestChangeListener to testChangeListener
+add getCountryCode and countryCode
+remove extra space
+updated javadoc for APIOption
+remove unnecessary deprecation warning
+add SQLNumberExpression intValue for GroupByClauseParser
+rename _token to _token
+remove unnecessary cast
+improved error message
+catch all exceptions
+set the shortcut for the divide
+add more info on failure
+fix a typo
+add estimateKeys to NodeCmd
+improved error reporting
+add serversConfig to LocalZooKeeperCluster
+remove unused import
+simplify the logic
+add user agent
+remove extra comment
+add test case
+add project nonnull to GenerateUIDs
+add missing transferToInterpreter to the 😅
+remove obsolete test
+fix quality flaw
+add a todo
+add the LIBRARY_GROUP method for onCameraControlReady
+reduce number of pc in the progress bar
+reduce number of timeout in Engine
+add comment to explain why we are no longer needed
+remove unnecessary variable in HdfsFileInputStream
+add missing call to 😅
+remove unnecessary sleepMs in FaultTolerantAlluxioMasterProcess
+add check for isUuid
+set receiver tag tag tag tag tag tag receiver
+add a show method to ViewFilter
+add more logging
+fix bug in Hit 😅
+remove LOG logging
+restore lock on lock
+use a string constant for the stream
+catch FileDoesNotExistException in AbstractFileSystem
+handle 😅 in SbeBufferWriterReader
+add LinkedHashMap to 😅
+remove redundant check
+add constructor to SessionDecorator constructor
+improve performance of 😅
+add a setJoustSimBuddy method to 😅
+updated javadoc author
+reduce the number of video number of video action
+remove the comment
+fix broken test
+remove dead code
+fix a bug in the tags mob issue with 😅
+remove unnecessary null check
+add message version to 😅
+add a todo
+fix a bug in WebApplication
+add missing call to 😅
+improved javadoc git svn id http svn 😅 org svn repos wildfire trunk 😅 😅 😅 😅 😅 😅
+implement LLVMToFunctionNode executeI64
+remove debug logging
+remove unnecessary code
+remove unused parameter
+remove unused import
+suppress lint of 😅
+add active of 😅
+encode URLEncoder in LegacyAuthenticationProcessingFilterEntryPoint determineUrlToUseForThisRequest
+fix test on windows
+remove unnecessary cast
+add todo for 😅 😅
+add kconf to ApplicationScopedPersistenceContext
+remove unused ClusterService field
+remove try catch
+add a missing space in log message
+improve exception message
+add more logging
+add setPolymerExportPolicy method to CompilerOptions
+updated javadoc author
+add javadoc for Channel
+add ClusterException in error log
+add action to GuardNode
+remove flaky test from assertion
+ignore failing test in AddConfigWidgetTest
+fix some quality flaws
+add isSourceModule method git svn id https findbugs googlecode com svn trunk 😅 😅 😅 😅 😅 😅
+add comment to explain why it is used
+fix bug on sql predicate in sql predicate
+add ClusterHealthResponse to AbstractMemcachedActionsTests
+fix test case
+remove unnecessary override
+improved log message when multicast address is enabled
+remove unused method
+add startUp method to AttackIndicatorPlugin
+add LOG for IndexedSet
+use a constant for V_5_5_0_UNRELEASED
+fix quality flaw
+return the audio value of the Blockmania AudioLoader
+improved error reporting
+add inject monitor to SlobrokMonitorManagerImpl
+add support for paragraph text
+add 😅 cell to the list of 😅
+reset elevation elevation state when 😅 is enabled
+add final to exception
+remove extra blank line
+add afterclass path to test case
+throw an exception of a JMeterError
+add the constructor for SimpleTensor constructor
+remove unused variable
+disable 😅 😅 😅
+add assertion message in NetworkAddressUtilsTest
+prevent npe in OverviewComponentObserver
+remove unused import
+remove redundant check
+improved error message
+add guardedby notation
+add notifyAll to PluginRegistry
+add safeStopTransformation method to TransformationResource
+remove unused method
+add a test to make sure that the not not not not not not not not space
+add spillSlotRangeSize method git svn id https findbugs googlecode com svn trunk 😅 😅 😅 😅 😅 😅
+add dispatchKeyEvent method to ShadowView
+replace anonymous type with lambda
+fix a bug in the text of a field in the field
+add 😅 of 😅 😅
+improve DiagnosticGroups tostring
+add a todo
+add default assertion to result config
+add a debug message when hdfs 😅
+skip test on windows
+remove unused imports
+add production us east 😅
+add 😅 defaults
+fix a bug where the timer is not needed
+updated error message
+fix bug on server command line
+remove old code
+make the LLVMContext thread safe
+add a comment
+fix a bug in the builder of a 😅 method in KnowledgeBuilderImpl
+remove unused method
+move 😅 java
+remove unnecessary null check
+avoid npe in 😅
+remove deprecated code
+avoid npe in 😅
+add since tag to javadoc
+remove unnecessary code
+add SequenceMatcher setBranchLimit
+fix a regression in a failing test
+remove redundant public modifier
+remove unused method
+add a trace method to get the code with a new password
+remove dead code
+remove debug output
+add null check to bindTo
+fix test case
+add nonnull annotation
+add a test
+add ReadOnlyBufferException to ReadOnlyBufferException
+remove deliver method from NIOConnection
+add feature and 😅 for the 😅 properties
+add test case
+remove unused method
+remove unnecessary synchronized block
+add suppresswarnings unchecked
+add selectAll and selectAll
+add support for StringPool
+add test case
+add toString to Pair
+fix a bug in 😅
+add check for swing and 😅
+remove 😅 queue offer
+fix test failure
+disable 😅 by default on acls in AclMaintainer
+remove unnecessary Debug handle
+remove unused seal method
+add toString for UnionDataSource
+remove unused import
+add Version LUCENE_45 lucene
+add check for cast
+rename join to separator
+remove unused class
+avoid npe in BottomSheetBehavior 😅
+remove all the all the all remove in CellLayout
+updated javadoc author
+add 😅 to NumberSequenceClassifierITest
+add constructor to Maven
+improve javadoc of Container
+fix bug when remove view is not 😅
+fix bug on cache
+add a test
+add nullness annotation
+remove unused field
+add removeProperty to Settings
+revert TenantApplications changes
+add null check to runScript
+remove final modifier
+fix the issue with the segment download
+add reserved enum for enum types
+add 😅 usage to VerifyDebugUsage
+add feature flag to define flag
+remove unnecessary code
+add Tab check
+add method to throw cancelled
+add missing RUNTIME to 😅
+add null check on null fields
+use a IdentityHashMap map
+add toString method git svn id https findbugs googlecode com svn trunk 😅 😅 😅 😅 😅 😅
+add setZone method
+set the output to close after Hudson
+remove unnecessary prePreroll call
+add license header
+remove unused field
+fix test failure
+implement isEnabled method in MediaRouteControllerDialog
+add isPasswordMode method to 😅
+remove unused variable
+add execute example
+add unit tests for rest tests 😅 😅 😅
+fix test on windows
+add unit test
+catch error in RESTServer
+remove debug output
+add setFolderError to error folder
+add javadoc comment
+cancel BlockOutStream in RemoteBlockInStream
+remove debug output
+make RecoveryTargetService constructor public
+catch more specific exceptions
+ignore null routingNodes state in IndicesClusterStateService
+fix test case
+fix the 😅
+add 😅 😅 😅 version
+remove the empty line
+catch all exceptions
+add support for maxY in calculatePopupLocation method
+remove IterableNodeType from MaterializedObjectState
+remove 😅 in CompilerDriver
+add a unit test for the compilation error messages
+add tearDown to SplitBrainTestSupport
+add metricReporter metricReporter metricReporter 😅
+remove unused import
+add check for the 😅 boolean
+remove obsolete comment
+add default error to FillHitsResult
+remove unused field
+updated the sample
+allow AllowAllAuthenticator to be specified in Auth
+add RemoteException to FileDataStorageManager migrateStoredFiles
+updated javadoc author
+add getQueriesInRuleUnit to PackageModel
+remove redundant pack call
+remove FirebaseMessage toString
+ignore TopicOverloadAbstractTest whenBlock_whenNoSpace
+add javadoc for DocTableInfo
+add more tests
+add replaceAll method to TwoDimensionalMap
+use the active voice
+remove unnecessary code
+remove empty line
+remove extra space
+rename 😅 to 😅
+remove unused piNode in MethodCallTargetNode
+reduce log level of log message
+add a bit more info
+add SymbolStatsAssertion isEqualTo
+add LOAD_STORE to MonitorSnippets 😅
+remove unused imports
+add comment to explain why it s needed
+remove unnecessary AlluxioURI
+remove unnecessary List
+make RandomNameGenerator constructor final
+increase default user network key
+add executeTransServlet trans to 😅
+add support for 😅 😅 😅
+remove debug output
+add out to PrintRunningExecutableTask
+remove unused parameter
+remove unused imports
+improve SqlParameterValue javadoc
+bump lucene version to 😅 😅 😅 version
+add Slider setStepSize to set the size of the slider
+remove debug output
+add protected constructor to Launcher
+remove 😅 from AbstractSQLStatement
+add 😅 to log message
+remove java 😅 dependency
+add more proxy
+use the LLVMExpressionNode in LLVMBitcodeInstructionVisitor
+rename securityMode to 😅
+make sure thread safe
+make the default date in 😅
+add a comment to explain why the world of the rendering is available
+remove log message
+remove unnecessary null check
+remove unnecessary code in WebappLoader
+add FeatureUnitNormalizer int to TestModelSerialization
+remove obsolete comment
+use a autoconfigureafter
+remove unused import in OptimizedBlockNode
+add a todo
+suppress deprecation warning in DefaultBeanDefinitionDocumentReader
+add missing space in VoldemortAdminTool
+remove google capability
+add Ordered order to 😅
+fix quality flaw
+add 😅 to the validation of the default names
+add getProgressCircleDiameter method git svn id https findbugs googlecode com svn trunk 😅 😅 😅 😅 😅 😅
+remove unused method
+add support for 😅 😅
+add debug output
+remove unused imports
+call the stop in stopRPCServer state
+fix bug in console in console
+remove redundant deprecated type annotation
+remove unnecessary final declaration in RateLimitedFSDirectory
+add test to SetTransactionTest
+enable 😅 in ControllerRequestURLBuilder
+remove unused variable
+remove a couple of 😅 in setSanityCheckState 😅
+reset mSliceView slice slice slice slice slice slice slice search change id i 😅
+remove unused import
+add runtime to HealthMonitor toString
+remove unused logger
+add reloadCurrentPage method git svn id https findbugs googlecode com svn trunk 😅 😅 😅 😅 😅 😅
+add check for external access access id
+add matches method
+add 😅 trans to canvas
+improve comments in InlineModelResolver
+remove unused imports
+remove unused field
+fix broken test
+add log logging
+remove unused method
+add getApplicationContext to SpringInjector
+remove unused method
+add a method to make sure that extract StructuredGraph are not
+remove unnecessary cast
+fix the cs error of ProtobufAnnotationSerializerSlowITest
+remove unused import
+improve error message when configuration property is set
+fix a bug in the ServiceUI interval to avoid npe
+remove unused method
+skip replication replication timeout exception when replication replication
+fix test case
+add RuntimeMetaData getMessage
+remove unused code
+add DefaultCallTarget getFrameDescriptor
+simplify 😅 method call
+make WebElementCreator public
+add ANCESTOR_OF_WHITELISTED_PATH check
+updated 😅 javadoc
+remove 😅 element from 😅
+add test to test
+add 😅 to 😅
+fix a bug in SearchHandler
+remove invalid test
+remove a comment
+add support for DecimalValue
+remove unused method
+updated javadoc to reflect changes
+add isSubscribedToMyPresence method git svn id https findbugs googlecode com svn trunk 😅 😅 😅 😅 😅 😅
+updated javadoc author
+remove debug statement
+remove unnecessary cast
+improve logging 😅
+add AbstractDataSourceAdapter constructor getDatabaseType
+add missing check to 😅
+add a couple of exceptions in 😅 😅
+add SystemBindingPattern fromPortAndPath
+remove redundant method in LauncherInstrumentation
+remove unused code
+remove unused code
+suppress deprecation warnings in TestResultAction
+modify OrchestrationShardingDataSource java
+improved exception message on exception
+add 😅 flag
+add missing parameter to JitterScheduledThreadPoolExecutorImpl
+add out pkg
+remove debug output
+replace HashMap with LinkedHashMap
+remove unused import
+add test to make sure that the time date has been considered
+remove unused imports
+remove unused import
+add parseInnerQueryBuilder method to QueryShardContext
+add some more tests to StringLogger
+remove unused field
+fix the cs error of isQuoteAllFields
+add looper thread to FileLog
+remove unused method
+improve error message
+add null check
+add check for StringUtils lenient
+remove useless null check
+add convenience method
+remove unnecessary code
+fix a potential npe
+remove redundant check
+avoid npe in RangeIntersectionIterator computeNext
+add comment for 😅
+improve code readability
+remove a javadoc
+add todo for 😅 changes to CacheFactory
+enable the tests in the test
+add more read method to AjpProcessor 😅
+remove unused code
+improved error message
+remove Group check
+add getter methods to allow to be used with the server
+suppress deprecation warning
+remove unused method
+add a check git svn id https findbugs googlecode com svn trunk 😅 😅 😅 😅 😅 😅
+remove unused constant
+improve log message
+add observer2 😅
+remove use of deprecated api
+simplify AbstractAspectJAdvice isVariableName
+add a bit more information
+fix a javadoc comment
+add missing check
+fix a bug on the outputter of the filter annotations
+remove unused import
+disable IssueSearchTest redirect_to_search_url_after_wrong_login
+updated javadoc author
+remove unused method
+add constructor to AndOperator
+add a bounding name to GeoBoundingBoxFilterParser
+remove unused method
+add support for failure to the status
+fix quality flaw
+add more tests
+make 😅 field public
+set default zoom for 😅
+remove unnecessary cast
+remove redundant public modifier
+ignore compilation test that fails on slow ci
+add null check
+add missing methods to ShadowEditText
+add timer schedule
+add toSetCookieHeaderAll to Cookie
+add a note to javadoc comment
+add support for HTTP_NO_CONTENT_CODE in HTTPSampleResult
+synchronize access to GLThreadManager
+remove test code
+add static imports
+fix a typo
+add null field elementId
+fix test case
+remove unnecessary cast
+fix some quality flaws
+fix a bug in the folder folder
+avoid npe if packet is null
+add support for UserDesignation and consensusDesignation
+replace anonymous type with lambda
+add startColumn to FormattingTreeModifier
+remove unused field
+remove unused method
+remove explicit argument type in PermissionCheckTest
+remove unnecessary null check
+remove 😅 timeout in DiscoveryWithServiceDisruptionsIT
+remove the 😅 from the 😅 when the platform
+fix quality flaw
+rename test to ChmodCommandIntegrationTest
+add assertion to ensure that the blocking blocking is 😅
+remove unused method
+fix the cs errors
+add since tag for AbstractReplicatedMap
+add support for block instream
+add onDragEvent method
+add requireNonNull to Node
+set 😅 to 😅 for unsafe filter
+remove useless brackets
+remove unused import
+disable EncodedGraphCacheTest
+catch all exceptions in MessagingController
+disable ForeignKeyBundle for now
+add callback to make sure message instance
+remove unnecessary type argument
+fix bug in LocalExecutionPlanner
+remove deprecation from HiveConfig
+add hashCode method to DuplicateJsonObjectContextCustomizerFactory
+add javadoc for WorkManagerTestInitHelper initializeTestWorkManager
+ignore test that fails on ci
+remove redundant check
+add javadoc to InitializationOrder
+use a byMultiClassMatch for byMultiClassMatch
+deprecate unused code
+add let let to 😅
+add missing entered in LLVMBasicBlockNode
+ignore a test that are failing on windows
+add some comments
+throw an exception when page fails
+use a more efficient method for the pivot in AbstractLazyLoadRunMap
+enable MediaBrowserCompatTest testGetItem
+add the contacts to the contacts contacts contacts to the docs
+updated text for PredicateBuilder
+add test case
+enable part of 😅 by default
+remove todo for todo comment
+remove empty line
+add more logging for plugins
+add vnaFrame check
+increase test timeout
+add setFillContents method to AbstractNewObjectNode
+fix quality flaw
+add allowEmptyDirectory to TarFileDataFormat
+fix test git svn id https svn apache org repos asf UTF8StringValueTest trunk 😅 😅 😅 😅 😅 😅
+add TYPE_WIDGET_RESIZE_FRAME for view annotations in AbstractFloatingView
+add a comment
+remove 😅 from SeleneseTest
+remove unnecessary override
+updated javadoc for DbQuery
+fix a bug in 😅
+add support for 😅
+add comment about isEquivalentTo method
+remove deprecated code
+avoid npe when column by a column by a column column
+fix bug on delete in case of index
+fix test case
+updated default container for MDNameExtractor
+add type argument
+remove unnecessary null check
+allow JglfwInput isKeyPressed to be specified in 😅
+disable soft rendering tests
+remove unused import
+add a check for low tier
+add java doc
+add null check to prevent npe
+fix test failure
+disable the failing test
+fix bug in Activator 😅
+add SpellChecker to LuceneSuggestionStrategy
+modify java doc
+use the new master tachyon master threads threads
+remove unnecessary code
+improve Session javadoc
+fix a bug in the verify dialog
+ignore comments on 😅
+add warning logging to MessageRunner 😅
+add license header
+add null check for the getAsStringList
+remove component annotation in CamelHealthIndicator
+fix bug in FileListFragment
+implement FloatConvertNode 😅 in 😅
+fix bug on OConsoleApplication
+avoid unnecessary cast
+add java doc
+remove report method
+remove the log fine fine fine from 😅 😅
+fix a typo in ByteCodeUtils
+remove unnecessary cast
+remove obsolete test
+add responseDatatoString method
+add TERADATA name to DatabaseDriverClassNameTests
+disable 😅 for now
+add support for union type to 😅 checker
+remove 😅 annotation in DebugExprArrayElementNode
+add ClientListenerAdapter MESSAGE_COUNT_LIMIT toDriverCommands
+add a test for 😅
+reset user flag
+updated 😅 javadoc
+add since tag
+remove unused method
+remove extra blank line
+fix a bug in AbstractCacheRecordStore
+add since tag
+fix a npe
+add comment about file suffix
+remove outdated comment
+fix broken test
+add debug log statement to IncomingTcpConnection
+use ConcurrentHashMap instead of ConcurrentHashMap
+remove unnecessary logging
+add 😅 to CompactSerializerTest
+remove unnecessary null check
+updated javadoc author
+add alias to 😅 😅
+ignore failing tests for now
+add implementation of checkPermission to ShadowApplication
+fix a typo
+remove unnecessary override
+remove unused UnknownType isSubtype
+add Traversers traverseArray
+improve javadoc for getFileInfoList
+remove unused import
+add javadoc for CommonUtils
+add test case for 😅
+add _written _written
+remove unnecessary propagate
+suppress deprecation warning in DefaultFrameLibrary
+add more logging
+remove invalid test
+remove unused code
+add support for 😅 and 😅 😅
+remove debug output
+remove unused import
+reduce the number of delay
+improve error message
+add LinkedHashMap to OResultInternal
+add new RecordingExporterTestWatcher
+add referenceEquality to JSCompCorrespondences
+improve javadoc of 😅
+fix test on windows
+remove unused code
+simplify test time
+remove invalid test for testSlowClientWithPipelinedRequest
+add height of the height after the height
+remove author tag as it is not needed
+add support for parts
+add more error message
+add fling to 😅
+add HotSpotVMConfig toString
+fix a bug introduced by 😅
+add more logging
+remove unnecessary ignore
+remove source from SQLRequestParser
+add insn to 😅
+fix quality flaw
+improve JMethodResolver to check error method
+add a debug message
+add 😅 😅 to test 😅
+remove unnecessary cast
+disable 😅 and 😅 if it is not available
+remove obsolete comment
+add getter for concurrent task queue
+remove unnecessary javadoc
+fix bug in corner image
+updated javadoc author
+remove useless assignment
+remove unused method
+add sql for interpreter to literal Block
+remove unused imports
+fix bug in 😅 file path 😅
+remove unused constructor
+fix test failure
+rename test to testWithPlanNodeHierarchy
+remove 😅 check
+use the Operation for the Operation in the log operation
+remove outdated javadoc
+remove dead assignment
+add replace message in ClassLister
+simplify chain handling in DeterministicKeyChain
+remove debug output
+set error message for error
+remove debug code
+fix quality flaw
+fix test case
+add package info to error message
+add unit test case
+simplify MockTypeConverterRegistry addTypeConverter
+add toList to 😅
+remove a duplicate check
+fix a bug in LabelPatternUtil
+fix a bug in the hadoop hadoop hadoop hadoop hadoop job
+remove unnecessary cast
+add config for S3DataSegmentMover
+remove unused UserListAdapter constructor
+enable 😅 for 😅 output
+simplify StochasticLoadBalancer constructor
+add null check
+remove unnecessary assertion
+remove unused imports
+add unit test
+add 😅 extensions to the htmlParser
+remove outdated comment
+reset test cases
+debug threshold debug
+use the correct view for the wheel
+remove unnecessary MessagingException
+fix broken test
+add javadoc to KernelTransactionImplementation
+add missing whitespace in 😅
+improve error message
+use a emtpy
+suppress warnings in JSONUtils
+add a missing else in NIOConnection java
+improved error message on compression
+add test for target complex
+remove empty line
+remove redundant cast
+add nullable notation for nullable
+add a method for getting the contacts for a given group
+simplify ColumnDataClassifier java doc
+add comment to Observable defaultIfEmpty
+add createStaticInitsRootNode method to NodeFactoryFacadeAdapter
+add additional check to prevent npe on 😅
+add QueryBuilder RemoteTableName for remote query parameters
+remove redundant code
+remove unused import
+add value check
+remove unused code git svn id https svn apache org repos asf tomcat trunk 😅 😅 😅 😅 😅 😅
+make DefaultComponentBuilder put protected
+add onVote method
+add 😅 to spring boot itest
+disable JournaledTxStreamingTest 😅
+disable StaticIntSpillTest for now
+add a method to check to ensure the fragments are fragments
+fix a bug in MainFrame
+updated javadoc author
+remove unnecessary task
+add logging for load files
+add null check
+add null check for CoreAnnotations
+updated javadoc author
+disable MediaSessionManager_MediaSessionTest on api 😅 😅
+add a todo
+add method to avoid npe when an samePool object is null
+disable RunMojo in RunMojo
+add cave dungeon 😅 dungeon dungeon dungeon dungeon 😅
+add support for overlord in the overlord mode
+simplify SetupWizard getInitialAdminPasswordFile
+add proper jsoncreator for IndexRangesResponse
+add sortBound row 😅
+add HashMap for DataTable
+remove unnecessary logging
+updated javadoc author
+add message version to felix
+add more tests
+set analysis flag to set analysis as analysis
+add a comment in the test
+remove problematic annotation
+specify null variable in AsyncJournalWriter java precondition check
+handle SmackException in ReconnectionManager
+deprecate unused code
+reduce number of milli
+remove unused code in HashGenerationOptimizer
+improve error message
+remove unused code
+remove unused parameter
+allow LocalDateTimeValue unsafeCompareTo to compare a epochSecondsInUTC
+add 😅 to TestSSLHostConfigCompat
+fix some comments
+add protected method for 😅
+add apply to 😅
+updated log message
+remove unused method
+add comment to OCommandExecutorSQLHARemoveServer
+remove dead code
+remove Serializable from OAuth2User
+add ClassDescriptor isAnonymousClass
+add missing comment in SearchController
+add index to log in RebuildIndexRangesJob
+remove unused imports
+remove unnecessary null check
+replace String keySet call
+replace anonymous type with lambda
+add CEntryPointErrors method to CEntryPointSnippets
+add snippet macros
+remove debug output
+add a JTextField
+add nullable notation for RpcUtils java
+remove exception message
+remove dead code
+updated javadoc author
+add javadoc for FileSystemMaster
+add comment for AwsProperties
+fix broken test
+add execute to Executor
+improve error handling in ProcessWrapper
+remove notification notification notification count when 😅 is remove from the 😅 count
+skip empty files
+remove unnecessary logException
+add TRASH for 😅
+disable failing test in UdpChannelTest
+add 😅 as a method
+turn off escape flag
+deprecate unused code
+add 😅 access fields
+invalidate Broker api to invalidate Master
+improve javadoc in LeaderSelectorClient
+remove obsolete comment
+enable minimal metadata for getMinimalSupportedVersion
+add InventoryMessage with checkArgument
+remove deprecated code
+add fab on fab
+remove unused constant
+add check for blank strings
+fix the test case for 😅 😅
+remove unnecessary code
+make VM 😅 😅 more robust
+add support for DropdownField 😅
+remove unnecessary code
+add check for 😅
+add org apache logging 😅 😅 😅 😅
+remove unused code
+add 😅 to the caller
+add null check
+remove DependencyComparator dependency on 😅
+add a private constructor to Trees
+add a convenience method
+allow unknown appeared to be height
+add a missing else block
+improved error message
+remove redundant code
+add relative to relative path prefix
+remove obsolete comment
+remove empty line
+remove unnecessary code
+add toString to IndexShardGateway
+add support to TextFile
+remove empty line
+remove unused methods
+remove unused variable
+deprecate ValueMeta class
+add initWithSilentBitcoinJ method
+add 😅 to 😅
+improved error message
+improved javadoc of ArrayListUtil
+handle null g2 in paintComponent
+reduce the number of delay
+add 😅 response
+add SingleLongDecimalWithOverflowState to 😅
+use the XmlAwareFormHttpMessageConverter in FormHttpMessageConverterTests
+remove unused imports
+enable 😅 for ES8_MODULES ES8_MODULES
+add test case for save case
+remove deprecated code
+remove unused field
+remove unused code
+add null check
+handle 😅 gracefully
+add missing break
+add unit test for issue 😅
+add awaitElectionClosed to ClusterTest
+add setDateFomrat method git svn id https findbugs googlecode com svn trunk 😅 😅 😅 😅 😅 😅
+remove unneeded cast
+add TEXT_BURN and TEXT_BURN property
+remove unused field
+fix bug on remote remote remote remote remote remote rid
+remove unused method
+remove unnecessary code in MonitorSnippets
+add LLVMGlobalVariable to LLVMToFunctionNode
+remove unnecessary cast
+add convenience method
+fix a bug in Util
+enable MediaBrowserCompatTest testUnsubscribeWithSubscriptionCallbackForMultipleSubscriptions
+remove unnecessary catch
+add VECTOR to ForeignToLLVM
+remove unused method
+add folder check
+fix test on windows
+use the right channel in DriverConductor
+remove unused variable
+remove unused code
+remove unused variable
+deprecate Configuration getBooleanConfigParameter
+update timeout to 😅 blacklist
+deprecate unused code
+improved error message
+fix a bug in AprLifecycleListener
+remove unnecessary null check
+remove unused field
+improve exception message
+remove unnecessary suppresswarnings unchecked
+increase the write size for tests to 😅
+add Log logging for 😅
+fix a npe
+remove unnecessary code
+add message for appender
+fix test case
+add final modifier to BytecodePositionWithId
+updated javadoc author
+add java doc
+fix a typo
+add contentEquals to ByteSequence
+remove unused Node method
+add a comment
+add a sanity check in case of an error message
+add Assumptions getAssumptions
+add BitmapCreationBenchmark 😅 😅
+remove dead code
+remove unused constructor
+fix a typo
+updated javadoc author
+add 😅 😅 😅 version constant
+remove redundant check
+rename regionName to regionName
+add null check for AgentProtocol getName
+fix the build error of IrcDiscovery
+remove unused variable
+fix test case
+fix broken test
+add a test case
+improve IQ 😅 javadoc
+add 😅 to 😅
+remove unused field
+remove unused code
+add debug logging to Secp256k1Context
+disable 😅 for now
+add missing default
+remove unused code
+remove extra newline
+add nullable notation for PlainSaslServer
+remove unused import from CheckArrayWithGoogObject
+adds support for 😅
+add comment to PlanFragmenter
+remove requireApplication usage in ApplicationController lockApplicationOrThrow
+rename OrphanBlock to OrphanBlock
+remove unused code
+add javadoc for Cluster builder
+add NODE_TYPE to Flags
+remove extra newline
+improve exception message
+improve javadoc for RdbmsOperation
+remove redundant of assertion
+add test to validate 😅
+add check for 😅
+add getInputFile to TransMeta
+add debug logging for 😅
+remove unnecessary cast
+fix broken test
+add a SecurityConfigurationException for SecurityConfigurationException
+add isUnit method
+remove System out
+add todo to BLangVM
+add missing imports
+add test for 😅
+add SedaComponent to VmComponent
+remove empty line
+add support for extract inner classes
+remove outdated todo
+remove useless code
+add type argument
+bump up Archive java to 😅 😅
+remove unused lucenetestcase.awaitsfix upgrade
+set the entry of matches entry when a advanced with a advanced
+add null check
+fix bug on OClass class
+allow 😅 to be specified to 😅 in CompactionController 😅
+add setSystemService method to ShadowApplication
+remove unused methods
+fix bug on mx
+remove dead code
+fix bug with 😅
+fix test case
+add certificate cas 😅
+disable UnsafeVirtualizationTest on api 😅
+remove unused import
+throw an exception if no parsing password is null
+fix broken test
+rename context to context
+fix quality flaw
+remove unused constructor
+add missing annotations
+reduce duration time
+add todo for 😅 comment
+fix broken test
+add support for java 😅 😅
+add missing support for identity provider
+add support for OnClickListener in QsbWidgetHostView
+add missing annotations to PartitionPredicateTest
+add a a finally block to prevent npe
+add call to voiceNoteProximityManager onPlayerEnded
+replace newArrayList copyOf with ImmutableList
+make ClassInfo getClassNames public
+remove debug code
+add ThreadContextRule to Log4j1XmlLayoutTest
+remove interactive debugger
+add a convenience method
+improve error message
+add debug logging to QuartzComponent createScheduler
+add falsePositive2 and falsePositive2 to GuaranteedDereferenceInteractionWithAssertionMethods
+updated dependency dependency bank in DependencyBank
+add unit test
+improved error message
+fix the cs error of endpoint
+add change method in ChangedViewChangeGenerator
+add WORK_DIR method
+remove grid view footer is not needed
+remove unnecessary code
+improve StanzaView getExtension ExtensionElement isInstance
+update the partition size of the partition groups size
+add autoconfigureafter to 😅
+fix a bug in transformer transformer
+fix test case
+use the active voice
+add missing import
+enable group closure test
+make saveLater public
+add a flag to disable message message click
+add visibility attribute to Run
+remove unused code
+improve javadoc of 😅
+add 😅 😅 😅 version
+add String to ODistributedThreadLocal
+add border to the skin the dial border
+add unit test
+remove unnecessary cast
+remove unused field
+remove unused import
+add call method to ColumnFamilyStore
+add explicit argument type in BatchlogManager
+remove extra newline
+remove unused line
+add flakytest to MediaSession2_KeyEventTest testPlayPause_pause
+rename components to default names camel 😅 http to 😅 😅 😅 😅
+remove unnecessary cast
+turn off the default for NFIContextExtension
+remove debug logging
+add support for state in 😅
+make SimpleDetector guessEncoding public
+modify ColumnStatistics java
+add support for wait by default
+remove unused method
+improve System out message
+remove unused import
+add a null check in MockRestRequestMatchers
+add java doc
+ignore SchedulerImplTest restart_reloads_java_commands_and_restarts_all_processes
+add missing return
+remove unused constructor
+remove unnecessary null check
+add transform method to MongoDBConnection
+rename 😅 😅 😅 😅
+fix a npe
+add debug output
+specify null variable in RecomputeExecutor java precondition check
+remove empty line
+remove unused method
+add a comment on why Log is used
+remove unused methods
+add check for null value check for NullnessAnnot
+add the join to the join broker command
+improved error message
+add more details
+fix test case
+add 😅 to CompactSerializerTest
+remove unnecessary suppresswarnings
+add javadoc comment
+skip test on windows
+improve exception message
+add a couple more tests for var tests
+add message text to contact list
+remove unused code
+remove unnecessary null check
+fix test failure
+rename isBlocked to getBlockedFuture
+remove unused import
+add null check in getResourceName
+suppress warnings in ResponseEntityExceptionHandlerTests
+catch EngineClosedException instead of EngineClosedException
+add missing import
+disable the connection by default
+remove unused import
+deprecate unused code
+add support for uri function in 😅 😅 😅
+add missing Employee serialVersionUID
+add IndexShardRoutingTable shardsIt
+add method to check if the db is 😅
+remove todo comment
+do not icon for background entries
+catch all exceptions
+add example for search example
+add javadoc for ActivityResultLauncher
+add suppresswarnings unchecked
+fix a typo
+find relative trigger for now
+remove a redundant null check
+remove unused variable
+add protected getHeapMemoryStats method to DefaultMemoryStats
+add AccessKind builder
+remove unnecessary call to start
+fix test failure
+add a log statement in DefaultProjectReferentialsLoader
+add the ability of the 😅 in the chunk provider
+disable bundle on stop
+remove the project of the File project from the filter
+add 😅 and 😅 as well
+improve error message
+catch Throwable in Maintainer
+remove unnecessary InputStream
+set the attribute attribute to the attribute string
+use a URLDecoder for URLDecoder
+add missing annotations to BenchmarkSelectiveStreamReaders
+turn on the 😅
+improve error message when cd fails
+add 😅 to message message
+remove unused variable
+add new line
+add the ES8_MODULES to the DefaultPassConfig
+add j check
+remove unnecessary suppresswarnings
+add source property to search message for search message
+remove unnecessary check
+disable 😅 for 😅 bug
+add null check to PolyglotNativeAPI
+updated javadoc author
+fix test failure
+add unit test to verify that the rest of the user agent is 😅
+add missing comma
+allow 😅 😅 in saml settings
+add copy to image plwjgl
+remove waiter worker raft raft raft raft raft raft raft group 😅
+remove debug statement
+fix a bug where the http expired is not found
+improve error message
+add uri to the uri description in MediaDescriptionCompat
+fix test cases
+add missing license
+add recovery logging to CcrRetentionLeaseIT
+remove unnecessary synchronization
+handle null message
+fix test failure
+remove unused code
+add a method to make it more clear
+add missing annotations to ManagedContextInstanceAwareTest
+add groups to EcommerceSampleTestCase
+fix a bug in case of missing type is always true
+rename getGraalVmHome parameter
+disable the test for 😅 😅 😅
+remove unnecessary code
+remove unused LoggingManager getLoggerForClass
+ignore failing test
+fix bug in SliceViewManagerBase 😅
+add VirtualValues fromList
+add null check in haltedAt
+add default jump to OpcodeStack
+remove explicit type argument in RetryHandlingFileSystemMasterClient
+remove unused code
+add create method
+add null check to prevent config in Account
+remove unused import
+remove unused method
+add method to check for ConfigurationUtils
+fix bug on sql storage
+remove username from 😅
+disable widget workspace on dark
+enable analyzer for 😅
+add a method to check if the bug bug bug dialog
+remove unused sm from ReplicationTransmitter
+remove unnecessary code
+improve javadoc of SwaggerServiceMapper
+remove debug output
+handle 😅 in Control
+resolve conflict in TypeFrameModelingVisitor
+remove unnecessary code
+disable DetectorsTest on windows
+ignore AbstractTcpTransportTest testTrafficCounter
+fix a typo
+add unit test
+add more logging
+remove useless brackets
+remove unnecessary try catch
+add javadoc for Scalar
+disable Kernel32LibraryTests Kernel32LibraryTests
+remove redundant 😅 in Method
+remove unnecessary casts
+add exported annotation to 😅 😅
+remove a comment
+remove debug output
+remove unnecessary cast
+reduce default keep keep keep keep alive
+add a trim call
+add ResolveInfo to RobolectricPackageManager
+fix test git svn id https svn apache org repos asf SchedulingTest2 trunk 😅 😅 😅 😅 😅 😅
+remove unnecessary cast
+remove unused code
+add default value for 😅
+remove unused import
+add PREVIEW version number
+disable debug logging for now
+fix bug in preview preview
+add comment to TestingPostgreSqlServer
+add missing isThreadAccessAllowed method
+remove test annotation in TestPerfBenchMarkDriver
+add analyze in TupleAnalyzer
+add import statement
+disable EvilLoggerTests testNoNodeNameWarning
+remove unused field
+remove obsolete delay
+remove BlockBuilder constructor
+fix a typo
+remove useless parens
+relax assertion in PublicationTransportHandler 😅
+fix bug in LockableDatabase 😅 😅
+add error handling
+add check of empty list in getNodeList
+remove unused fields
+remove unused method
+updated javadoc author
+add javadoc to AArch64Assembler
+add test case for vertex
+modify JPAOrderItem java
+add preconditions to FunctionType getInstanceType
+add default header for 😅
+fix a bug in CerberusPlugin
+rename isPointInPolygonAux method
+add Axis to Items
+add a todo
+make the libraries option work with the deprecated name
+recognize 😅 in FindRefComparison 😅
+add comment to explain why we re use of 😅
+improve javadoc of 😅
+rename SPARCLIRInstruction to SPARCTailDelayedLIRInstruction
+remove unused method
+skip plugin state when it is not found
+fix broken test
+add getOnlyChild to Node
+suppress deprecation warning
+fix bug on server server password
+add blank line
+remove dead code
+include user version in the user
+fix up version
+catch more exceptions
+add logger to log message
+make BlockOutStream createLocalBlockOutStream method public
+fix test header
+lets use AbstractAmazonSNS in AmazonSNSClientMock
+reduce LOG level
+remove useless seed import
+updated hit hit hit version
+add default gridworks to fix error
+fix broken test
+add since annotation to javadocs for methods
+add missing import
+add 😅 install install install install install install to the plugin
+add JniEnv GetStringRegion
+remove unused constant
+add missing serialVersionUID
+remove unused class
+add externalsCache clear cache in PetiteContainer
+add test for PerformanceCreateNodesJob
+add randomBoolean method
+fix bug in Table row
+improve error message
+remove the try catch block
+fix a bug in the contacts
+avoid npe in FragmentMessages 😅
+remove unnecessary cast
+bump up ByteBufferAccumulator java
+fix a typo
+remove 😅 test
+updated srtm url for 😅
+make MethodTypeSignature getTypeParameters public
+add safevarargs to ActivityOptionsCompat
+make AdapterAttachment ViewHolder public
+fix test failure of EtcdTestSupport
+add try catch
+add unit test
+fix broken test
+add a bit more time for chunk array in chunk chunk
+remove unused code
+add missing space in message test
+add removeProperty to PropertyDatabase
+add nonce to identity authentication
+remove test for module test
+fix a npe
+replace use with InterleavedBlockBuilder in MLFunctions
+improve assertion error message
+add version to 😅 😅
+remove unused field
+remove debug output
+remove unused imports
+remove deprecated method
+remove unused constant
+ignore 😅 messages in 😅
+use the new class name
+add unit tests for 😅
+improved error message
+remove unused code
+remove String from test format format
+fix bug in 😅
+fix bug in ByteArraySlice
+remove redundant check
+disable file test case
+fix quality flaws
+implement TesterResponse resetBuffer and setSuspended
+add makeText method to FakeToast
+throw an exception if the line in fails
+rename method parameter
+remove debug logging
+simplify 😅 logic for TouchInteractionService 😅
+remove debug output
+remove dependency to BaseEncoding
+add support for 😅 option
+remove the deprecated info method
+add output to renderer
+remove override annotation
+suppress deprecation warnings
+fix bug in readDouble
+remove unused method
+remove dead code
+disable security by default
+remove obsolete comment
+renamed getTokenizer to setOptions
+fix a comment
+add 😅 to 😅
+updated copyright date
+remove onCreate call to super onCreate
+add support for union type
+remove redundant check
+remove unnecessary cast
+add missing E E
+add unit test to check that the local context is with the context
+use a more efficient UDP
+make ConnectionResult public
+improve error message
+improved exception message
+add 😅 to ControllerTest
+add a log message for 😅
+handle 😅 in FileDisplayActivity
+add null check in 😅
+add initialize method to LoggingSystem
+add marble diagram to the alter
+fix broken test
+add setOwner method git svn id https findbugs googlecode com svn trunk 😅 😅 😅 😅 😅 😅
+add null check to prevent npe in GelfCodec
+allow subclasses to override the jar path
+remove empty line
+remove outdated comment
+remove unused LinearScan initIntervalWalker method
+add unit test
+avoid race condition in ClusterBackupAgent 😅
+share the comment
+remove unnecessary variable
+add READONLY support to 😅
+add null check
+add support for 😅 in RenameFileOperation
+fix bug in CassandraServer
+remove unused import
+add trace logging to testSearchAndRelocateConcurrently1Replicas
+fix test case
+improve exception message
+remove unused configuration
+improve error rule type
+remove unused parameter
+fix broken javadoc comment
+add 😅 mode to 😅
+add methods to disable squid for charset
+remove LabelRef forLabel
+hide keyboard before hide code
+add debug to debug output
+add a todo for the 😅 of the default crash
+fix bug on update
+remove unneeded requireNonNull call
+add test case
+set 😅 😅 for V_6_0_0_beta1
+remove unused method
+add unit test for negative function
+enable camel local test for the camel local test
+remove the unnecessary cast
+fix a bug introduced by ag 😅 minutes
+fix broken test
+add some javadoc
+add missing javadoc to 😅
+initialize adminConnectionTimeoutSec to 😅
+remove redundant assertion
+fix the build
+fix test case
+add conf for conf
+rename repo pattern to repository id
+add Units attribute
+remove extra new lines
+add Locale to log message
+fix a bug in the payload
+remove empty line
+update sampler test
+use a Log4JLayoutInterface to clean up
+fix test to use 😅 😅
+simplify the logic
+skip empty 😅
+prevent multiple 😅 in FragmentManager
+remove unnecessary import
+add todo for 😅 😅 😅
+add client objc default to default codegen
+updated javadoc author
+deprecate unused code
+remove null check
+avoid npe in TxPullRequestHandler
+add support for setting default root logging
+ignore ClientMessageProtectionTest until it is fix
+fix a typo
+rename the default file name to default names
+add exchangeIdExpression to ExpressionBuilder
+add todo comment
+add a comment
+improve documentation for getHiddenItemCount
+remove dead code
+fix broken test
+bump rebalance decider routing routing routing routing concurrent for ConcurrentRebalanceAllocationDecider
+remove the log statement
+make getLogger public
+set correct clear to addAll
+remove unused import
+inject Clock to Clock
+enable 😅 tests
+add license header
+add unit test
+fix the cs error of InstrumentationPartialEvaluationTest
+remove unused logger
+use the exchange instead of a HttpExchange
+add support for literal in SymbolEnter
+remove unused method
+remove unused 😅 😅
+fix bug in startActivityForResult
+remove unused imports
+improved error message
+remove unnecessary null check
+fix test case
+remove unnecessary code
+add test for createSuperman method
+add keySpecifiers support for keySpecifiers
+remove unnecessary assertion
+remove awaitsfix from FileWatchIT
+add onKeyDown to FolderMessageList
+remove 😅 from EventReceiverFirehoseFactory
+add check for parsing exceptions when parsers with a multi value is a field
+remove unused variable
+remove unused import
+remove unused method
+ignore broken test
+add more logging
+add more logging
+add check for 😅
+add duplicateDeadStores method
+improved test case
+add null check
+add asciiBuilder and asciiBuilder toString
+use a day hours
+remove unnecessary code
+add missing 😅 in Elasticsearch6Module
+add missing override annotations
+improve javadoc for ACL
+add a comment
+add HttpConnectionProvider constructor
+add null check
+add javadoc for ConvertModels
+fix quality flaw
+add missing type argument
+fix some quality flaws
+add description to GraphDatabaseSettings description
+improve javadoc for ReplicatedMap
+set diagnostic warning
+add checkBugInstance method git svn id https findbugs googlecode com svn trunk 😅 😅 😅 😅 😅 😅
+fix test failure
+remove unnecessary cast
+catch all exceptions in LLVMPThreadStart
+handle errors in TestDNSCacheManager
+fix test case
+remove error message
+add missing clusterNameMessage to NodeExtensionCommon
+add marble diagrams to the Observable javadocs
+remove 😅 check
+simplify InternalCardinalityTests 😅
+remove an unnecessary code
+add debug logging to fire errors
+add test case for 😅
+add null check before 😅
+allow thread property names to be request
+remove unused field batchCount
+add hashCode method to InMemoryResource
+i Log
+remove use of HashSet in YamlChangeLogParser
+add notifier notification ringer to audio thread
+remove expectedType from BLangWorkerSyncSendExpr
+add unique exception to exception
+fix a bug in the thread property property
+avoid npe in WebSocketAdapter getRemote
+use the correct widget id
+use a feature flag for the reader writer in JsonReader read
+remove unnecessary code
+remove redundant cast
+remove the call to resourceLock resourceLock resourceLock 😅
+add missing check in Wallet 😅
+remove unused import
+add missing CRLF
+ignore failing test for now
+remove waitForView call
+speed up gc of 😅 by clearing member variables in close
+fix test failure
+simplify logic in 😅
+remove unused variable
+updated package info
+add false positive to GraphHopper
+remove unused field
+deprecate unused code
+remove 😅 test
+add json method
+remove the 😅 from the smart default smart pass
+add simOperator to ShadowTelephonyManager
+remove CachingIntrospector cd 😅 😅
+add BugInstance addMethod JavaClass JavaClass
+disable 😅 tests
+prevent npe in 😅
+improve javadoc of MediaControlIntent
+add exception handling for 😅
+remove useless brackets
+add call to oneOffExecutors
+remove unnecessary null check
+improve test coverage
+make State enum
+add variable name for select fields in command
+fix a bug in 😅
+add closeables on partition partition partition partition install
+add unit tests for query
+fix bug in Migration
+remove empty line
+remove unused code
+add a comment to explain the logic
+add default timeout to 😅
+fix bug in LimitDecoratorResultSetMerger
+reset selected press on clear press
+fix quality flaw
+remove outdated comment
+replace checkNotNull with null check in BlockAppearance
+remove assertion that are not needed
+increase reorder timeout
+disable ShadowBackgroundThread on api 😅
+disable ClientTest
+fix bug on console method
+fix bug in apply handler mode
+allow index to be specified in union table
+improve error message
+add a log warning to finalize 😅 by 😅
+remove blank line
+add todo comment
+add jvm type to BRunUtil
+add Stream toString
+improve javadoc in RemoteBlockReader
+remove use of NotImplementedException
+remove deprecated code
+remove unused methods
+ignore test that fails on ci
+set 😅 to 😅
+remove unused constructor
+remove unused method
+add javadoc to JoinConfig
+use the body for empty 😅
+revert mute AsyncSearchActionIT testMaxMinAggregation
+add support for UNREGISTERING
+add null check
+improve SourceSession timeout
+improved exception message
+add some more debugging output
+add message in dialog
+add test for restTemplate
+add probe to ClusterClockImpl
+updated javadoc author
+add try check in shard index shard
+add synthetic to idiom
+increase the timeout to prevent timeout of the tests
+add null check in LauncherProvider
+add constructor to visible expression
+implement startActionModeForChild for ActionBarContainer
+replace 😅 with DISALLOWED_CHAR_PATTERN
+use volatile constant for volatile
+replace anonymous type with lambda
+add support for focus in settings
+remove unused method
+remove unused imports
+deprecate RulePriority valueOfString
+remove unused code
+remove unnecessary code in MasterInfo
+remove FrameInstance getCallNode
+add support for constant support
+remove redundant check
+remove dead code
+improved javadoc of TruffleStackTrace
+make createRteptBlock public
+improved error message
+remove rest client timeout to be 😅 timeout
+add comment to BCPDoubleCheck
+add hostAddresses to SheetsSplit
+remove unused comparator
+updated javadoc author
+remove unnecessary null check
+remove a todo
+add javadoc to TextInputLayout
+add null check to ContributionListing getLatestVersion
+fix a bug in the OpcodeStack
+avoid npe in SourceMapObjectParser
+remove a test that is not needed anymore
+add null check
+fix bug in onDataAvailable
+throw exception in 😅
+delete blank line
+add default DOUBLE for 😅 in LLVMCastsFactory
+remove explicit type argument in LocalStore
+add a todo
+add license header
+remove unused imports
+add createHashedCn method
+add some javadoc
+add setOriginBasedPosition method git svn id https findbugs googlecode com svn trunk 😅 😅 😅 😅 😅 😅
+add null check before remove downloadPeer addEventListener
+add factor to specify factor
