@@ -1,0 +1,2112 @@
+added tag jdk8u45 - b14 for changeset bad02ac45d59
+bump assertj - core from 3 . 17 . 0 to 3 . 17 . 1 in / modules / database - commons ( <issue_id> ) .
+added tag jdk - 9 + 155 for changeset 9e2d943b5b66
+enable appveyor ci for v3 . 2 branch
+added tag jdk8 - b121 for changeset 0127c0df76cd
+increase the time limit in ` specjvm2008 ` .
+update dependency com . github . javaparser : javaparser - core to v3 . 15 . 5 .
+remove cleanbeforecheckout ( ) from pipeline clones .
+bump junit from 4 . 12 to 4 . 13 . 1 in / java8 ( <issue_id> ) .
+add link to swift 3 . x implementation .
+add wantedby dependency to ensure startup order ( <issue_id> )
+bump micronaut - security to 2 . 1 . 4 ( <issue_id> )
+added tag hs23 - b01 for changeset da883b9e6d37
+added missing patch step
+remove @ override tag , now the abstract parent class doesn \' t impl the method .
+disable example tests
+improve test name .
+prevent potential deadlock in ice processing
+add pos in to wherefrom and wherinto .
+added margenleft for wider support
+added tag jdk8u5 - b12 for changeset 18b007062905
+added tag jdk8u151 - b03 for changeset a6814326f989
+remove duplicated definition of alarm_active .
+reduce the visibility of the event json parser
+added tag jdk8 - b99 for changeset 59dc9da81379
+added option asyncstoplistener to camel - jms to stop using async thread .
+add querytest to ci job \' test - basic \'
+remove unecessary import
+added tag jdk7 - b129 for changeset c9679be023bb
+disable debug logging
+added tag jdk8u25 - b06 for changeset 433da54f7325
+added tag jdk8u31 - b13 for changeset 9d0c737694ec
+added usage comment
+added tag jdk8u201 - b25 for changeset 4466875577d8
+added few known transitive verbs .
+added tag jdk8u40 - b31 for changeset e05552220ba8
+added tag jdk8u45 - b03 for changeset f41aa01b0a04
+removes json module dependency
+remove redundant semicolon .
+center the warning in the intro screen
+added tag jdk8 - b20 for changeset 4296421cf07a
+fix test name
+add solarized patch to ace sync script
+added tag jdk7 - b45 for changeset 54dffad0bf06
+added tag jdk8 - b34 for changeset 17ed142e28eb
+remove jvm debugger options from default cassandra . in . sh .
+added tag jdk8 - b41 for changeset 6f5c0e17415d
+removed ant process from travis
+updated faq
+updated faq
+created travis . yaml
+use default maven script
+set python to 3 . 7
+added tag jdk7 - b54 for changeset fafab5d5349c
+updated list of transitive verbs .
+added tag jdk7 - b93 for changeset b698288c7b9b
+added translation using weblate ( interlingua )
+added file upload support using inputstream , fixes : <issue_id>
+enable java 12 and mysql
+added tag jdk8u66 - b00 for changeset 6079c26a3b8f
+added tag jdk8u141 - b07 for changeset 9fd2a2019a5b
+added tag jdk9 - b63 for changeset 989253a902c3
+added tag jdk8u172 - b35 for changeset c105eac8160c
+remove unused imports
+added tag jdk9 - b39 for changeset 4e7c4d692e93
+added tag hs25 - b55 for changeset 9e1f4b025644
+added tag jdk8u121 - b34 for changeset 3f0f5fc9e9a8
+added tag jdk8u191 - b11 for changeset 0299e5e837b8
+added tag jdk8u181 - b04 for changeset 58b732c27927
+added tag jdk8u275 - ga for changeset c0d45e9af394
+disable doclint to enable building on java 8
+delete unreachable return statement
+create config . yml
+remove old submodules
+removed unused dependencies in whiteboxtest
+bump vavr from 0 . 9 . 2 to 0 . 10 . 2 .
+update parent lib
+add default write timeout for http calls .
+added tag jdk8u162 - b09 for changeset 0601c290e21e
+bump engine . io - client
+add spelling for cyclotomic .
+bump junit from 4 . 11 to 4 . 13 . 1 in / automationtest .
+added tag jdk8u252 - b01 for changeset 5f55e79422a0
+remove unused styles
+added tag jdk8u272 - b06 for changeset eb8412f04a3e
+build script instructions
+delete gcore_versions . bzl
+remove test obsoleted by <issue_id>
+added tag jdk7 - b27 for changeset ae44a6d84438
+remove unused import warning .
+added tag jdk8u152 - b08 for changeset 285fcd09ae99
+added tag jdk8u11 - b08 for changeset a47aa3203c02
+tweak ` elementvaluearrayinitializer ` rule
+add support for ` pull_request_target ` events . . * this allows us to share secrets with actions , because the workflow .
+removed excluding ml from examples / src
+added tag jdk8u102 - b07 for changeset 725b400c93e0
+bump up picocli to 4 . 5 . 1 ( <issue_id> )
+update samples
+removed cucumber - features
+added tag jdk8u282 - b03 for changeset cf82ddc02f88
+enable dependabot v2 ( <issue_id> ) .
+added tag jdk8 - b115 for changeset 708c1fb7aff3
+remove cmake download artifacts
+create cname
+added tag jdk8u112 - b07 for changeset 9d09ca09ea33
+remove stray barriersetassembler call .
+remove key sending criteria code . . we have some key sending criteria logic that was recently moved to c + + : .
+remove the branch \' 0 . 46 \' from travis . yml
+added tag jdk7 - b45 for changeset dea7753d7139
+bump maven - compiler - plugin from 3 . 1 to 3 . 8 . 0 in / examples ( <issue_id> ) .
+update dependency joda - time : joda - time to v2 . 10 . 4 ( <issue_id> )
+remove support for v13 support library
+remove jacoco : not working currently
+added tag jdk8 - b12 for changeset 7e570cc378fb
+updated fml : .
+remove duplicated state from rules page
+set wear - complications - provider to api level 24 .
+added tag jdk8 - b84 for changeset 0ee966fccbc1
+create security . md
+added coverage to test interfaces
+added tag jdk7 - b75 for changeset 2485f5641ed0
+removed file
+remove custom compilewithecjstrict and findbugs check from sulong gate .
+finalize relnotes .
+added sudo for brew cask install java .
+added first line of pr https : / / github . com / owncloud / android / pull / 219 .
+added tag jdk8u262 - b02 for changeset ed881d547a80
+update todo
+add logo
+update prom / prometheus docker tag to v2 . 23 . 0
+update crate - theme to 0 . 0 . 10 to get rid of the pil dependency
+added missing cors statement ; to be used with elastic - hq
+remove thread # sleep from loan granting example .
+add kkam @ to owners .
+bump slf4j - api from 1 . 7 . 29 to 1 . 7 . 30 in / core .
+added tag hs24 - b21 for changeset 9e3ae661284d
+added tag jdk7 - b36 for changeset 1e2b0dc294fd
+bump rxjava from 2 . 2 . 18 to 2 . 2 . 19 .
+remove unused method .
+added tag jdk8u71 - b03 for changeset e06f49d82ef8
+modify uno \" lock \" bits in boards . txt to make bootloader readable by .
+removing click sounds on clicking workspace .
+add explicit instantiation declaration for scalarvalue < double > and .
+added fork .
+added tag jdk8u192 - b11 for changeset 3bf2d872627d
+added tag jdk8u171 - b02 for changeset 4cd77f7e459d
+remove unused import
+enable the gradle daemon ( <issue_id> )
+set theme jekyll - theme - cayman
+updated upstream ( craftbukkit ) .
+added tag jdk - 9 + 167 for changeset 70bbd6884287
+add testcase .
+simplify fontsize extraction
+added tag jdk8u192 - b04 for changeset 866ed739fa56
+add tostring ( ) to indexshardgateway
+added tag jdk8 - b118 for changeset bacdc687ebbd
+add change log .
+add local / maven / bin to path for vespa applications , if it exists
+added tag jdk - 9 + 143 for changeset d62173b931bf
+added tag jdk8u45 - b02 for changeset 9505c0392cdd
+updated javadoc author .
+added more words to added . txt
+added tag jdk9 - b27 for changeset b80b84e87032
+removed mboot . jar and added bootstrap . repo .
+bump warnings on master to 511
+remove unnecessary checkstyle dependency
+removing unnecessary import .
+add gh action .
+added tag jdk - 9 + 110 for changeset 1c5fd986c202
+add bbdouglas as the template creator of java ( java 11 native http client )
+added tag jdk8u25 - b04 for changeset a76e6e02711e
+added tag jdk8 - b11 for changeset 7116fbba4c13
+remove an example annotation .
+adding jdk
+bump vault from 1 . 12 . 1 to 1 . 12 . 2 .
+add lang directory to manifest of zap jar .
+add \' testruntime \' configuration to artifacts .
+added tag jdk8u201 - b76 for changeset 065b4b9247bd
+updated submodule to point to the branch with the additional stuff for the copy action
+remove win32 compiler flags from console io project ( already provided by parent cmakelists . txt )
+added tag jdk8u40 - b07 for changeset 2fa3858a281f
+update lint results to reflect reduced error / warning count [ skip ci ] .
+add color to \" scan the qr code \" in deviceaddfragment .
+added dbobjectcodec to dbobjectcodecprovider .
+smack 4 . 4 . 0 - rc2
+added tag jdk7 - b134 for changeset 554adcfb615e
+improve file watch documentation ( <issue_id> )
+provide more info about unknown text
+make synthetizedannotation public .
+delete temporary file after test
+remove @ visiblefortesting on public method .
+added tag jdk7 - b54 for changeset 946a9f0c4932
+create pull_request_template . md
+added tag jdk9 - b57 for changeset 155062c00bfa
+add words suggested by users
+updated xml_io . description
+pass back the exit code given by buck
+added ` bin ` and ` target ` directories to ` . hgignore ` .
+added tag jdk8u242 - b03 for changeset 2c0573615bbb
+added mangooio to . travis . yml
+hide orange map selection when multi - menu disappears
+add empty constructor
+update news
+removed tokenized option from french
+rename kubernetes test modules to match naming in container - image tests
+update blog post
+added tag jdk8 - b98 for changeset 3370fb6146e4
+set camera pointer to nil when stopping session in emulator ( <issue_id> )
+set dev .
+update changes . txt
+added issue template
+added tag jdk8 - b33 for changeset 78cea258caab
+added tag jdk8u60 - b20 for changeset 976523f1d562
+add travis badge
+remove redundant \' public \' modifier
+added translation using weblate ( swiss high german )
+added symbolic link of index . adoc
+updated play publisher .
+added tag jdk8u121 - b06 for changeset dc1dd2e6cf8e
+added tag jdk8u162 - b09 for changeset 139ffc3c6fef
+remove cron left overs
+remove unneeded direct library dependency , we already link to the crypto .
+add contrib directory for community contirbutions
+removing it for real this time !
+bump junit dependency to 4 . 11 for closure compiler .
+improve zan page style
+add graaljs to weekly .
+added tag jdk8u172 - b11 for changeset 4d038b84d113
+add github icon to toolbar
+remove parentheses of return type
+remove bash profile
+updated requiremavenversion in parent pom to 3 . 2 . 1
+remove whitespace after fine
+allow videos to occupy slightly more space
+bump role - strategy from 2 . 11 to 2 . 16 .
+added tag jdk8u66 - b08 for changeset 87cb8f939ec6
+ignore intellij project / workspace files .
+bump engine . io - client
+remove final field modification flag .
+remove unused import
+added translation using weblate ( portuguese )
+remove unnecessary @ rule .
+fix test : biginteger . longvalueexact added in 1 . 8 .
+update changes
+added tag jdk8 - b45 for changeset 07ad352154a8
+added tag jdk - 9 + 165 for changeset 1a28bb4f21ce
+add java8 to travis .
+added tag jdk8u252 - b00 for changeset 30768a181ad0
+added tag jdk8 - b02 for changeset c36bd96ae005
+added tag jdk8u172 - b33 for changeset e8745ad08d55
+add getter for debug component id .
+adding return tag info .
+added tag jdk8u102 - b12 for changeset fef62f7eb599
+added tag jdk7 - b88 for changeset ad4ae3f4ca67
+integrate latest jax - ws ( 2 . 1 . 6 ) in to jdk 6u14 .
+skip \" all \" shell script
+add final to plainsaslservercallbackhandlertest
+added tag jdk8 - b70 for changeset 08e2eaa7999a
+add makefile to setup glide
+exclude rxjava . properties in android library
+added tag jdk8 - b25 for changeset b832ef83f076
+remove flag and compiler option now that the uses have been cleaned up . . piperorigin - revid : 310417333
+remove lenience because it useless now
+removed my junit location : ) .
+add setter for exceptiontranslator <issue_id>
+add xsp installation inside mono installation
+added tag jdk7 - b34 for changeset 5d6b06900843
+added newline .
+add padding to conversation activity to compensate for actionbar overlay mode .
+remove nodejs dependency
+bumped transfuse - bootstrap to non - snapshot
+added tag jdk8u102 - b10 for changeset 7a11148c41b8
+rename html - plain to html ( plain ) ( <issue_id> ) .
+reverted accidental project name change in . project .
+updating docs
+added tag jdk - 9 + 134 for changeset 6929cdb3e1c5
+added tag jdk8u162 - b38 for changeset 405800ccc4c7
+added tag hs25 . 40 - b08 for changeset 3f1b3f2dd1cb
+fix two more errors in jspxml . dtd , found by validating the file in eclipse ide . . 1 .
+disable the testgraphhandler . java class for maven unit tests as it is .
+added tag jdk - 9 + 107 for changeset 1632bf7a3665
+update travis . yml
+add server info
+added tag jdk8u5 - b08 for changeset 9c3d7d1a7039
+added translation using weblate ( flemish )
+added tag jdk7 - b55 for changeset aea0ace7a1e4
+added tag jdk8u66 - b14 for changeset 94b6e3ddc193
+added tag jdk8 - b06 for changeset 45c43dde7ba7
+add myself to the mit list ( <issue_id> ) .
+adds packageprefixes . java to the translator makefile . . change on 2015 / 09 / 22 by kstanger < kstanger @ google . com > .
+added tag jdk8u65 - b05 for changeset 5476dd40852d
+remove redundant ignore .
+fix drop - while doc string , ref : clj - 953 .
+added extension to the list of modules to build
+remove comma in test file since it invalidates group util tests
+added tag jdk8u201 - b26 for changeset a55558a5e910
+added tag jdk - 11 + 15 for changeset a11c1cb542bb
+remove test annotation for testperfbenchmarkdriver .
+rename contract to contracttype
+update mybatis
+removed one superfluous line from last commit .
+add hg tip changeset to build image .
+added tag jdk - 9 + 120 for changeset 933054343640
+ignore querytest . test_query_match ( )
+added tag jdk8u112 - b15 for changeset bfb88850a367
+updating link
+added 5 new biomes as included in mc 1 . 1 as part of <issue_id> ukkit - 496
+remove unused splitpane
+added tag jdk9 - b36 for changeset c8713652410a
+enter new wiki page in correct properties file .
+fix some remarks / forget to push this file .
+bump dependency on neo4j - browser .
+added tag jdk7 - b39 for changeset 628049ac53ed
+added tag jdk7 - b79 for changeset e9c98378f6b9
+update lint results to reflect reduced error / warning count [ skip ci ]
+add missing commons - compress dep for excel module .
+added tag jdk - 9 + 110 for changeset 2bc58b5e99d3
+add index on creation time for secret contents .
+add key parameters .
+added setname ( ) to column api
+remove the intermittent keyword from sun / security / krb5 / auto / unreachable . java .
+update dependency com . microsoft . azure : azure - documentdb to v2 . 4 . 5 .
+adjust bug ranks .
+set english as the default for entitymentionsannotator if the no - args constructor is called
+added tag jdk8u11 - b31 for changeset 13f04650aa09
+update the branch number to 1 . 4
+added tag jdk8 - b58 for changeset cac4c3937063
+add docs infrastructure script .
+updated fml : .
+added tag jdk8u60 - b11 for changeset f6f2d944a863
+updated changes
+updated old link
+added pom . xml
+added tag jdk8 - b57 for changeset 61be07ec4655
+added tag jdk8u172 - b02 for changeset 989188d1a978
+cancel stest task tmp , due to many pr are pending
+smack 4 . 3 . 0 - alpha1 - snapshot
+make new node - shared futures in mrtask local init .
+added tag jdk8u162 - b38 for changeset b550fa84ffc9
+update proposal
+update change log
+added tag jdk - 9 + 112 for changeset 5531985950c0
+added tag jdk - 12 + 14 for changeset 6f04692c7d51
+ignored bin in experimental
+adding begla as author on this file since he touched it !
+need better solution to inform user that changing agilebi connection is not permitted .
+remove wait in hello - world - parallel bbe
+added o_dsync reserved word , introduced in ios 13 . 2 sdk . . piperorigin - revid : 324116956
+ignore hsenv & cabal - dev
+added tag jdk7 - b114 for changeset e4e7408cdc5b
+added tag jdk - 9 + 132 for changeset bdadcb4724d1
+add tests for new functions in <issue_id>
+remove traccar from templates
+remove unnecessary seednode resources config .
+removing the jai license and reverting jar_usage . txt .
+update multiwords . txt
+update changes , add entry for upsert - by - query support
+keep line numbers within r8 .
+enable sdf testpairwithindexwindowedtimestampedbounded in spark structured streaming runner .
+add hello message timestamp
+updated fml : .
+add athenz - identity - provider - service in parent cmakelists . txt
+turn off fixed rate scheduling in opengl .
+made integer ?
+reset fee
+initialize selfuser from token verification
+add submodule to user manual
+bump picocli to 4 . 0 . 1
+added tag jdk8u11 - b12 for changeset 838183af6d70
+add labeler workflow for prs
+remove useless local var .
+removed log class
+add nodegroup property for ease of use
+bump micronaut - servlet to 1 . 0 . 0 . rc2 ( <issue_id> ) .
+add multiprocess espresso to projects . conf
+add jpkorjar protocol port
+throw exception when trying to seek to negative address
+added tag jdk7 - b99 for changeset 3aeed58228be
+add deprovisioned state
+added tag jdk8 - b55 for changeset b5d27d05eea2
+add teltonika test case
+added tag jdk8 - b04 for changeset acbcadef0b21
+add autovalue module
+added tag jdk8u20 - b19 for changeset 38548d32c91c
+remove critical info dump .
+updated submodule refs
+update changes . txt for r958129 .
+add procps package to debian9 docker file as it is needed for our core unit tests to run correctly ( needs pgrep )
+remove unused import . . r6176
+set blockallnetworktrafficchaostype to enabled in config
+set driver heartbeat timestamp to - 1 on clean shutdown so driver can be restarted without having to wait on the driver timeout .
+fix test compilation
+added tag jdk7 - b109 for changeset 81dfc728d7bb
+added tag jdk8 - b58 for changeset 17beb247c83a
+remove unused import .
+add targetcompatibility to 1 . 7
+removed unnecessary logging
+set visitspreadfragments to true
+added tag jdk9 - b60 for changeset b45086ad81ed
+improved exception handling
+added tag jdk8u121 - b10 for changeset 23970322bf06
+added one field more to cycle table .
+removed unnecessary invocation of ethernet . maintain ( ) .
+read transifex password from file
+preserve blank lines in . properties files .
+added tag jdk8u222 - b01 for changeset 7fe2cda84af1
+added tag jdk8u112 - b14 for changeset d2d8b67021a0
+bump mysql from 1 . 12 . 4 to 1 . 12 . 5 .
+added tag jdk9 - b21 for changeset 28dd0c7beb3c
+added tag hs24 - b02 for changeset 6cf227da58e6
+remove reference to python - preprocessing in the documentation .
+add - lpam when linking pam_google_authenticator module to fix undefined symbol problem .
+added tag jdk9 - b34 for changeset 72d2793e397a
+added tag jdk8u75 - b10 for changeset bab68ab3df71
+added tag jdk9 - b78 for changeset d014abca53b7
+expose generic list < integer > .
+added tag jdk8 - b84 for changeset 999cc1bf5520
+added tag jdk8u272 - b02 for changeset cf78b728ecca
+disable javadoc lints ( missing @ return , . . . ) .
+add temporary workaround for running desktop build
+ignore docs . tar in git
+added tag jdk8u20 - b11 for changeset 7ad480b982bf
+add changes entry for copy to fix .
+removed env specific detail
+missing break : )
+add words suggested by users
+build fix
+add tostring
+revert submodule changes
+added description of roundrobin
+remove unecessary spaces
+accept review suggestions .
+added casejsrinst to instswitch for jsr support in baf
+add configuration to ignore pr checklist in description
+added console bundle to build
+bump jose4j from 0 . 7 . 0 to 0 . 7 . 1 .
+bump junit from 4 . 13 to 4 . 13 . 1 ( <issue_id> ) .
+add patreon link
+add liquibase to dependabot for automatic upgrades
+add module
+increment the build value to b05 for hs25 . 31 in 8u31 - b08 .
+remove dirname .
+prevent an internal compiler error when serializing typescript - style \" interface \" expressions . . - - - - - - - - - - - - - .
+add package org . drools . core . concurrent in the osgi import package section
+deploy test
+include message history in stacktraces from error handler , making it easier to know where the problem was .
+expose constructor for projectjointransposerule ( minji kim )
+enable stapler telemetry
+added tag jdk9 - b16 for changeset f75464f610f6
+adding dispatcher servlet to the code
+implement size method for vector class .
+remove an unnecessary method call
+remove option to disable console
+added tag jdk8u191 - b09 for changeset 2fbd39f7ce39
+add utf - 8 encoding to build . gradle in buildsrc / .
+bump mysql - binlog - connector
+added tag jdk8 - b35 for changeset dc30e060f828
+replaced derpy tabs with spaces
+bump ant to 1 . 10 . 5
+added tag jdk7 - b69 for changeset ce9bcdcb7859
+added tag jdk8u202 - b00 for changeset 1c0a59cee0e4
+improve formfield . resetvalues ( ) .
+removed todo comment
+revert \" temporarily disabling events checking in git_master \" .
+update news re : environment pane refresh
+enable running tests in travis ci .
+fix bug : in redissonnodeconfig constructor with oldconf , miss mapreduceworkers value set
+bump okhttp from 3 . 14 . 4 to 3 . 14 . 5 .
+remove jitpack from buildscript
+adding support for org . mongodb . usesocket system property to gradle build
+added tag jdk8u282 - b05 for changeset 3dc822949ac0
+added tag jdk8u51 - b02 for changeset 2078bad2444c
+investigate xml . tostring ( ) behavior with null jsonobject values
+updated gradle .
+added tag jdk8u181 - b07 for changeset 9582f56dddd1
+bump postgresql from 42 . 2 . 5 to 42 . 2 . 8 .
+ignore vagrant / bin / * . pyc
+added tag jdk9 - b83 for changeset 6bb586652ad8
+add submodule
+modernizing the docs pom ( <issue_id> ) .
+added tag jdk8u31 - b11 for changeset 7e2056eba0b6
+removes @ override onnewintent .
+remove unused boneid variable in modelnode
+fix some jenkins build issues ( elastic / elasticsearch <issue_id> ) .
+remove bottom padding from gist file name text view
+added tag jdk8 - b24 for changeset 6c9d21ca92c4
+add nonargconstructortest to suite
+updated change list .
+bump micronaut - data to 1 . 1 . 1 ( <issue_id> ) .
+rename method
+ignore ds_store files
+add \' clustering \' to the list of non - reserved keywords ( cql3 )
+fixing some linter errors in buck . . summary : mostly are to do with nullables . .
+added tag jdk8u60 - b08 for changeset 0785e45b19c8
+added tag jdk8u252 - b03 for changeset 9099e882f08e
+added tag jdk7 - b51 for changeset c00902c9cfbf
+make solverscope field final
+fix the missing \" fi \" highlight
+added tag jdk7 - b117 for changeset 3e6726bbf80a
+add project - name to make tests pass
+added more words to spelling . txt
+added tag jdk8 - b13 for changeset 8f6f084a8666
+added tag jdk8 - b123 for changeset a345cf28faca
+add student domain class
+added tag jdk8u262 - b10 for changeset 1c6e1f187fdc
+added tag jdk - 10 + 22 for changeset 23c02a1b49ee
+enables generation of artifacts for ui - android - text .
+actually fixing the os . remove error . . .
+set apc . enable_cli = 1 .
+debug bundles are empty .
+add meiligao decoder unit test
+removing jdk 6 , adding jdk 8 .
+add gradle ignores
+added tag jdk8 - b27 for changeset 96028882c1dc
+remove compiled cppsp pages during \" make clean \"
+ignore quarkus . log
+added tag jdk8u65 - b04 for changeset 8c449f659e13
+ignore autogenerated database files by h2 .
+bump parent pom ( <issue_id> )
+add johnktims to developers
+added tag jdk8 - b32 for changeset ddfe5562f61f
+excluded produced artifact from the dependencies so not included in the \' optional \' dir
+added tag jdk7 - b137 for changeset e7ad21289bd4
+bump postgresql from 1 . 12 . 3 to 1 . 12 . 4 .
+develop 0 . 3 . 0 - snapshot .
+fixed bug discovered by findbugs .
+start new dev cycle ( 2 . 2 . 4 - snapshot )
+remove unused import
+give runit_histograms more time .
+add preinstall dependencies of jdisc_http_service to vespa rpm
+add proguardfiles configuration to modulesexample / app project ( <issue_id> ) .
+added tag hs25 . 60 - b22 for changeset ff8fdeb2fb6d
+smack 4 . 0 . 2 - snapshot
+bump maven - shade - plugin to 3 . 2 . 0
+added tag jdk8 - b81 for changeset 2a00aeeb466b
+delete hbase daemon logs as part of ` mvn clean ` .
+ignore eclipse files
+added tag jdk9 - b52 for changeset d6224d602145
+removed another copy / paste nonsense
+resize fix again : )
+added tag jdk7 - b69 for changeset 1b662b1ed14e
+disable warnings in protobuf . .
+fixed string . contains ( ) return with empty string . . change on 2014 / 01 / 31 by tball < tball @ google . com > .
+add the shutdown function to the docs ( <issue_id> )
+updated gradle . properties
+remove catalogname from tablehandle tostring .
+added tag jdk8u111 - b04 for changeset 65029655928a
+add check for redundant initializers
+bump micronaut - flyway to 2 . 0 . 0 . m3 ( <issue_id> ) .
+bump micronaut - servlet to 2 . 0 . 3 ( <issue_id> )
+decreased the margin in the header since the gap was too big .
+added tag jdk8u252 - b04 for changeset 6383ac7b39e4
+add dependency on slf4j to humio registry .
+set skipassembly for fastinstall
+added tag jdk7 - b57 for changeset 4030cc469205
+added tag jdk8u40 - b00 for changeset 31d43d250c83
+add unit test
+relax peerdependencies .
+add stuart in contributor section
+added missing jettyversion variable to build . gradle .
+added tag jdk8u20 - b11 for changeset ce4e5885a110
+add google download statistics
+added tag jdk8u242 - b06 for changeset 751146fda042
+remove funny import
+update boot
+renamed lottiesample to sample - compose ( <issue_id> )
+added tag jdk8u172 - b35 for changeset da93fac3ac5f
+replaced test - setup . sh shebang to use / bin / bash .
+added tag jdk8 - b115 for changeset 8d07115924b7
+added tag jdk - 9 + 106 for changeset 148bb1cd62e5
+add newline to remove compiler warning . . as some projects treat warnings as errors .
+remove unused code .
+remove infinite loop typo
+standardize packages in spring - 5 module
+added tag jdk8u201 - b06 for changeset 6ee551349735
+added translation using weblate ( lithuanian )
+added tag jdk8 - b38 for changeset ac1ba3b56775
+add rewritebatchedstatements = true to mysql jdbc driver config
+update news
+bump kotlin_version in / apidemos / kotlin ( <issue_id> ) .
+added tag jdk7 - b117 for changeset 0c40f3078aa3
+added link to featured - in .
+update changes
+added lkraz to contributors .
+remove annotationprocessoroptions . includecompileclasspath from docs - fake project .
+adding ossmetadata for netflixoss tracking
+running opera specs should consider the \' log \' env var . . r13923
+add \' isgroup \' column to pk of project_permissions table .
+added tag jdk9 - b85 for changeset 80d007ca651f
+added tag jdk7 - b29 for changeset 4f91c08b3e44
+accepted suggestion note by @ iluwatar
+revert debug true command
+added default goal .
+added tag jdk8u102 - b12 for changeset 16c58d7af5a4
+added tag jdk8u262 - b06 for changeset ddbd85633843
+added \" home office \" to multiwords . txt
+remove graylog2 - rest - client git submodule
+add sponsor button to repository
+add \" meta - inf / services / java . util . spi . toolprovider \" entry .
+remove extra traling space .
+added tag jdk - 9 + 166 for changeset 7f959abfee57
+add method for extra
+bump junit from 4 . 12 to 4 . 13 . 1 in / redisson - spring - data .
+make kafkaconnectorfactory constructor public
+remove extra - from maven arg
+added tag jdk8u265 - b01 for changeset e0342245812a
+have output for valid configuration .
+remove unnecessary case block ( same as default )
+disable remote execution / caching for android_ndk_integration_test . .
+add google ( ) to the list of public repos . .
+updated changes
+remove invalid empty line
+added tag jdk8u141 - b11 for changeset 620749a305c5
+bump jakarta . servlet - api from 4 . 0 . 3 to 4 . 0 . 4 .
+add - use option to javadoc
+added module to bindings pom . xml
+adding identity method
+bump maven - assembly - plugin from 3 . 1 . 1 to 3 . 2 . 0
+added tag jdk9 - b03 for changeset 0ce00b83a208
+added tag jdk8 - b69 for changeset 0798861b8903
+added tag jdk8 - b102 for changeset c7cc39696829
+add method to check for existance of ndk
+added tag jdk8u265 - b00 for changeset 66699ff7f013
+added xctest to avoid \" empty test suite \" tap warning .
+organize imports
+added missing wait for yellow to indices recovery rest test
+deleted extra newline
+added tag jdk8u171 - b02 for changeset 28f638905f78
+add the reason code
+bump archetype - packaging from 3 . 0 . 1 to 3 . 1 . 0 ( <issue_id> ) .
+reset the dex class to file map when the classpath changes ( fixes <issue_id> )
+added tag jdk8u20 - b22 for changeset 0c2393744b29
+remove backwards compatibility
+use new style filter tree .
+modify gettype ( )
+add batchtcp_tests to flakytests tests ( ignore it on ci by default )
+added tag jdk8 - b16 for changeset 4e06ae613e99
+require project to be built by openjdk v6 on ci .
+build performance improvement in local profile
+update lint results to reflect reduced error / warning count [ skip ci ]
+exclude stress / thrift from jacoco .
+added tag jdk8u272 - b06 for changeset 4546aa3faf37
+modify makefile
+add ignore for jre . tgz on linux
+added tag jdk - 9 + 141 for changeset 2770f176df66
+added tag jdk8u101 - b05 for changeset a347853dbf17
+added tag jdk9 - b13 for changeset 9bd83c6b1976
+added tag jdk8u76 - b05 for changeset b31ba749a22e
+adding words suggested by users
+update lint results to reflect reduced error / warning count [ skip ci ]
+added missing dependency to mapml module build
+add explanatory comment to pr if ga workflow gets cancelled
+disable pi tests again , damn build was taking hours .
+add dependency to markdown mode
+add snapshot dependency trigger
+added tag jdk - 9 + 180 for changeset c3e45a079573
+bump junit from 4 . 4 to 4 . 13 . 1 in / angel - ps / graph .
+remove dup shebang .
+add additional test case .
+added tag jdk8u60 - b14 for changeset a136ed2f3041
+added tag jdk8u11 - b09 for changeset 390084098df7
+adding webkitvisibilitystate to webkit document externs . . whitepaper : http : / / code . google . com / chrome / whitepapers / pagevisibility . html .
+exclude sun . nio . ch . directbuffer from animal - sniffer check
+removing generator service
+added events creation rights to the cluster controller role
+adding kaushik to contributors list
+added tag jdk - 10 + 20 for changeset 18d3353ab1e3
+added tag jdk8u272 - b07 for changeset 52516d7a2504
+add pes plugin to the plugin page .
+remove mention of libmysql - java .
+add rocketmq - prometheus exporter
+add global spelling
+update picasso
+add jj to riveting .
+add anonymoususerrole to proxy config ( <issue_id> )
+added tag jdk8u60 - b26 for changeset 58791cd01bc9
+added tag jdk7 - b57 for changeset e4851e9f7be2
+added tag jdk8u172 - b36 for changeset 010852525831
+added tag jdk9 - b57 for changeset ac0dca163b36
+publish jars also
+added tag jdk8 - b100 for changeset 598321c438b5
+added tag jdk7 - b134 for changeset 918003855fa0
+improve bycssselector # tostring .
+bump micronaut - micrometer to 3 . 1 . 0 ( <issue_id> )
+print the output in groups . py script
+removed * . class from . hgignore
+added tag jdk8u181 - b05 for changeset a3d84a257447
+added tag jdk - 15 + 18 for changeset 44aef192b488
+adding null check when widget provider changed is received as it can come .
+add coherency \' unbeknown / st \' .
+added tag jdk8 - b02 for changeset 31e253c1da42
+added maven plugin for gradle
+build sdk tarball before running installgcptest task
+created media data source as the data source abstract class
+update space between paragraph left & right
+added profile to skip tests
+bump micronaut - mqtt to 1 . 0 . 0 ( <issue_id> )
+remove shallow clone
+updated fml : .
+add more file_extensions ( <issue_id> )
+add assertion
+emit change when deleting from store
+improve name
+added tag jdk7 - b132 for changeset abe04c59a556
+added tag jdk8 - b116 for changeset 0fb1a427fbf6
+added tag jdk8u60 - b13 for changeset 3628ab9fdbc0
+extend pause time of testopenintargetframe . html for slow ff tests . . r2994
+remove override stopufs in localtachyoncluster
+tell idea to shutup about static access to instances .
+remove old discord notification [ ci skip ]
+added tag jdk8u161 - b00 for changeset af48981bdd47
+added tag jdk8u75 - b03 for changeset 2a292503c557
+added tag jdk8u122 - b00 for changeset 18eb73eb84c5
+updated description
+add mysql8 to test suite
+added tag jdk7 - b135 for changeset bf9507aab301
+make launcher3 privileged module .
+added tag jdk8 - b65 for changeset 3afebf1aaea2
+remove unused settings .
+remove unnecessary tabulate dependency .
+put back integration test , update plugin should have wandered over to ibiblio by now .
+changed back the dependencies to trunk versions .
+remove reports folder
+add gronsak as creator for . net standard 1 . 3
+add recordings directory to file_paths . xml for sharing recordings in ( <issue_id> ) .
+remove accidental data file copy in manifestentry . copy .
+solves issue 273 , script can now pick up env var java_home
+added tag jdk7 - b105 for changeset 6709c14587c2
+exclude * . class
+automated merge with http : / / hg . netbeans . org / main - golden
+remove empty loop
+revert part of https : / / github . com / droolsjbpm / drools / commit / <issue_id>
+update rel notes
+added tag jdk7 - b63 for changeset 602c27ff78bc
+added tag hs24 - b11 for changeset 100019c94f7c
+added tag jdk8 - b126 for changeset a9088d517f2f
+added tag jdk8u66 - b13 for changeset d0c6921ee6c8
+added tag jdk8 - b113 for changeset 9261f342aa73
+added tag jdk8 - b38 for changeset 5bbe0cb6f2f2
+run ci with jdk14
+added tag jdk8u51 - b31 for changeset 58f6ddf5d59f
+added tag jdk8u201 - b77 for changeset e4daab85ac15
+create googleac7fc8966e85a28f . html
+added tag jdk8u242 - b03 for changeset 616095b698d1
+added tag jdk7 - b104 for changeset 83e5347f5988
+add global spelling
+removed org . gradle . daemon setting .
+update dependency org . apache . ignite : ignite - core to v2 . 7 . 5 ( <issue_id> )
+added tag jdk7 - b47 for changeset fcb923bad68e
+added tag jdk8u131 - b09 for changeset 2f2c4931d13c
+added tag jdk8u161 - b04 for changeset 17507635a86d
+remove unused member mappedfieldtype # indexanalyzer .
+remove swagger configuration from web . xml and move it to zeppelinserver
+added tag jdk7 - b117 for changeset fa3a454c72a6
+added tag jdk8 - b54 for changeset e0b1a72b7a91
+ignore backup files
+reduce proguard obfuscation
+remove sysout in test
+add entitymanagerfactory to exportpolicy dao constructor in dao factory
+added tag jdk7 - b143 for changeset 4a05062d8c4d
+remove java 7 + only api call and replace it with java 6 equivalent .
+add missing listener methods . . r13033
+added tag jdk7 - b40 for changeset 81a0cbe3b284
+set animation to null when clear animation
+added helper script to sign releases .
+remove incorrect use of generics in non - generified method call
+ignore bin directory .
+added tag jdk9 - b23 for changeset 4bc08677eca7
+added net . openhft . chronicle . queue . batch . batchappendernative
+updated tokens to 0 . 3 . 2 - snapshot .
+updated cache settings
+bump micronaut - graphql to 2 . 1 . 0 ( <issue_id> )
+added tag jdk8u192 - b04 for changeset 7031ed34a604
+fix comments
+added tag jdk8u252 - b08 for changeset 8f2780b3e4fa
+introduce pmd / category / java / bestpractices . xml / missingoverride rule
+remove comment
+remove unused background for selection in grid_sync_item .
+avoid travis java options env variable to mess with - xmx
+ignore gedit droppings
+update dependency io . franzbecker : gradle - lombok to v3 . 3 . 0 .
+bump transactions - jdbc from 5 . 0 . 7 to 5 . 0 . 8 .
+removed console . log ( ) from selectionflower example
+added tag jdk8u45 - b04 for changeset 47292f3c0da7
+disable api checks in flatfoot - dev branch . . bug : 36069458 .
+disable lint on searchbar
+modify the consumption bandwidth policy
+added tag jdk8 - b07 for changeset 2b6c60642ad8
+added tag jdk8u242 - b01 for changeset 3a911ec83c7e
+bump jbosh to 0 . 8 . 0
+fixes the junit_java target . . change on 2013 / 11 / 28 by kstanger < kstanger @ google . com > .
+bump micronaut - kubernetes to 2 . 1 . 0 ( <issue_id> )
+add javadoc to method
+added tag jdk7 - b121 for changeset 1bf969e9792f
+delete obsolete comment in rowmappertests .
+added tag jdk8u152 - b09 for changeset ca6375d1a8b2
+trying android with travis
+add missing clauses to the buck query grammar description . . test plan : .
+add blank line .
+added translation using weblate ( chinese ( simplified ) )
+added tag jdk7 - b67 for changeset c4523c6f8204
+building 4 . 6 runtime requires 4 . 5 antlr mvn plugin
+adding neo4j sample
+added tag jdk9 - b63 for changeset fe75ee04f0d5
+update dependency com . nexmo : client to v5 . 1 . 0
+added tag jdk7 - b95 for changeset 654298d26561
+added tag jdk7 - b35 for changeset cf4894b78ceb
+remove unuse code
+remove redundant assignment
+remove value from general record template .
+added tag jdk8 - b18 for changeset 7669801cfef1
+added tag jdk7 - b130 for changeset 8924242a88c8
+fix the animation duration issue . . test : local .
+added tag jdk7 - b36 for changeset 700ccd6abff4
+missed messages . properties
+added tag jdk8 - b44 for changeset e4f81a817447
+remove import of removed view .
+added tag jdk8u92 - b34 for changeset d0388be32561
+remove indentation .
+added tag jdk8u262 - b03 for changeset 545fe7caa2fb
+added tag jdk8u272 - b01 for changeset 2f117c583973
+create owners file . . test : na .
+added tag jdk9 - b07 for changeset 8c109399a3da
+deploy test
+ignore lib / ext .
+bump sphinx from 3 . 3 . 0 to 3 . 3 . 1 in / docs ( <issue_id> ) .
+add files via upload
+added tag jdk8 - b93 for changeset 2c5a568ee36e
+add filemode to directory bin
+added tag jdk7 - b133 for changeset 1b3a350709e4
+added tag jdk8u66 - b02 for changeset dc132a110960
+remove unused import .
+added tag jdk8 - b16 for changeset 3b5651ae449e
+added tag jdk - 9 + 126 for changeset c2c8f6b847e5
+add missing words
+disable tests till dataflow containers are updated .
+added relative path to the parent pom so that the user won \' t need to .
+removed gap b / w labels of more prefs and the following ones
+migrate java proto map getter from get < field > to get < field > map .
+add java home path
+move the cpucoresensortest to the right package for tests
+bump postgresql from 42 . 2 . 2 to 42 . 2 . 4 .
+ignore jdk . internal objects for jacoco reports .
+removed link to roboto fonts .
+add hg tip changeset to build image .
+ignore netbeans \' catalog . xml
+added tag jdk9 - b83 for changeset 52b527d01e88
+added tag jdk7 - b79 for changeset e7616c247414
+added more words to spelling . txt
+resolve <issue_id> : batch sql doesn \' t error out
+added tag jdk8u192 - b04 for changeset fefb283a1b80
+reset file
+added tag jdk - 9 + 103 for changeset f04501964016
+ignore target directory .
+reduce the tests jvm heap size to 1g
+added tag jdk8u91 - b14 for changeset fa8991ccf6e5
+add missing title
+include the copying file in the ruby gem .
+bump joda time to 2 . 10 . 2 ( <issue_id> )
+add missing file after branch merge
+update travis
+added tag jdk8u31 - b31 for changeset 34a64e22b81b
+added more words to added . txt
+added tag jdk - 9 + 115 for changeset 5daa5fbad3ce
+updated meta .
+added tag jdk8 - b50 for changeset b2d8a270f5f2
+include stdexcept to get declaration of std : : runtime_error .
+added tag jdk8u76 - b11 for changeset df2dcefb08f9
+use empty relativepath .
+remove button dividers in bottom action bar
+add streams within services example to examples . txt
+added tag jdk8u101 - b07 for changeset 313c90baea02
+include localization for jenkins .
+added tag jdk8u102 - b04 for changeset 626d8fa7a1bf
+bump netty - all from 4 . 1 . 49 . final to 4 . 1 . 50 . final .
+added tag jdk8 - b98 for changeset ce5a90df517b
+need java8 , apparently
+removed redundant final from reset id matcher
+added tag jdk8u51 - b00 for changeset b22b01407a81
+make cassandraserver constructor public .
+added tag jdk8u31 - b13 for changeset 1fbdd5d80d06
+added tag jdk8u60 - b06 for changeset 587b01196646
+fixes small cli bug introduced by cassandra - 3865
+added actorregistry . hasglobalregistry
+fix broken max / min pane buttons
+remove unused member .
+enable soft autocommit in default solr config .
+added tag jdk - 9 + 116 for changeset f0cb22ad8db4
+added tag jdk8u262 - b06 for changeset de6565b66f94
+avoid memory leaks by removing callbacks from surface when simpleexoplayer is released . .
+incorporated nicolas \' https : / / github . com / jenkinsci / winstone / pull / 13
+fork every few tests to avoid oom
+write demo code
+added tag jdk9 - b90 for changeset e3fb1c8b2f41
+ignore project configuration files for netbeans
+added tag jdk8u152 - b05 for changeset cdb7d9454d25
+added tag jdk8 - b46 for changeset 30141e598d72
+added tag jdk8 - b96 for changeset 51ef92228b23
+fix the wrong timestamp used for sync on fetch data
+add phrase
+remove redundant \' srcs \' from watir - atoms build rule . . r12139
+update findbugs results to reflect reduced error / warning count [ skip ci ] .
+added tag jdk8 - b93 for changeset 2567cad1138a
+solve dependency problem to pmd - core
+reset the ui_state_overview statusbar / navbar flag when recentsview resets bug : 135383592 am : 0a8243d463 .
+added tag jdk8u172 - b04 for changeset d7f51a2cb3fa
+added openjdk14
+reverted addition of junit - dependency
+added tag jdk8u40 - b04 for changeset cde557bc48f5
+added tag jdk8u252 - b00 for changeset 8c0733543544
+reduce the screen shake generated by salvos ( <issue_id> ) .
+modified the test in the benchmark_profile .
+bump hazelcast from 4 . 0 to 4 . 0 . 2 ( <issue_id> ) .
+disable wicket example for now .
+removed version_code from gradle . properties .
+bump micronaut - gcp to 2 . 0 . 2 ( <issue_id> )
+bind match data before executing feature executor .
+added tag jdk9 - b92 for changeset 59fdb1bb8199
+added tag jdk - 9 + 113 for changeset 6bf2bef08a91
+add wikidata tests to extensions / build . xml
+added tag jdk8u242 - b01 for changeset 6e9f5f2c620a
+updated pom
+reduce visibility .
+removed redundant warning suppressionn
+reorder maven repos so google is first .
+added tag jdk8u222 - b06 for changeset dfe2ef52003c
+added tag jdk8u60 - b05 for changeset 13a5799e90e9
+remove velocity . log file .
+add doc annotation for endpoint
+implement tostring for hll
+create jenkinsfile
+added tag jdk8u72 - b13 for changeset 5b67278c6616
+added tag jdk8u121 - b01 for changeset 251a2493b185
+add license .
+remove chown , this is now handled elsewhere .
+updated maven - jar - plugin to 2 . 6
+create wikivoyage saved_articles_table in oncreate too
+add 5393 to changes . txt
+added tag jdk8u20 - b20 for changeset 4681b10c0c31
+added tag hs24 - b17 for changeset bc3545585f1d
+added blank link target
+update the usage of waitallforsafestate
+create security . md .
+added tag jdk9 - b60 for changeset 79641c886929
+add tmp / ignore for git
+added tag jdk8u162 - b01 for changeset 9986bf97a48d
+execute tests in forked jvm
+set slider to be clickable by default . .
+removed unwanted system . out .
+added tag jdk8u20 - b20 for changeset aca1d25d1081
+added tag jdk8u272 - b09 for changeset 77b682e2d679
+added tag jdk8u171 - b05 for changeset 863ef3413aa4
+added tag jdk - 9 + 166 for changeset 20678b3390a0
+add maven arg to skip vscode tests
+add google maven address to fix trivis build failed
+added tag jdk7 - b36 for changeset 3ebe122b58a9
+add phrases
+bumped kotlin .
+use centos6 pandoc binaries on opensuse
+added tag jdk9 - b66 for changeset a3ea54d69bd0
+added tag hs17 - b10 for changeset 418bc80ce139
+fix bug
+add gettransactioninfo case
+updated module - info . . signed - off - by : santiago pericas - geertsen < santiago . pericasgeertsen @ oracle . com >
+remove final modifier on options class .
+bump byte - buddy from 1 . 9 . 14 to 1 . 9 . 15 ( <issue_id> ) .
+delete custom . md
+simplify the definition of node . replacewith .
+added comment
+add deprecation marker
+add new file in ts axios samples
+bump unboundid - ldapsdk from 4 . 0 . 11 to 4 . 0 . 12 .
+removing an extra div ( <issue_id> ) .
+ignore eclipse / . settings directory
+added tag jdk7 - b79 for changeset 20aeeb517139
+added tag jdk9 - b58 for changeset 0be5c0da08ef
+added tag jdk8u152 - b01 for changeset f47b61665c6f
+added word
+remove unnecessary write .
+added tag jdk8u121 - b31 for changeset 058d4ecd7b16
+serialize the compilation of the two tests to reduce memory consumption .
+add missing mechanism - too - weak sasl error
+add branch \' 0 . 46 \' to travis ci builds
+added tag jdk8u242 - b03 for changeset 89f67ddac3c9
+fix an issue when iterating over node positions .
+specify toolwindow icon in plugin . xml .
+added tag jdk8u275 - ga for changeset 69c56445e05a
+added tag jdk8 - b56 for changeset 363e9198b9de
+retry build
+added tag jdk7 - b40 for changeset 2201dad60231
+added tag jdk9 - b63 for changeset 3564e7eeaead
+bump ant to 1 . 10 . 7
+added tag jdk7 - b146 for changeset 1051d91efcc2
+remove debug spacing
+increase right nav margin to toolbar width
+follow up fix to windows build
+added tag jdk7 - b91 for changeset cdc146f667c7
+remove stale comment
+update package name of demo
+update elasticsearch to 1 . 6 . 2
+disable lint checks for demo
+remove futile call .
+added tag jdk - 13 + 26 for changeset 0692b67f5462
+added tag jdk7 - b53 for changeset d14d2d3caaf1
+bump junit - jupiter from 5 . 4 . 1 to 5 . 4 . 2 ( <issue_id> ) .
+making travis to assembledebuggingappdebug instead of building since google - service doesn \' t exists except in that build .
+added remaining forward ref . . change on 2013 / 09 / 10 by tball < tball @ google . com > .
+include asciistream in implementation only .
+added tag jdk8 - b58 for changeset 63e6a7c76188
+exclude camundajar path from clirr check .
+added tag hs25 - b38 for changeset 5fa5cb572ab6
+delete deletable . java
+add vang ( sailing term )
+added tag jdk8u112 - b16 for changeset 8ef3cc2bbc7d
+update dependency com . nimbusds : nimbus - jose - jwt to v7 . 3 ( <issue_id> )
+remove space from community metrics pre - commit job name
+add missing ld ( ) method
+enable dependabot v2 .
+added tag jdk8 - b36 for changeset 50b4400ca1ec
+updated base image
+added tag jdk - 14 + 23 for changeset 15936b142f86
+update android sdks
+fixed broken cfn init config
+added tag jdk8u92 - b14 for changeset 4f06a20cdc59
+add mike to the authors file .
+add title attribute for iframe to suppress accessibility errors ( <issue_id> )
+updated fml : .
+added tag jdk8u232 - b09 for changeset 6b9f309807a2
+add top level visibility to appserver
+disable email notifications .
+adding todo for better return
+update ui trace - tree ( <issue_id> )
+added tag jdk7 - b87 for changeset 40e99ec5ee66
+added configuration for spock - specs report
+removed unnecessary blank line
+allow \" heimwehr \"
+configure test script
+added an assembly .
+suppress ace to upper / lower case ( conflict with yank shortcut )
+prepare next development iteration .
+added tag jdk8u40 - b04 for changeset fd4dbaff3002
+provide default empty value for auth - token
+make metrics . more public ( fixes <issue_id> )
+added tag jdk8u92 - b34 for changeset 283147c5fcc5
+add @ jdk . exported to com . sun . jarsigner apis .
+add allowsexternalplayback to video for ios
+removed stale static variable
+revert r1361430 : the method can not be deprecated , .
+added tag jdk - 9 + 142 for changeset 81d196a50ed9
+adjust timeout when awaiting the cnc file of sufficient length .
+add testtextimporter class to the makefile .
+require jdk 9 + for tenant - base .
+ignore gnu global tag files at the root
+added tag jdk - 9 + 130 for changeset 86902ef5ff79
+added tag jdk8u272 - b01 for changeset 38d13ac335fe
+add the goog . module per - file checks to the linter .
+update v6 list ( <issue_id> ) .
+added tag jdk - 10 + 11 for changeset 4bc3aabebb15
+introduce pmd / category / java / errorprone . xml / missingstaticmethodinnoninstantiatableclass rule
+update extractor
+added build to . cvsignore .
+organize imports .
+remove ip address validation
+removing transactional - scope
+bump appassembler - maven - plugin from 2 . 0 . 0 to 2 . 1 . 0 ( <issue_id> ) .
+create recipes
+added tag jdk - 9 + 101 for changeset e5bebbbe0a34
+update travis sdk
+deploy test
+removed comment on the configurability of the output handler - no real need , given postprocessors exist
+add new travis steps
+ignore test - output from testng
+added tag jdk8u191 - b02 for changeset 2db6890a9567
+added tag jdk9 - b47 for changeset dd8e62bad498
+add - parameters flag to the compiler
+remove testproviderleak . java from the problemlist .
+added regular font weight
+remove assertion .
+replace word \" project \" with \" module \" to avoid confusion in grade setup instructions
+eliminate eclipse warnings
+do not postinstall disabled extensions .
+add override
+update news
+added tag jdk8 - b54 for changeset 7c6aa31ff1b2
+added todo for perf test
+remove exception logging
+remove double slash from license header
+added getserveraddress to singlechannelmongoclient
+added \' hu \' to supported locales
+added tag jdk7 - b74 for changeset 1a66b08deed0
+added tag jdk8u121 - b01 for changeset ab5d32d8cf5f
+ignore sha1 file
+add empty source file to fix compose runtime tests runner . .
+update travis config
+add jj to bourgeois ( fixes <issue_id> )
+added tag jdk9 - b26 for changeset 3a55fad9854a
+remove unused file
+smack 4 . 2 . 0 - beta2 - snapshot
+udpated the read me
+updated fml : .
+add @ tsloughter to erlang tech committee
+bump postgresql from 42 . 2 . 8 to 42 . 2 . 9 ( <issue_id> ) .
+add eclipse plugin to build . gradle . .
+added tag jdk8 - b90 for changeset 1a8b44cae081
+add getter for view to basebottomsheetitem
+added tag jdk - 9 + 172 for changeset ec60e7df88cd
+remove misleading comment
+added tag jdk7 - b127 for changeset c532d6dbc8d1
+added the shutdown command to the service provider .
+updating markup for newline characters
+added tag jdk8u162 - b08 for changeset 0397256c7d63
+remove unnecessary call to iter ( )
+added tag jdk8u232 - b06 for changeset be814fbd44e0
+renamed column time to logtime in mucconversationlog .
+added tag jdk8u252 - ga for changeset b012193ff452
+added tag jdk8u66 - b12 for changeset 2bdd08a9cc8c
+add braindeath island
+update dependency com . squareup . okhttp3 : okhttp to v4 . 3 . 1 ( <issue_id> )
+added tag jdk - 10 + 2 for changeset 79784fb4211e
+added tag jdk8u112 - b07 for changeset 7ebdc1fa55fa
+updated ucore
+adding gbrandt , ajaspal to acl .
+pass github token
+mention class name in documentation
+remove < input / > tag .
+added tag jdk - 9 + 131 for changeset 1ca743d80734
+bump mockito - core from 3 . 4 . 6 to 3 . 5 . 2 .
+removed superfluous @ suppresswarnings
+added tag jdk8u92 - b14 for changeset c99c71a68555
+update crate - sql - plugin to 0 . 1 . 0
+ignore os x . ds_store files
+setting ss high by default . .
+added tag jdk8u192 - b05 for changeset 806cb57c2b08
+added tag jdk8 - b86 for changeset 6ab578e141df
+remove comment
+update xsoup to 0 . 2 . 1 <issue_id>
+made grace period work for muc as well
+skip auth setup if allowallauthenticator is used
+make public
+remove codenarc warnings ( take 2 )
+added tag jdk9 - b76 for changeset 6a88e481dff2
+update docs
+remove nns from \' pulling \'
+use dyld_fallback_library_path rather than dyld_library_path .
+add logo
+bump error_prone_annotations from 2 . 3 . 3 to 2 . 4 . 0 .
+remove agent_onattach from vmruntimestateagent .
+remove no longer used code .
+prevent thread leaks due to deallocator prestarting threads
+added tag jdk8u31 - b05 for changeset 97de4d73edf1
+added tag jdk8u11 - b31 for changeset c79def3415b9
+added tag jdk8 - b112 for changeset d0f3600edd98
+update latin names
+added tag jdk - 13 + 14 for changeset 46cf212cdcca
+suppress onclose test case on api 23 or before .
+added tag jdk8u40 - b26 for changeset 97f258823d7d
+add tools menu to loading menu in desktop
+updated dependency
+added last committed changes .
+remove custom template .
+add compatibility supports
+added tag jdk - 10 + 7 for changeset 0eb9c6043275
+added tag jdk8u102 - b06 for changeset c8f5925b8ec9
+implemented default ocontext
+update dutch activity
+added tag jdk8u72 - b14 for changeset 1a523f4b8cc7
+kill some log noise .
+added tag jdk8u242 - b07 for changeset 8ca5f59e3042
+remove unneeded suppresswarnings
+missing java type .
+updated changes . txt
+closing the connector after removing it from the thread local , so that even if it throws an exception the connector is un - pinned from the thread
+added war / assets and war / com .
+add right - pad to custom dictionary list
+added tag jdk8u20 - b00 for changeset 1a28f773c894
+updated pom with de - de translation goal .
+added tag jdk8 - b11 for changeset 541e4b0cf4f9
+added tag jdk8u202 - b02 for changeset e8555da505ce
+added tag jdk8u262 - b05 for changeset 4789a6a01301
+set zeebe_gateway_cluster_host in start - up script .
+added tag jdk7 - b103 for changeset cb4250ef73b2
+update the bct library to 1 . 6 . 2 . . pickup the changes in the bytecode - compatibility - transformer for .
+set target to api level 8 ( froyo )
+configure jacoco to support jdk9 +
+improve github action name ( see <issue_id> )
+handle gc_arrayletobjectmodel in legacy blob files .
+added tag jdk8 - b39 for changeset 679d89b6a21a
+removed static from shared hazelcast instance
+added param documentation .
+added tag jdk8u121 - b06 for changeset f98001da328f
+bump netty - handler from 4 . 1 . 44 . final to 4 . 1 . 45 . final .
+explaining unused function .
+added tag jdk8u60 - b06 for changeset 74dbdbcb6aac
+fix the bug of type error when calling set_to_default_values ( ) in python interface
+make sleeper public
+added tag jdk7 - b100 for changeset 6bca2bbbf1f3
+prohibit \' elementartteilchen \' ( note the extra t )
+add newline
+added tag jdk7 - b33 for changeset 58918025243a
+added tag jdk8u51 - b02 for changeset 8f03c2f5fc17
+added tag jdk8 - b104 for changeset 42211ab0ab1c
+revert \" updated changes \" .
+added tag jdk - 9 + 155 for changeset 220ab62f260a
+added tag jdk7 - b85 for changeset 5751e91f963a
+fix new artifactid for wagon aether
+bump pusher - java - client from 2 . 2 . 1 to 2 . 2 . 3 .
+added requirement_gpu . txt
+align stack
+added splash screen for linux
+bump zt - exec from 1 . 10 to 1 . 12 in / core ( <issue_id> ) .
+delete test file .
+bump postgresql from 1 . 13 . 0 to 1 . 14 . 1 .
+simplify test for android_home
+added tag jdk8u192 - b08 for changeset 8f51ed70d933
+add id to jmslistenerendpoint docs .
+remove warning
+disable revapi in 4 . 0 .
+added tag jdk7 - b117 for changeset be017e4765f7
+added tag jdk8 - b43 for changeset e77b8e0ed1f8
+bump javaparser - core from 3 . 15 . 14 to 3 . 15 . 15 in / core .
+added tag jdk8u65 - b17 for changeset df0218bcade3
+added tag jdk8u172 - b34 for changeset fbb5a1798b86
+added compound
+add testcompile dependency to core .
+remove unused import
+ignore new asset folder
+define the goals for releaseing explicitly
+added getter for floattexturedata . buffer
+add test case
+added tag jdk8u172 - b37 for changeset 25b4e9a6bf41
+remove extra space in jsc_invalid_closure_call_error error message . . piperorigin - revid : 313500178
+fix broken markdown headings
+add android : allowbackup = \" false \"
+allow j9 tools to build on openjdk7 .
+add new wiki page .
+added tag jdk8u275 - b00 for changeset 65ff5c46b9ac
+added tag jdk - 10 + 22 for changeset 647709236722
+added tag jdk8 - b93 for changeset 3ea33579af2b
+removes extra mvn test ( included in install anyway )
+fix the problems about circleci
+disabling jacoco by default
+add latest_consume_resource in account proto
+fixed bug in serial . available ( ) causing it to return incorrect values when the head wrapped around .
+added tag jdk8u181 - b03 for changeset 5a4d3a71aa5f
+create issue_template . md
+added tag jdk8u11 - b02 for changeset 152d1b91e5c5
+added tag jdk8u152 - b04 for changeset 65ec92c434b6
+bump micronaut - graphql to 2 . 2 . 0 ( <issue_id> )
+added tag jdk8u252 - b03 for changeset 91381cf36ea4
+remove unnecessary attributes of statetransfercreatesendtime and receiverqueue from cluster manager template . .
+ensure key provider returns unique key for each item
+added tag jdk8u192 - b26 for changeset b08cb2197601
+set git clone depth to 1 in travis ( <issue_id> ) .
+fixed the property name .
+fix broken template directory for deprecated lang ( <issue_id> )
+added basic description of the \" recycler \" parameter in the ` _cache / clear ` api
+fix test
+added tag jdk7 - b25 for changeset 58039502942e
+prepare next development iteration .
+added tag jdk8u201 - b75 for changeset 112dfb97c1e4
+added github ci to repository .
+shuts down cluster manager in backuphait , tries to fix port in use errors
+added tag jdk8 - b39 for changeset 8c8235b1fcb6
+restore - dev suffix post tag .
+updated fml : .
+use our instance method to ensure we are reflecting the underlying availability of the action bar .
+set theme jekyll - theme - cayman
+adjust forward declaration in fbench .
+remove mention of groovy - 6226 ( configure eclipse plugin ) now that the issue is closed
+remove redundant dependency .
+added tag jdk8u212 - b02 for changeset 8b263aef666d
+added tag jdk8u131 - b08 for changeset 1b95863322e4
+adding generation of dyanmically linked lib .
+provide parens for clarity .
+added tag jdk8u282 - b00 for changeset b974f43a589f
+exclude bigquerytotableit tests from direct runner
+added tag jdk7 - b62 for changeset 301dcd5c88d0
+make filterutil in presto - main public
+remove typo
+remove worst = = 0 option from priorities , reason <issue_id>
+added tag jdk7 - b114 for changeset fec780096b1f
+add parallel execution for gradle build ( <issue_id> )
+polish the building guide .
+add tws ( hong kong server ) to server . json ( <issue_id> ) .
+write the junk as soon as we are ready
+add openshift bbe to index . js
+deploying travis artifacts only for the linux build . .
+added tag jdk8u20 - b00 for changeset 0b4301c79225
+use the same stop
+added tag jdk8u51 - b00 for changeset 74aae7549ef8
+doc the change
+remove redundant test .
+fix broken docker images build on macos ( <issue_id> )
+added tag jdk8u252 - b06 for changeset ff8c2e73d641
+bump netty - codec - http from 4 . 1 . 39 . final to 4 . 1 . 41 . final .
+update class var modifiers
+improve error message .
+removed scenario from blacklist that actually works
+adjust performance expectations
+use double wildcard to match any tag
+added tag jdk8u60 - b10 for changeset 7aaa64363e1a
+added tag jdk8u151 - b09 for changeset 31fae3992629
+added tag hs25 - b28 for changeset cd2648ba846b
+restrict width of preview values
+bump logback to 1 . 2 . 3
+duplicate line in llap secretmanager ( sergey shelukhin , reviewed by siddharth seth )
+updated com . wizzardo : http to 0 . 3 ( <issue_id> ) .
+smh my head .
+removed nio . serialization package from findbugs excludes
+added an id to the execution phase
+updated fml
+reverting maven - surefire from 2 . 16 to 2 . 15 .
+added tag jdk7 - b55 for changeset c8b275d62d6b
+add back the call to load collector in edit page ( <issue_id> )
+bump jdbi3 - core from 3 . 15 . 1 to 3 . 16 . 0 ( <issue_id> ) .
+update test parameters
+updated dependency to use ldap core instead
+add japanese resources .
+bump annotations from 20 . 0 . 0 to 20 . 1 . 0 in / modules / nginx ( <issue_id> ) .
+added tag jdk - 9 + 171 for changeset e09145bcfcc5
+added tag jdk8u11 - b09 for changeset e973a591a218
+bump maven - jar - plugin to 3 . 1 . 2
+update news
+added the note from reference manual .
+added sample berkelydb properties file for titanserver .
+added tag jdk - 9 + 152 for changeset 88349d40f4e5
+started jcache configuration docs
+add json mime mapping to mime . properties .
+add spelling
+remove useless file
+added tag jdk8u66 - b14 for changeset 972d89655bab
+add proper validation for error
+apply autostyle to make spotbugs happy
+set theme jekyll - theme - architect
+added tag jdk8u20 - b10 for changeset e930c4fa3158
+enhance run_linus . sh to pass forward command line arguments .
+added tag jdk - 12 + 24 for changeset 7d4397b43fa3
+added tag jdk8u91 - b00 for changeset 6b0d1f04c480
+add spelling \' herbalism \' .
+add travis cache
+disable localization by config .
+disable some lint checks for litho - testing to not fail on unrelated jvm stuff .
+adding info on how to run the web tests .
+create spec . md
+added galician language asset
+added tag jdk8 - b113 for changeset 4a4dbcf7cb7d
+update parent pom .
+update lint results to reflect reduced error / warning count [ skip ci ]
+remove redundant ballerina . home system property
+added tag jdk - 9 + 101 for changeset f2b58023ac04
+added tag jdk8u11 - b10 for changeset d522ff5f5373
+added tag jdk - 14 + 2 for changeset 43627549a488
+removed mvnlocal
+trigger media scan after file upload .
+added tag jdk8 - b120 for changeset c11c4dbfeef6
+bump micronaut - rabbitmq to 2 . 0 . 0 . m1 ( <issue_id> ) .
+added tag jdk8u5 - b02 for changeset 7e7cb9977a3d
+add loaderviewlibrary for youtube skeleton effect .
+bump jaxb - jxc from 2 . 4 . 0 - b180830 . 0438 to 3 . 0 . 0 - m1 .
+add travis as ci environment
+added complete processor to assembly
+remove extra empty line
+fix serial_ * metadata in arduino ethernet variant
+adding custom proxy settings for build .
+updated reference to library
+added tag jdk - 12 + 33 for changeset b67884871b5f
+bump equalsverifier to 2 . 5 . 1
+use public inner class for reflection
+remove invalid modifier in chapterviewmodel . listener
+bump micronaut - sql to 2 . 3 . 3 ( <issue_id> ) .
+added support for sql server
+adjust forward declaration in vdslib .
+added tag jdk8u161 - b03 for changeset d9877e4e1f2b
+added tag jdk7 - b75 for changeset fcf2b8b5d606
+delete checksum temp file when no longer needed .
+added tag jdk8u77 - b00 for changeset 417ff12d11d6
+add kotlin module
+prepare next dev iteration
+added tag jdk8u71 - b04 for changeset 5ea62bb625b6
+removing the node from cache history when the animation is over
+updated ucore
+allow jdk 15 to fail : unstable jar task
+bump jackson - databind from 2 . 9 . 10 to 2 . 9 . 10 . 1 .
+added test case for rfe2891944 .
+bump junit from 4 . 12 to 4 . 13 . 1 in / parceler .
+add proguard rules for bundle
+added placeholder for spring boot documentation
+added tag jdk7 - b143 for changeset 1eab738591a7
+remove branch .
+add note about use of ant
+added querydsl - maven - plugin
+modify benchmark_config to include plaintext url
+revert oops , readers need to be synch too - misread field name .
+make @ cbeams / pricenode code owner
+added tag hs25 - b32 for changeset bc27a3d4b35f
+enable parallel build in travis
+added tracking of changes
+add codeowners file .
+added sparkapplication . destroy ( ) fixes <issue_id> . added default modifier to sparkapplication . destroy ( )
+remove unnecessary viewtype assignment in layoutparams
+added tag jdk8u20 - b19 for changeset beb64f6b1989
+bump verison to 4 . 23 . 2
+adding missing method for the ie driver .
+enable removeunusedvars for es8_modules featureset .
+extending the list of test owners .
+add @ value annotation to inject config
+made return of graphqlschema . getimplementations immutable
+added tag jdk7 - b93 for changeset ed71fb20ba0f
+deploying some more sources and test - sources .
+remove accidentally added license files ( <issue_id> ) .
+update version_name to 0 . 3 . 3 .
+added tag jdk8u141 - b14 for changeset 3a1543e089c3
+added tag jdk8u25 - b04 for changeset 220eefb3609e
+updated fml : .
+add sonarlint as an ignore
+update pom . xml
+added tag jdk - 9 + 168 for changeset f025861fefcd
+remove javadoc warning .
+added tag jdk - 9 + 175 for changeset 2b0b8cd704d4
+removed unused code
+added tag jdk8u121 - b33 for changeset e46b9b9c42fa
+added tag jdk - 9 + 138 for changeset d273dfe9a126
+add java9 module name for docs
+add the slf4j - jdk bridge to the integration tests .
+added tag jdk8u25 - b05 for changeset db8383148bc9
+added tag jdk7 - b125 for changeset ae40314fa64e
+bump micronaut - flyway to 2 . 0 . 0 . m2 ( <issue_id> ) .
+add todo
+remove travis configuration file .
+added tag jdk8u25 - b13 for changeset 0ebb9d8c3dd4
+ignores shell history files
+add codeclimate configuration file
+added tag jdk8u192 - b12 for changeset d70620db70e3
+added tag jdk7 - b123 for changeset 8de47554f105
+add where predicate assertion
+removed mention of maven build .
+remove unneeded public modifier .
+removed use of jelly_bean_mr1 so that the lib compiles with targetsdk = 16
+added tag jdk8u20 - b21 for changeset 693025bbc45d
+added tag jdk8 - b18 for changeset 54928c8850f5
+allow exceptions to propagate out of fold tasks clj - 1058 .
+added tag jdk8 - b11 for changeset 1c9f26d85678
+bump log4j - core from 2 . 11 . 0 to 2 . 11 . 2 .
+added tag jdk8u25 - b31 for changeset c3528699fb33
+added tag jdk8u262 - b08 for changeset 59b2de0b2c60
+add changes . txt for yarn - 2406 .
+added tag jdk8u252 - b04 for changeset 549e69222810
+added tag jdk9 - b15 for changeset 039c0ea8c5c6
+added tag jdk8u45 - b34 for changeset dc3c47fc6218
+ignoring failing tests in opera .
+added tag jdk8u101 - b13 for changeset 44e4e6cbe15b
+added tag jdk8 - b56 for changeset 35d8828b27fb
+fixed test timeout .
+remove unneccesary and missing ci android component ( <issue_id> )
+added tag jdk - 9 + 162 for changeset 6191bb6ebcbd
+add getter for validationerrors
+configure image for create pull request task .
+add forgotten dialog line
+remove settingdefault from preferences settings resources
+improved random generator
+remove mvn site for travis ci since it is too slow
+attaching javascript compression to the compile phase .
+remove unused fastlib dependency
+update lint results to reflect reduced error / warning count [ skip ci ]
+added tag jdk9 - b91 for changeset 58661e1ec098
+delete spaces
+add maven url for google support libraries
+disable daoexample
+added check for bash > 4 based on suggestion from @ tombentley .
+added tag jdk - 15 + 8 for changeset c7d4f2849dbf
+added tag jdk - 9 + 152 for changeset aa067a69215c
+added tag jdk8u51 - b09 for changeset 3a95f1e13da9
+bump jdbi3 - core from 3 . 14 . 0 to 3 . 14 . 1 ( <issue_id> ) .
+remove error
+revert \" upgrade maven - bundle - plugin to 2 . 5 . 4 \" .
+add old fcs name into repo description
+exclude pardotest from dataflow @ runnableonservice .
+added tag jdk7 - b48 for changeset bcb33806d186
+update dictionary
+remove unnecessary logging by start - docker script
+settings fix
+remove rotate ( angle , x , y , z ) from reference
+added tag jdk9 - b22 for changeset cf09dddb6caf
+deploy the upgrade info as an artifact .
+add test case for the \" json_mime ? \"
+rename sample to flow - sample .
+add windows env to shippable
+fixed small issue in benchmark script found during testing
+bump junit - jupiter - engine from 5 . 6 . 2 to 5 . 7 . 0 .
+improve delegatedresourcemessage
+added tag jdk8 - b91 for changeset 80b6c3172dc2
+added tag jdk8u76 - b01 for changeset 5786892e7c7d
+fix bug
+added tag jdk - 9 + 103 for changeset 24addcfeace8
+added tag jdk8u161 - b00 for changeset e9c7ecc5a9fc
+bump javaparser - core from 3 . 15 . 21 to 3 . 15 . 22 in / core .
+added tag jdk9 - b88 for changeset b543e47c74b1
+added translation using weblate ( crimean tatar )
+added tag jdk8u232 - b04 for changeset 3ef3348195ff
+update amazonsdk to v1 . 11 . 552 ( <issue_id> )
+add settings file .
+updated parent pom to include new pattern ( event - asynchronous )
+remove unneeded suppression .
+build tools downgraded
+added todo .
+added tag jdk8 - b29 for changeset 25099a745e1a
+add hard / rb .
+stop module .
+update dependency com . nimbusds : oauth2 - oidc - sdk to v6 . 18 . 1 .
+assign new turn in attachkeepleftinfoandlanes ( )
+update rel notes
+updated upstream ( bukkit ) .
+add \' lutanist \' to coherency
+updated fml : .
+added tag jdk8u161 - b10 for changeset 1a3e06fc462b
+add chinese language changes
+update news
+add fail - at - end flag
+remove deprecated sudo setting . .
+bump junit from 4 . 13 to 4 . 13 . 1 .
+added tag jdk8 - b68 for changeset 0447ec5a0e8c
+remove unnecessary space
+add nosonar to ignore exit .
+added tag jdk9 - b78 for changeset 5f6d9917598c
+added tag jdk8u161 - b03 for changeset fd289eecbf31
+removed verbose configuration for pitest .
+add support for jdk8 in travis
+added tag jdk - 10 + 2 for changeset bca2e295a93c
+removed c + + client from planned features
+add date
+adding intellij idea files
+add maven to the fw_depends for gemini
+ignored ide - specific and binary files .
+added tag jdk8 - b112 for changeset 0bbe54dca484
+removed obsolete global property \" require package html \" .
+updated fml : .
+ignore apk debug folder
+remove unused proguard files
+added tag jdk8u192 - b25 for changeset 940952a0d50f
+added tag jdk8 - b99 for changeset 830a3a26d45b
+added tag jdk8u262 - b09 for changeset cd7ed8c64805
+removed useless todo
+add description to pom
+removed existing content during each setcontentview .
+update dependency org . owasp : dependency - check - gradle to v5 . 2 . 4 .
+adjust cache getheader to prev .
+modifying routedstoretest to use consistent strategy
+add call stack doc
+added tag jdk9 - b64 for changeset 47d774ef3c19
+added tag jdk8 - b24 for changeset abbbbaf35c96
+added tag jdk8u201 - b74 for changeset 93019419c535
+bump mockito - core from 2 . 23 . 4 to 2 . 24 . 0 .
+add activiti - cloud - build as downstream to activiti - dependencies
+create funding . yml
+add protocolexception to restarting reason
+added tag jdk8u202 - ga for changeset 7aeae6eb6236
+add serviceloader definition for robouicontroller
+include 7 . 4 migration docs in 7 . x branch .
+remove alpha notice
+added tag jdk8u141 - b10 for changeset f284ef8d24c6
+enabling preference . multidex when usemaxdepversions is true .
+added tag jdk7 - b147 for changeset 58bc532d6341
+added tag jdk8u232 - b08 for changeset 7aea873d47e1
+added tag jdk - 10 + 1 for changeset 015723e36620
+added tag jdk - 9 + 96 for changeset 76214951eeab
+add openjdk7 as test .
+add the large value size as well .
+added tag jdk9 - b35 for changeset 906669fe9f2d
+added pdf plugin
+fixed bug it is not possible to login using two accounts in saml server .
+modify the reason code
+ignoring some local xcode files .
+add missing break to avoid switch fall - through
+add isopen
+added tag jdk8u201 - b03 for changeset 274162fd9a23
+added tag jdk8 - b71 for changeset f577a39c9fb3
+renamed setoptions to updateoptions
+added tag jdk8u171 - b11 for changeset 8b40342cb580
+ignoring tests that deadlocks in buildkite
+ensure no ongoing peer recovery in translog yaml test ( <issue_id> ) .
+add setpolymerexportpolicy to compileroptions api . . - - - - - - - - - - - - - .
+rename app to lottesample
+fixes the setup for initial speed only having value range
+caught throwable instead of exception
+add java 13 support .
+implement ability for provider to retreive repository id .
+updated dependencies .
+make eventual assertion in partitionservicesafetychecktest .
+added tag jdk8u51 - b04 for changeset 0b3f44955388
+see 10 / 28 log
+disable test - jar shading .
+added tag jdk - 9 + 141 for changeset 7259f8d1b31a
+adding interface for pluggable password hashing algorithms .
+ignore intellij idea files
+updating python bindings to use ms : edgeoptions for options to msedgedriver .
+added tag jdk8u262 - b02 for changeset 7fe6268fe876
+added tag jdk8 - b84 for changeset 7b4721e4edb4
+remove padding from . notes syyles
+add dummy property file for ukrainian tagger ( not used anyway )
+publish mockito 3 . 2 . 0 to maven central .
+bump sphinx from 2 . 3 . 1 to 2 . 4 . 0 in / docs ( <issue_id> ) .
+added proguard rule for cloudrail
+adding changes entry for commit f1c96b5 and baf36c4 .
+update parent pom
+added tag jdk8u66 - b17 for changeset fc348901e958
+make neo4j module support gradle caching ( <issue_id> )
+fixed bug in return value checking for @ nonnull and .
+start changes for 1 . 3
+added tag jdk - 9 + 162 for changeset 47ff6e3034d2
+restore default token labeled_stat in illegaltoken
+make signatureattribute . nestedclasstype public .
+updated license header file name
+bump kotlin_version from 1 . 4 . 0 to 1 . 4 . 10 in / snippets .
+added tag jdk8u152 - b32 for changeset 73ffe473564c
+add ignores for composer artifacts
+give more time to delay tck test
+declare use of dprintf .
+enabling text search on travis
+recover name of instant_uploads table
+added tag jdk8u40 - b03 for changeset 27bcab54f36a
+added tag jdk9 - b57 for changeset 4ada9ce756d0
+added tag jdk8u112 - b33 for changeset ad155bea4b3c
+update changes
+added tag jdk7 - b44 for changeset 9d204be2281a
+added tag jdk8 - b110 for changeset 6209b0ed51c0
+remove unused build / empty file ( <issue_id> ) .
+added tag jdk8 - b130 for changeset 4195c0956930
+added tag jdk8u31 - b12 for changeset f36c71a03e4e
+added tag jdk8u20 - b10 for changeset c356de7051ea
+add missing break for trx message
+remove the unmatch listener from the activation after it has been retracted
+add pidfile directive to redhat cassandra script .
+added tag jdk7 - b108 for changeset 17a5d84b7561
+update multiwords . txt
+added tag jdk9 - b63 for changeset b8951994eaee
+added tag jdk8u192 - b03 for changeset 1c0a59cee0e4
+adding stats for dataqueueproxy
+update dart permission
+remove and retag 8u141 - b12 tag from source repository .
+added tag jdk8u31 - b05 for changeset 6e56d7f1634f
+added tag jdk8u121 - b31 for changeset 351bf1d4ff9a
+added tag jdk8u152 - b09 for changeset 37e94d764d7b
+add adam hooper to the list of contributors for his work on lang - 955 .
+ignore logs
+remove redundant read of correlationid on client heartbeat .
+added tag jdk7 - b88 for changeset 0c79cc0b79fd
+added tag jdk8u51 - b01 for changeset 2e0732282470
+bumping rest - client .
+remove useless context
+add example access - control . properties
+added tag hs25 - b51 for changeset e446e24611f9
+removed unused import
+add jmhreport plugin to job .
+add <issue_id> to changes .
+updated upstream ( bukkit ) .
+updated source compatibility for more oss
+update ndk to r21b .
+add transport route
+supressing rawtypes warning in test class
+updated jdk used by travis
+disable pygments for github markdown .
+delete pom . properties
+bump maven - surefire - report - plugin from 2 . 21 . 0 to 2 . 22 . 2
+modify encrypt . yaml
+added tag jdk - 9 + 149 for changeset 3b5a2cf988d2
+added tag jdk7 - b72 for changeset 4c990aa99bc0
+rename test to testfile ( <issue_id> )
+add cleantest gradle task
+bump maven - clean - plugin from 2 . 5 to 3 . 1 . 0 .
+exclude license file in assemly jar .
+added tag jdk8u172 - b11 for changeset 257c09605def
+remove hack for closing pr .
+added module to parse job - executor . xml in pom . xml
+eliminate unused enquerefreshevent function
+add select_count_with_sub_with_whitespace for ms + dbtbl
+bump imageio - tiff from 3 . 6 to 3 . 6 . 1 .
+added tag jdk8u65 - b01 for changeset 31ceb15b19be
+fix the type of data payload for eventsource . onmessage .
+revert jcommander as after 1 . 72 some methods were removed
+changed the uri of the submodule repo
+update changes .
+added tag jdk8u121 - b00 for changeset 1a484cc1d2ed
+added tag jdk8u40 - b32 for changeset 8960bce00f1a
+added translation using weblate ( uyghur )
+added the missing period
+add proto : block witness address
+remove blanks .
+add new words to whitelist
+move \' request to legacy address \' down near the bottom of the menu .
+manage group
+add public_free_asset_net_limit
+bump commons - lang3 from 3 . 9 to 3 . 11 ( <issue_id> ) .
+updated todo
+bump mysql from 1 . 14 . 2 to 1 . 14 . 3 .
+removing appcompat library , fix satyan / sugar <issue_id>
+remove @ javax . annotation . generated annotation from jooq code
+exclude the build / and dist / folders created by ant builds
+make tasks with job - def .
+added libsox - dev to apt - get install line in order to resolve all dependencies .
+added tag jdk - 9 + 99 for changeset f9bcdce2df26
+make header and data separators always match
+add gradle . properties & enable parallel gradle build
+make @ ripcurlx , @ manfredkarrer / desktop code owners
+install missing dependencies ( <issue_id> ) .
+added tag jdk8u121 - b02 for changeset 33bf988e6f1a
+removing maven - model - converter .
+remove annoucement on bottomsheetdialog background am : b8fb1f844f am : 4a51d9cb21 am : b20cdb7b76 .
+added tag jdk9 - b88 for changeset 8e29cbfb0f15
+ignoring just added tests in marionette
+updated fml : .
+install api 23 on travis
+added tag jdk - 9 + 122 for changeset 29957ed01d97
+remove newline
+bump sphinx from 2 . 4 . 0 to 2 . 4 . 1 in / docs ( <issue_id> ) .
+added tag jdk8u66 - b16 for changeset 5f29f2da7993
+added tag jdk8u75 - b01 for changeset 06cdf5dc679e
+fix the test case
+added tag jdk8u40 - b21 for changeset 16485a38b6bc
+delete ppr algorithm , for more tests
+add getwrappedvalue to tensorfieldvalue . . to support generating concrete classes in vespa - documentgen - plugin .
+configure autoapproval plugin for dependabot .
+capitalize title for group provider
+added tag jdk7 - b116 for changeset 0141eb3aac61
+added tag jdk7 - b134 for changeset ddc2fcb3682f
+remove non - existant class .
+added apt profile to karaf daily build
+add type information to extern for screen .
+added tag jdk7 - b125 for changeset ad6f4daff46b
+add niall author tag .
+supressed getlevel method
+added tag jdk8u242 - b03 for changeset be3a6b2c7982
+added tag jdk7 - b62 for changeset 12e11fab9a83
+sets flag to show token credential input to false
+changed the name of the php - silex - orm test to be unique .
+make getter for bulk shard requests items visible ( <issue_id> )
+added tag jdk9 - b58 for changeset 88f08214516a
+added new sponsor
+add \" merge \" as yet another approval keyword
+remove plugin override , already in parent
+add pre no - wrap for markdown
+add jcheck configuration directories .
+disable minify for debug builds .
+add codecov settings
+delete blank line
+set widget notification default setting to never for minimum annoyingness .
+added tag jdk8u222 - b09 for changeset 81dd104fa959
+added tag jdk8u25 - b16 for changeset 28d7f90e04e4
+added tag jdk8u152 - b10 for changeset 39967c81d3f3
+add apache 2 . 0 license
+moved test to correct source tree .
+add annotation .
+declare bazel_repository_cache_test as large .
+update news
+make travis automatically cache maven directory ( <issue_id> )
+added tag hs22 - b05 for changeset 513a84dd0f8b
+introduce pmd / category / java / codestyle . xml / avoidprotectedmethodinfinalclassnotextending rule
+try out other oracle image .
+refresh travis . yml
+adding pdex . txt
+add guava
+allow rangeddateselectors with multiples ranges in different months to be shown correctly . . piperorigin - revid : 326054201
+added tag jdk8u40 - b19 for changeset d9349fa88223
+ignore this for now
+add junit dep
+updated changeglog
+added tag jdk - 9 + 132 for changeset a11ec8919fef
+try out travis \' irc notifications
+updated gradle from 1 . 3 . 0 to 1 . 3 . 1
+introduce tr_methodcalladdress to the relocation header size table .
+reset light count in lights ( )
+remove redundant no - arg constructor .
+add support for insert ignore from select in mysql mode
+added tag jdk8u51 - b31 for changeset 20bad8c6c7b4
+remove unnecessary multiplication in discoverinfo . hashcode ( )
+raise min sdk to kitkat because of missing objects . notnull ( )
+ignore local buck config
+added tag jdk9 - b05 for changeset dd311791ad68
+updated travis ci config .
+bump forbiddenapis from 2 . 6 to 2 . 7
+create new xymarkerview ( <issue_id> )
+removed dangling space
+missing header include
+added tag jdk8 - b107 for changeset f35e1255024b
+remove circular ref when finishing activity
+avoid spamming when scanning unreachable ipv6 addresses
+fix bug in reverse_dict in find_duplicate_classes_in_jars . py .
+align address columns left
+added tag jdk8 - b112 for changeset f002f5f3a16c
+wipe change notes from plugin . xml
+remove obsolete todo note
+remove ubuntu and debian from hosts that evergreen can use for builds , as mongod startup is timing out frequently on those platforms
+add todo item on reflections scanning on android in typeregistry
+added tag jdk7 - b68 for changeset bca2225b66d7
+added tag jdk9 - b02 for changeset 851ae056cca1
+added translation using weblate ( polish )
+ensure that the poller actions socket close requests asap .
+delete data from fts table when deleting message data
+add \' src / main / gen \' to sourceset .
+added tag jdk7 - b106 for changeset b91ef6b60f4e
+revert inadvertent project name change
+remove special build options for unpack200 executable .
+revert change of vocabulary constructor from pr <issue_id> to fix build error in cpp runtime test
+added tag jdk8u112 - b14 for changeset b353281f73db
+bump httpclient from 4 . 5 . 7 to 4 . 5 . 8 ( <issue_id> ) .
+adding brendan maguire to copyright . txt
+added tag jdk8 - b120 for changeset a1ee9743f4ee
+added tag jdk9 - b57 for changeset c75ff9ed0b4e
+add default export for rolesstore .
+add demo page english translations for ogr - wfs
+added tag jdk8u161 - b00 for changeset 32a01bf45f0f
+added tag jdk8u60 - b31 for changeset 1450696a76c6
+unignore the upload spec on travis
+introduce gradle - build system
+added tag jdk7 - b85 for changeset 3e4b803f1d22
+bump junit from 4 . 12 to 4 . 13 . 1 .
+remove bash_profile . sh from gorail
+removing code or files .
+set travis to jdk 9
+make builder constructor protected
+added tag jdk8 - b53 for changeset f7a4c716de5d
+disable testing conventions for idp in fips ( <issue_id> ) .
+removed download notice again
+updated rel notes
+updated play store description
+added tag jdk7 - b102 for changeset 15573625af97
+added tag jdk7 - b51 for changeset 2581d90c6c9b
+remove visibility attribute from / / third_party / def_parser : def_parser .
+add bunch - activity as [ demo ] tag - translate
+added tag jdk8 - b23 for changeset 11fa98675c2a
+added tag jdk8u40 - b33 for changeset 5b700e0c0047
+add arduinoisp . org programmer .
+set lower java starting heap size
+changed the range of the coverage .
+deleting unnecessary html fixture
+remove unnecessary call to recycle .
+remove querydsl - support
+added tag jdk8u131 - b34 for changeset 1f2c989772b2
+added tag jdk8 - b89 for changeset 845025546e35
+added tag jdk8u122 - b03 for changeset df2a2824284f
+remove jdk8 installable on aarch64 .
+removed append and execute .
+added tag jdk8u101 - b11 for changeset 0095e54dcaa1
+remove intermittent key from java / security / signedobject / chain . java .
+updated contributors file
+have buckstatusreporter to report build uuid .
+set lua cache to on
+add unstaged change
+added tag jdk8u192 - b25 for changeset fc43bdbb9cae
+update readmap
+add sql script needed for the transaction test case
+forgot something
+bump dropwizard - jackson from 1 . 3 . 15 to 1 . 3 . 16 .
+update pr analysis mode .
+remove unnecessary todo .
+added tag jdk7 - b145 for changeset 42bfba80beb7
+set maven mem to 3 . 1g in test - patch . properties .
+use more descriptive name
+ignore usesstatefulpardo tests in flink streaming runner
+build additional pro desktop platforms
+enable rtmp in external demo app with extensions .
+updated es upstream to fix flaky deallocatorstest
+added tag jdk7 - b31 for changeset 255d64ee287e
+added tag jdk8u172 - b31 for changeset f3185b46a35b
+added tag jdk8u272 - b07 for changeset 2d2435272ddd
+added translation using weblate ( belarusian ( latin ) )
+added todo
+added tag jdk8u65 - b04 for changeset 62625c423592
+removed unnecessary method override to silence pmd
+rename api and reference doc output dirs .
+added tag jdk9 - b71 for changeset cf6355e77564
+added tag jdk8 - b90 for changeset 69b773a221b9
+updated the service wrapper with windows fix
+added tag jdk9 - b02 for changeset fc0fe10fbee9
+compile appcompat with java 7 .
+include javadoc stub in ` system ` file template
+added tag hs25 - b49 for changeset 50794d8ac11c
+added tag jdk9 - b08 for changeset bf6b3c7f8f05
+added tag jdk8u112 - b12 for changeset f56f9368471a
+set lint warning for invalidpackage .
+add global spelling
+added tag jdk8u11 - b05 for changeset 65e5ee249ebc
+fix two selectors on child item
+build master branch
+add test scope to easymock ( scope in dependencymanagement doesn \' t work ) .
+added tag jdk8 - b49 for changeset 530f4983fc73
+bring back warnings
+create issue_template . md
+added tag jdk8u171 - b00 for changeset c18e76a70416
+added tag jdk8u262 - b07 for changeset 745caf348aee
+added translation using weblate ( german )
+materialize table not view ( <issue_id> )
+throw error on failed authorization .
+added tag jdk7 - b108 for changeset eed672dd8675
+added tag jdk8u5 - b13 for changeset a303ebb33851
+add g2eid to hidden fields
+update lint results to reflect reduced error / warning count [ skip ci ]
+set pool size to 1
+correct the location of the externs pom file as specified in build . bazel . . piperorigin - revid : 330522392
+disable dragdrop config option
+added tag jdk8 - b95 for changeset 1db35290f46d
+update news
+removed deltree .
+added tag jdk8u181 - b06 for changeset 076f5fd62588
+update killbill - oss - parent to 0 . 120 .
+update todo
+made mongoclienttestbase getters protected
+added tag jdk8u65 - b09 for changeset 45e0dbcb5059
+revert default behavior of \" back key \" to exiting application . . users were confused by having the default be \" esc \" .
+added shebang
+remove extra config
+add uh to \' ta \' .
+add base plugin to get clean tasks
+removing console spam
+bump jdbi3 - core from 3 . 12 . 0 to 3 . 12 . 2 .
+set correct max size for mega2560 ( to address issue <issue_id> ) .
+move all jdks to matrix
+disable test ( graal - 104 ) .
+added tag jdk8 - b108 for changeset 78407de2df2f
+ignore composer . phar
+fix the style
+added tag jdk8u161 - b06 for changeset d7901df6e2ea
+added tag jdk9 - b51 for changeset 2815ad059e8d
+added more words to added . txt
+added intellij generated files
+fix bug id in test for jdk - 8151018 .
+update changes for <issue_id>
+fix broken build .
+added tag jdk8u31 - b01 for changeset caebf6158e9d
+updated copyright years for ` license ` .
+added tag jdk9 - b47 for changeset 422ba63d8dda
+removes cat results directives
+add auth module dependency to the tests
+set minsdkversion to 15 .
+add author
+ignoring freemarkerrenderertest for now .
+added tag jdk8u122 - b03 for changeset 18bfe5da1f56
+added tag hs20 - b07 for changeset c2f2ee35ff81
+prepare next development iteration .
+reduce travis builds to master and pull requests ( <issue_id> )
+added tag jdk7 - b48 for changeset 1da7c5c8156d
+change some standalone editor defaults
+add vscode workspace config .
+remove unneed assignment in tablefilter . addnestedjoin ( )
+added tag jdk7 - b124 for changeset 0a8e0d4345b3
+added tag jdk8u232 - b08 for changeset 764618a906e8
+add openjdk 7 back to . travis . yml
+add dialog . onbackpressed ( )
+disable the flaky test_reload_classes tests while we can fix the flakes .
+ignore updatebugcollection .
+add reflib as submodule
+added tag hs24 - b02 for changeset 030b5306d60f
+added tag jdk8u40 - b10 for changeset 1f5248bc0714
+added eclipse support .
+set avcapturesessionpresethigh before capturing photo .
+mention error case improvement
+added tag jdk8u112 - b03 for changeset e87830f75678
+adding multiaccount_support property
+added tag jdk8 - b66 for changeset 01684f7fee1b
+speed up hostportwaitstrategytest expected failure
+added tag jdk - 9 + 147 for changeset 06c697759688
+remove printf debugging .
+add sourceencoding in maven config
+add copyright
+added tag jdk7 - b140 for changeset c0c0f0374f67
+added tag jdk8u92 - b33 for changeset d1bb0e79ff79
+added tag jdk8u31 - b32 for changeset 119f4ae3151f
+update java / maths / primefactorization . java
+add maven wrapper jar
+update findbugs results to reflect reduced error / warning count [ skip ci ] .
+added scripts to create heron - tools self extracting binary
+bump assertj - core from 3 . 18 . 0 to 3 . 18 . 1 .
+updated changes . md
+fix potential crash
+introduce pmd / category / java / performance . xml / bigintegerinstantiation rule
+specify jacoco xml file for coveralls
+add missing override .
+added tag jdk8u5 - b04 for changeset c200d6cb1840
+added tag jdk8u191 - b10 for changeset e2d809469547
+added rpm to dependencies installation for ubuntu .
+added lipidia .
+added tag 0 . 0 . 7 . 1 for changeset 6743b6bb8a38
+add jj to \' biweekly \' .
+added tag jdk7 - b82 for changeset 735cf3731da4
+make constructor of websocketendpoint public
+added tag jdk8u181 - b32 for changeset 019bb0c95d8e
+added tag jdk8u102 - b12 for changeset 57546b5b575d
+add cache entries to appveyor . yml . .
+remove volatile modifier from valuearray . componenttype
+bumped parent - pom - > 7 - rc5 .
+update st4 dep
+add global spelling
+add support for running tests on appveyour .
+add compojure plaintext test to benchmark_config
+deleted local file
+added tag jdk8 - b122 for changeset d3521d8e562a
+added tag jdk8u282 - b02 for changeset b255ce1748fd
+reset handler when close androidrealmnotifier
+added some exclusions for those working with the intellij ide
+bump hashicorp / setup - terraform from v1 . 2 . 1 to v1 . 3 . 1 .
+keep android gradle plugin in classpath for jacoco . . jacoco seems to rely on having android gradle plugin in the classpath .
+remove unnecessary @ value . parameter from abstractproducttype .
+added tag jdk8u232 - b02 for changeset 19908109cb37
+bump forbiddenapis from 3 . 0 . 1 to 3 . 1 .
+add spelling
+attaching javascript compression to the compile phase .
+deploying more artifacts .
+update dependency io . zeebe : flaky - test - extractor - maven - plugin to v2 . 0 . 1
+remove obsolete flush_index_buffer_size_in_mb config param .
+added todo items .
+added tag jdk8 - b87 for changeset b9415faa7066
+removing print statement that was left in from debugging .
+ignore all gen files
+adding change notice .
+add space after else statement .
+added more words to added . txt
+add missing parameters in combine_test . py gradle example
+deploy test
+added tag jdk8u45 - b37 for changeset a6665011c99f
+added flush ( ) call in copy ( pimage , . . . )
+add editorconfig file as per wiki .
+added tag jdk8 - b44 for changeset 59cbead12ff4
+update project to use supported android platform
+update xmlunit to 1 . 6
+update trojan to 1 . 16 . 0 .
+introduce github actions for the branch
+added tag jdk8u25 - b07 for changeset aad835b33337
+added tag jdk9 - b39 for changeset b2746ec1c520
+bump parent to 32
+adding sample migration file
+providing separate composite disposable to all presenters
+added tag jdk9 - b19 for changeset 26e23230009a
+added provider constructor to shadowlocation
+added tag jdk - 9 + 126 for changeset e2a569f3bb54
+added tag hs25 . 40 - b25 for changeset 0f0cb4eeab2d
+add tests
+added tag jdk8u191 - b03 for changeset 87c55122c89d
+add sample to examples . txt
+ignore rsandbox directories .
+add spring . provides for the hornetq starter .
+update my employer information .
+try link m2
+remove experimental_ios_test from allowed deps of objc_xcodeproj . . - - .
+fix bug
+add electron to lerna
+prepare next development iteration .
+add nullable to actor : : getname
+update the opensource config with new directory structure . . change on 2013 / 03 / 08 by kstanger < kstanger @ google . com > .
+added tag jdk7 - b32 for changeset 49e709107aec
+remove test call
+added tag jdk8u81 - b00 for changeset f6cc9dbb5db5
+added tag jdk8u172 - b02 for changeset 315185c9100a
+added tag jdk8u232 - b04 for changeset 9611ccdff5fe
+update dict
+added tag jdk8u102 - b10 for changeset 0b35a6329ffb
+bump junit from 4 . 12 to 4 . 13 . 1 in / frameworks / java / micronaut ( <issue_id> ) .
+enabled pdf locales
+added tag jdk7 - b39 for changeset 83ca2ddee2dd
+added tag jdk - 14 + 4 for changeset 19d0b382f086
+added tag jdk7 - b27 for changeset 5ca30a3c97e7
+remove caching of bc files .
+restore saved state across config changes .
+rename sethasservices ( ) to the more appropriate allowservices ( ) . . - - .
+add xchange - exx in core pom . xml
+include sources for all files in \' fat \' binary jar .
+revert https : / / github . com / bisq - network / bisq / pull / 3883 .
+added tag jdk8u112 - b08 for changeset f3d512b73229
+added tag jdk8u74 - b31 for changeset a5b78b56841e
+added tag jdk8u151 - b00 for changeset 072e084bceee
+make eventual assertion in partitionservicesafetychecktest .
+updated the google search scenario as the original text is no longer shown
+try simple @ build fix in compiler / jsr292 / pollutedtrapcounts . java .
+update brew installation instructions ( via <issue_id> )
+enable launcher3 as default home app .
+add isoccluded to floatingtextcomponent
+added kidoyo to community
+update dependency com . hazelcast : hazelcast - kubernetes to v1 . 5 . 2 .
+added tag jdk8u5 - b07 for changeset 46fa2940e686
+improve dgmconverter
+improved method to select value programatically - now it also will call chart listener .
+removed key value server from svn repository .
+increase map url column length
+added tag jdk8u72 - b07 for changeset 8045ef94fd11
+update agrona dep .
+fixed bug : empty folders are kept in device database when sucessfully removed
+increase the range of jdks that jaxb gets added into .
+remove unused gcsio class attribute .
+added tag hs17 - b07 for changeset 3003ddd1d433
+remove maxheapsize
+modify english document for example_orderly . md ( <issue_id> ) .
+added tag hs16 - b05 for changeset 32c83fb84370
+add txt files for zip
+tweak bug rank .
+added tag jdk8u75 - b01 for changeset 374719365422
+added tag jdk8u181 - b32 for changeset d679861a9a1e
+added tag jdk8u152 - b01 for changeset 072df97b6e2a
+bump maven - archetype - plugin from 3 . 1 . 1 to 3 . 1 . 2 ( <issue_id> ) .
+added tag jdk8 - b20 for changeset a0bd97631679
+added tag jdk9 - b85 for changeset 8392405ab038
+write format output to stdout
+added install . sh file
+prepare next development iteration .
+remove submodule init
+assume allnodesatleast21 until demonstrated otherwise ; see cassandra - 7161
+bumps spring - cloud - build to 3 . 0 . 1 - snapshot
+adding device metrics to chrome options for mobile emulation
+added tag jdk8u25 - b09 for changeset a09893b8f617
+smack 4 . 1 . 0 - rc5 - snapshot
+added translation using weblate ( croatian )
+removed coordinates
+added tag jdk7 - b87 for changeset 2cafbbe9825e
+added tag jdk8 - b66 for changeset bc221bce9150
+added invalidatemaster method to control that behaviour from outside .
